@@ -1,0 +1,41 @@
+{
+ "violet_in_global": [
+  {
+   "V10.2.6.0.PFHINXM": {
+    "file": "miui_VIOLETINGlobal_V10.2.6.0.PFHINXM_740e20a9f5_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.2.6.0.PFHINXM/miui_VIOLETINGlobal_V10.2.6.0.PFHINXM_740e20a9f5_9.0.zip"
+   }
+  },
+  {
+   "V10.2.7.0.PFHINXM": {
+    "file": "miui_VIOLETINGlobal_V10.2.7.0.PFHINXM_4c99677d51_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.2.7.0.PFHINXM/miui_VIOLETINGlobal_V10.2.7.0.PFHINXM_4c99677d51_9.0.zip"
+   }
+  },
+  {
+   "V10.2.8.0.PFHINXM": {
+    "file": "miui_VIOLETINGlobal_V10.2.8.0.PFHINXM_997265e49a_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.2.8.0.PFHINXM/miui_VIOLETINGlobal_V10.2.8.0.PFHINXM_997265e49a_9.0.zip"
+   }
+  },
+  {
+   "V10.2.10.0.PFHINXM": {
+    "file": "miui_VIOLETINGlobal_V10.2.10.0.PFHINXM_3788e2b1a6_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.2.10.0.PFHINXM/miui_VIOLETINGlobal_V10.2.10.0.PFHINXM_3788e2b1a6_9.0.zip"
+   }
+  },
+  {
+   "V10.3.5.0.PFHINXM": {
+    "file": "miui_VIOLETINGlobal_V10.3.5.0.PFHINXM_583cb2f6fe_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.5.0.PFHINXM/miui_VIOLETINGlobal_V10.3.5.0.PFHINXM_583cb2f6fe_9.0.zip"
+   }
+  },
+  {
+   "V10.3.7.0.PFHINXM": {
+    "file": "miui_VIOLETINGlobal_V10.3.7.0.PFHINXM_ce5c2d34d7_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.7.0.PFHINXM/miui_VIOLETINGlobal_V10.3.7.0.PFHINXM_ce5c2d34d7_9.0.zip"
+   }
+  },
+  "V10.3.9.0.PFHINXM"
+ ]
+}

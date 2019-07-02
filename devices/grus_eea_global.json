@@ -1,0 +1,24 @@
+{
+ "grus_eea_global": [
+  {
+   "V10.2.3.0.PFBEUXM": {
+    "file": "miui_GRUSEEAGlobal_V10.2.3.0.PFBEUXM_e9501746e2_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.2.3.0.PFBEUXM/miui_GRUSEEAGlobal_V10.2.3.0.PFBEUXM_e9501746e2_9.0.zip"
+   }
+  },
+  {
+   "V10.2.5.0.PFBEUXM": {
+    "file": "miui_GRUSEEAGlobal_V10.2.5.0.PFBEUXM_16141f0824_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.2.5.0.PFBEUXM/miui_GRUSEEAGlobal_V10.2.5.0.PFBEUXM_16141f0824_9.0.zip"
+   }
+  },
+  "V10.2.1.0.PFBEUSF",
+  {
+   "V10.2.9.0.PFBEUXM": {
+    "file": "miui_GRUSEEAGlobal_V10.2.9.0.PFBEUXM_432d8a9116_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.2.9.0.PFBEUXM/miui_GRUSEEAGlobal_V10.2.9.0.PFBEUXM_432d8a9116_9.0.zip"
+   }
+  },
+  "V10.3.1.0.PFBEUXM"
+ ]
+}

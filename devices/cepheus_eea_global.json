@@ -1,0 +1,44 @@
+{
+ "cepheus_eea_global": [
+  {
+   "V10.2.12.0.PFAEUXM": {
+    "file": "miui_CEPHEUSEEAGlobal_V10.2.12.0.PFAEUXM_57ad5f1d24_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.2.12.0.PFAEUXM/miui_CEPHEUSEEAGlobal_V10.2.12.0.PFAEUXM_57ad5f1d24_9.0.zip"
+   }
+  },
+  {
+   "V10.2.15.0.PFAEUXM": {
+    "file": "miui_CEPHEUSEEAGlobal_V10.2.15.0.PFAEUXM_8b6fe7f1be_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.2.15.0.PFAEUXM/miui_CEPHEUSEEAGlobal_V10.2.15.0.PFAEUXM_8b6fe7f1be_9.0.zip"
+   }
+  },
+  "V10.2.5.0.PFAEUVF",
+  "V10.2.3.0.PFAEUHG",
+  {
+   "V10.2.17.0.PFAEUXM": {
+    "file": "miui_CEPHEUSEEAGlobal_V10.2.17.0.PFAEUXM_53263ccd41_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.2.17.0.PFAEUXM/miui_CEPHEUSEEAGlobal_V10.2.17.0.PFAEUXM_53263ccd41_9.0.zip"
+   }
+  },
+  "V10.2.4.0.PFAEUHG",
+  {
+   "V10.2.22.0.PFAEUXM": {
+    "file": "miui_CEPHEUSEEAGlobal_V10.2.22.0.PFAEUXM_745a374eee_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.2.22.0.PFAEUXM/miui_CEPHEUSEEAGlobal_V10.2.22.0.PFAEUXM_745a374eee_9.0.zip"
+   }
+  },
+  "V10.2.6.0.PFAEUVF",
+  {
+   "V10.2.24.0.PFAEUXM": {
+    "file": "miui_CEPHEUSEEAGlobal_V10.2.24.0.PFAEUXM_ed43f053ab_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.2.24.0.PFAEUXM/miui_CEPHEUSEEAGlobal_V10.2.24.0.PFAEUXM_ed43f053ab_9.0.zip"
+   }
+  },
+  {
+   "V10.2.26.0.PFAEUXM": {
+    "file": "miui_CEPHEUSEEAGlobal_V10.2.26.0.PFAEUXM_4f78480317_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.2.26.0.PFAEUXM/miui_CEPHEUSEEAGlobal_V10.2.26.0.PFAEUXM_4f78480317_9.0.zip"
+   }
+  }
+ ]
+}

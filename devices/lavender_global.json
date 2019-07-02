@@ -1,0 +1,29 @@
+{
+ "lavender_global": [
+  "V10.2.6.0.PFGMIXM",
+  {
+   "V10.2.7.0.PFGMIXM": {
+    "file": "miui_LAVENDERGlobal_V10.2.7.0.PFGMIXM_b4667cdac6_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.2.7.0.PFGMIXM/miui_LAVENDERGlobal_V10.2.7.0.PFGMIXM_b4667cdac6_9.0.zip"
+   }
+  },
+  {
+   "V10.2.8.0.PFGMIXM": {
+    "file": "miui_LAVENDERGlobal_V10.2.8.0.PFGMIXM_1302dff043_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.2.8.0.PFGMIXM/miui_LAVENDERGlobal_V10.2.8.0.PFGMIXM_1302dff043_9.0.zip"
+   }
+  },
+  {
+   "V10.3.5.0.PFGMIXM": {
+    "file": "miui_LAVENDERGlobal_V10.3.5.0.PFGMIXM_a5cabeca22_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.5.0.PFGMIXM/miui_LAVENDERGlobal_V10.3.5.0.PFGMIXM_a5cabeca22_9.0.zip"
+   }
+  },
+  {
+   "V10.3.6.0.PFGMIXM": {
+    "file": "miui_LAVENDERGlobal_V10.3.6.0.PFGMIXM_8c74282d30_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.6.0.PFGMIXM/miui_LAVENDERGlobal_V10.3.6.0.PFGMIXM_8c74282d30_9.0.zip"
+   }
+  }
+ ]
+}

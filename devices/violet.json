@@ -1,0 +1,30 @@
+{
+ "violet": [
+  {
+   "V10.2.5.0.PFHCNXM": {
+    "file": "miui_VIOLET_V10.2.5.0.PFHCNXM_6b8f26446b_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.2.5.0.PFHCNXM/miui_VIOLET_V10.2.5.0.PFHCNXM_6b8f26446b_9.0.zip"
+   }
+  },
+  {
+   "V10.2.6.0.PFHCNXM": {
+    "file": "miui_VIOLET_V10.2.6.0.PFHCNXM_58a985074b_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.2.6.0.PFHCNXM/miui_VIOLET_V10.2.6.0.PFHCNXM_58a985074b_9.0.zip"
+   }
+  },
+  {
+   "V10.2.8.0.PFHCNXM": {
+    "file": "miui_VIOLET_V10.2.8.0.PFHCNXM_b7cc19ccd8_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.2.8.0.PFHCNXM/miui_VIOLET_V10.2.8.0.PFHCNXM_b7cc19ccd8_9.0.zip"
+   }
+  },
+  {
+   "V10.3.5.0.PFHCNXM": {
+    "file": "miui_VIOLET_V10.3.5.0.PFHCNXM_4bdf98d05f_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.5.0.PFHCNXM/miui_VIOLET_V10.3.5.0.PFHCNXM_4bdf98d05f_9.0.zip"
+   }
+  },
+  "V10.3.6.0.PFHCNXM",
+  "V10.3.8.0.PFHCNXM"
+ ]
+}

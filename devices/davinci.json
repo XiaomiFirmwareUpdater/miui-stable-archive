@@ -1,0 +1,28 @@
+{
+ "davinci": [
+  {
+   "V10.3.6.0.PFJCNXM": {
+    "file": "miui_DAVINCI_V10.3.6.0.PFJCNXM_f4750444d0_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.6.0.PFJCNXM/miui_DAVINCI_V10.3.6.0.PFJCNXM_f4750444d0_9.0.zip"
+   }
+  },
+  {
+   "V10.3.7.0.PFJCNXM": {
+    "file": "miui_DAVINCI_V10.3.7.0.PFJCNXM_ec12ed28ae_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.7.0.PFJCNXM/miui_DAVINCI_V10.3.7.0.PFJCNXM_ec12ed28ae_9.0.zip"
+   }
+  },
+  {
+   "V10.3.8.0.PFJCNXM": {
+    "file": "miui_DAVINCI_V10.3.8.0.PFJCNXM_968e5a975a_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.8.0.PFJCNXM/miui_DAVINCI_V10.3.8.0.PFJCNXM_968e5a975a_9.0.zip"
+   }
+  },
+  {
+   "V10.3.9.0.PFJCNXM": {
+    "file": "miui_DAVINCI_V10.3.9.0.PFJCNXM_64c2182367_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.9.0.PFJCNXM/miui_DAVINCI_V10.3.9.0.PFJCNXM_64c2182367_9.0.zip"
+   }
+  }
+ ]
+}
