@@ -11,6 +11,7 @@
  },
  {
   "HM2014011": [
+   "V6.6.1.0.KHFCNCF",
    {
     "V7.1.2.0.KHFCNCK": {
      "file": "miui_HM1STD_V7.1.2.0.KHFCNCK_6fe3ce3347_4.4.zip",
@@ -29,6 +30,8 @@
      "download": "http://bigota.d.miui.com/V7.2.1.0.KHFCNDA/miui_HM1STD_V7.2.1.0.KHFCNDA_509a20af3e_4.4.zip"
     }
    },
+   "V7.3.1.0.KHFCNDD",
+   "V7.3.3.0.KHFCNDD",
    {
     "V7.5.1.0.KHFCNDE": {
      "file": "miui_HM1STD_V7.5.1.0.KHFCNDE_a9b21da993_4.4.zip",
@@ -47,6 +50,9 @@
      "download": "http://bigota.d.miui.com/V8.1.1.0.KHFCNDI/miui_HM1STD_V8.1.1.0.KHFCNDI_a727f87ecf_4.4.zip"
     }
    },
+   "V8.2.1.0.KHFCNDL",
+   "V8.2.2.0.KHFCNDL",
+   "V8.2.3.0.KHFCNDL",
    {
     "V8.2.4.0.KHFCNDL": {
      "file": "miui_HM1STD_V8.2.4.0.KHFCNDL_d6dea0d127_4.4.zip",
@@ -75,6 +81,7 @@
  },
  {
   "HM2014501": [
+   "V6.6.1.0.KHHCNCF",
    {
     "V6.6.2.0.KHHCNCF": {
      "file": "miui_HM1SLTE_V6.6.2.0.KHHCNCF_2b3fe5e676_4.4.zip",
@@ -111,6 +118,7 @@
      "download": "http://bigota.d.miui.com/V7.3.1.0.KHHCNDD/miui_HM1SLTE_V7.3.1.0.KHHCNDD_7bf7a84c1c_4.4.zip"
     }
    },
+   "V7.3.2.0.KHHCNDD",
    {
     "V7.5.1.0.KHHCNDE": {
      "file": "miui_HM1SLTE_V7.5.1.0.KHHCNDE_2f8a0c0a7f_4.4.zip",
@@ -162,7 +170,8 @@
      "file": "miui_ANDROMEDA_V10.3.1.0.PEMCNXM_03f8293046_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.1.0.PEMCNXM/miui_ANDROMEDA_V10.3.1.0.PEMCNXM_03f8293046_9.0.zip"
     }
-   }
+   },
+   "V10.3.16.0.PEMCNXM"
   ]
  },
  {
@@ -227,6 +236,8 @@
      "download": "http://bigota.d.miui.com/V7.5.3.0.LAJCNDE/miui_MI4s_V7.5.3.0.LAJCNDE_5632532273_5.1.zip"
     }
    },
+   "V7.5.4.0.LAJCNDE",
+   "V7.5.5.0.LAJCNDE",
    {
     "V8.0.1.0.LAJCNDG": {
      "file": "miui_MI4s_V8.0.1.0.LAJCNDG_877edbc07e_5.1.zip",
@@ -263,6 +274,8 @@
      "download": "http://bigota.d.miui.com/V8.2.1.0.LAJCNDL/miui_MI4s_V8.2.1.0.LAJCNDL_eec8cd31ed_5.1.zip"
     }
    },
+   "V8.2.4.0.NAJCNEC",
+   "V8.5.1.0.NAJCNED",
    {
     "V8.5.2.0.NAJCNED": {
      "file": "miui_MI4s_V8.5.2.0.NAJCNED_5a46cb458a_7.0.zip",
@@ -321,54 +334,11 @@
  },
  {
   "aries": [
-   {
-    "V7.1.2.0.LXAMICK": {
-     "file": "miui_MI2Global_V7.1.2.0.LXAMICK_9407576128_5.0.zip",
-     "download": "http://bigota.d.miui.com/V7.1.2.0.LXAMICK/miui_MI2Global_V7.1.2.0.LXAMICK_9407576128_5.0.zip"
-    }
-   },
-   {
-    "V7.2.2.0.LXAMIDA": {
-     "file": "miui_MI2Global_V7.2.2.0.LXAMIDA_e8e47e7db0_5.0.zip",
-     "download": "http://bigota.d.miui.com/V7.2.2.0.LXAMIDA/miui_MI2Global_V7.2.2.0.LXAMIDA_e8e47e7db0_5.0.zip"
-    }
-   },
-   {
-    "V7.5.1.0.LXAMIDE": {
-     "file": "miui_MI2Global_V7.5.1.0.LXAMIDE_e16deb5a6e_5.0.zip",
-     "download": "http://bigota.d.miui.com/V7.5.1.0.LXAMIDE/miui_MI2Global_V7.5.1.0.LXAMIDE_e16deb5a6e_5.0.zip"
-    }
-   },
-   {
-    "V8.0.1.0.LXAMIDG": {
-     "file": "miui_MI2Global_V8.0.1.0.LXAMIDG_24fc85f6ee_5.0.zip",
-     "download": "http://bigota.d.miui.com/V8.0.1.0.LXAMIDG/miui_MI2Global_V8.0.1.0.LXAMIDG_24fc85f6ee_5.0.zip"
-    }
-   },
-   {
-    "V8.1.2.0.LXAMIDI": {
-     "file": "miui_MI2Global_V8.1.2.0.LXAMIDI_e5e6842b04_5.0.zip",
-     "download": "http://bigota.d.miui.com/V8.1.2.0.LXAMIDI/miui_MI2Global_V8.1.2.0.LXAMIDI_e5e6842b04_5.0.zip"
-    }
-   },
-   {
-    "V8.1.3.0.LXAMIDI": {
-     "file": "miui_MI2Global_V8.1.3.0.LXAMIDI_1d761534cc_5.0.zip",
-     "download": "http://bigota.d.miui.com/V8.1.3.0.LXAMIDI/miui_MI2Global_V8.1.3.0.LXAMIDI_1d761534cc_5.0.zip"
-    }
-   },
-   {
-    "V8.5.2.0.LXAMIED": {
-     "file": "miui_MI2Global_V8.5.2.0.LXAMIED_96d8e2b242_5.0.zip",
-     "download": "http://bigota.d.miui.com/V8.5.2.0.LXAMIED/miui_MI2Global_V8.5.2.0.LXAMIED_96d8e2b242_5.0.zip"
-    }
-   },
-   {
-    "V9.2.2.0.LXAMIEK": {
-     "file": "miui_MI2Global_V9.2.2.0.LXAMIEK_ecf9dfbeb9_5.0.zip",
-     "download": "http://bigota.d.miui.com/V9.2.2.0.LXAMIEK/miui_MI2Global_V9.2.2.0.LXAMIEK_ecf9dfbeb9_5.0.zip"
-    }
-   },
+   "V6.6.1.0.LXACNCF",
+   "V6.6.2.0.LXACNCF",
+   "V6.7.1.0.LXACNCH",
+   "V6.7.3.0.LXACNCH",
+   "V7.0.3.0.LXACNCI",
    {
     "V7.0.4.0.LXACNCI": {
      "file": "miui_MI2_V7.0.4.0.LXACNCI_affeb213b3_5.0.zip",
@@ -381,12 +351,16 @@
      "download": "http://bigota.d.miui.com/V7.1.1.0.LXACNCK/miui_MI2_V7.1.1.0.LXACNCK_a83c1b1716_5.0.zip"
     }
    },
+   "V7.1.3.0.LXACNCK",
    {
     "V7.1.5.0.LXACNCK": {
      "file": "miui_MI2_V7.1.5.0.LXACNCK_304bac6739_5.0.zip",
      "download": "http://bigota.d.miui.com/V7.1.5.0.LXACNCK/miui_MI2_V7.1.5.0.LXACNCK_304bac6739_5.0.zip"
     }
    },
+   "V7.2.1.0.LXACNDB",
+   "V7.2.2.0.LXACNDB",
+   "V7.2.4.0.LXACNDA",
    {
     "V7.2.5.0.LXACNDA": {
      "file": "miui_MI2_V7.2.5.0.LXACNDA_b4fdd4e72e_5.0.zip",
@@ -411,6 +385,7 @@
      "download": "http://bigota.d.miui.com/V8.0.1.0.LXACNDG/miui_MI2_V8.0.1.0.LXACNDG_7b74f56ddb_5.0.zip"
     }
    },
+   "V8.1.1.0.LXACNDI",
    {
     "V8.1.2.0.LXACNDI": {
      "file": "miui_MI2_V8.1.2.0.LXACNDI_95e24f367d_5.0.zip",
@@ -445,6 +420,9 @@
  },
  {
   "aries_global": [
+   "V6.6.1.0.LXAMICF",
+   "V6.7.1.0.LXAMICH",
+   "V6.7.2.0.LXAMICH",
    {
     "V7.1.2.0.LXAMICK": {
      "file": "miui_MI2Global_V7.1.2.0.LXAMICK_9407576128_5.0.zip",
@@ -497,84 +475,9 @@
  },
  {
   "armani": [
-   {
-    "V6.6.1.0.KHCMICF": {
-     "file": "miui_HM1SWCGlobal_V6.6.1.0.KHCMICF_74644ba684_4.4.zip",
-     "download": "http://bigota.d.miui.com/V6.6.1.0.KHCMICF/miui_HM1SWCGlobal_V6.6.1.0.KHCMICF_74644ba684_4.4.zip"
-    }
-   },
-   {
-    "V6.6.2.0.KHCMICF": {
-     "file": "miui_HM1SWCGlobal_V6.6.2.0.KHCMICF_2e993e95ae_4.4.zip",
-     "download": "http://bigota.d.miui.com/V6.6.2.0.KHCMICF/miui_HM1SWCGlobal_V6.6.2.0.KHCMICF_2e993e95ae_4.4.zip"
-    }
-   },
-   {
-    "V6.7.1.0.KHCMICH": {
-     "file": "miui_HM1SWCGlobal_V6.7.1.0.KHCMICH_7f527ec43a_4.4.zip",
-     "download": "http://bigota.d.miui.com/V6.7.1.0.KHCMICH/miui_HM1SWCGlobal_V6.7.1.0.KHCMICH_7f527ec43a_4.4.zip"
-    }
-   },
-   {
-    "V7.0.5.0.KHCMICI": {
-     "file": "miui_HM1SWCGlobal_V7.0.5.0.KHCMICI_e3d1ce758f_4.4.zip",
-     "download": "http://bigota.d.miui.com/V7.0.5.0.KHCMICI/miui_HM1SWCGlobal_V7.0.5.0.KHCMICI_e3d1ce758f_4.4.zip"
-    }
-   },
-   {
-    "V7.1.1.0.KHCMICK": {
-     "file": "miui_HM1SWCGlobal_V7.1.1.0.KHCMICK_c8e8009ea0_4.4.zip",
-     "download": "http://bigota.d.miui.com/V7.1.1.0.KHCMICK/miui_HM1SWCGlobal_V7.1.1.0.KHCMICK_c8e8009ea0_4.4.zip"
-    }
-   },
-   {
-    "V7.2.3.0.KHCMIDA": {
-     "file": "miui_HM1SWCGlobal_V7.2.3.0.KHCMIDA_cbf99b43b6_4.4.zip",
-     "download": "http://bigota.d.miui.com/V7.2.3.0.KHCMIDA/miui_HM1SWCGlobal_V7.2.3.0.KHCMIDA_cbf99b43b6_4.4.zip"
-    }
-   },
-   {
-    "V7.3.1.0.KHCMIDD": {
-     "file": "miui_HM1SWCGlobal_V7.3.1.0.KHCMIDD_6e444f087b_4.4.zip",
-     "download": "http://bigota.d.miui.com/V7.3.1.0.KHCMIDD/miui_HM1SWCGlobal_V7.3.1.0.KHCMIDD_6e444f087b_4.4.zip"
-    }
-   },
-   {
-    "V7.5.1.0.KHCMIDE": {
-     "file": "miui_HM1SWCGlobal_V7.5.1.0.KHCMIDE_535990e1da_4.4.zip",
-     "download": "http://bigota.d.miui.com/V7.5.1.0.KHCMIDE/miui_HM1SWCGlobal_V7.5.1.0.KHCMIDE_535990e1da_4.4.zip"
-    }
-   },
-   {
-    "V8.0.1.0.KHCMIDG": {
-     "file": "miui_HM1SWCGlobal_V8.0.1.0.KHCMIDG_27245256ce_4.4.zip",
-     "download": "http://bigota.d.miui.com/V8.0.1.0.KHCMIDG/miui_HM1SWCGlobal_V8.0.1.0.KHCMIDG_27245256ce_4.4.zip"
-    }
-   },
-   {
-    "V8.1.2.0.KHCMIDI": {
-     "file": "miui_HM1SWCGlobal_V8.1.2.0.KHCMIDI_72538d2204_4.4.zip",
-     "download": "http://bigota.d.miui.com/V8.1.2.0.KHCMIDI/miui_HM1SWCGlobal_V8.1.2.0.KHCMIDI_72538d2204_4.4.zip"
-    }
-   },
-   {
-    "V8.1.4.0.KHCMIDI": {
-     "file": "miui_HM1SWCGlobal_V8.1.4.0.KHCMIDI_c3b9cb32a5_4.4.zip",
-     "download": "http://bigota.d.miui.com/V8.1.4.0.KHCMIDI/miui_HM1SWCGlobal_V8.1.4.0.KHCMIDI_c3b9cb32a5_4.4.zip"
-    }
-   },
-   {
-    "V8.2.1.0.KHCMIDL": {
-     "file": "miui_HM1SWCGlobal_V8.2.1.0.KHCMIDL_0e98e6e5ff_4.4.zip",
-     "download": "http://bigota.d.miui.com/V8.2.1.0.KHCMIDL/miui_HM1SWCGlobal_V8.2.1.0.KHCMIDL_0e98e6e5ff_4.4.zip"
-    }
-   },
-   {
-    "V9.2.3.0.KHCMIEK": {
-     "file": "miui_HM1SWCGlobal_V9.2.3.0.KHCMIEK_fb8976a498_4.4.zip",
-     "download": "http://bigota.d.miui.com/V9.2.3.0.KHCMIEK/miui_HM1SWCGlobal_V9.2.3.0.KHCMIEK_fb8976a498_4.4.zip"
-    }
-   },
+   "V6.6.2.0.KHCCNCF",
+   "V6.6.3.0.KHCCNCF",
+   "V6.6.4.0.KHCCNCF",
    {
     "V6.6.5.0.KHCCNCF": {
      "file": "miui_HM1SWC_V6.6.5.0.KHCCNCF_c19c8f7107_4.4.zip",
@@ -593,6 +496,8 @@
      "download": "http://bigota.d.miui.com/V7.0.5.0.KHCCNCI/miui_HM1SWC_V7.0.5.0.KHCCNCI_7b300fc938_4.4.zip"
     }
    },
+   "V7.1.1.0.KHCCNCK",
+   "V7.1.2.0.KHCCNCK",
    {
     "V7.1.3.0.KHCCNCK": {
      "file": "miui_HM1SWC_V7.1.3.0.KHCCNCK_d22884ffde_4.4.zip",
@@ -635,6 +540,7 @@
      "download": "http://bigota.d.miui.com/V8.0.2.0.KHCCNDG/miui_HM1SWC_V8.0.2.0.KHCCNDG_a4141227a3_4.4.zip"
     }
    },
+   "V8.1.1.0.KHCCNDI",
    {
     "V8.1.2.0.KHCCNDI": {
      "file": "miui_HM1SWC_V8.1.2.0.KHCCNDI_c1c6b917b1_4.4.zip",
@@ -753,6 +659,7 @@
      "download": "http://bigota.d.miui.com/V8.2.1.0.KHCMIDL/miui_HM1SWCGlobal_V8.2.1.0.KHCMIDL_0e98e6e5ff_4.4.zip"
     }
    },
+   "V9.2.2.0.KHCMIEK",
    {
     "V9.2.3.0.KHCMIEK": {
      "file": "miui_HM1SWCGlobal_V9.2.3.0.KHCMIEK_fb8976a498_4.4.zip",
@@ -763,6 +670,7 @@
  },
  {
   "beryllium_global": [
+   "V9.6.18.0.OEJMIFD",
    {
     "V9.6.14.0.OEJMIFD": {
      "file": "miui_BERYLLIUMGlobal_V9.6.14.0.OEJMIFD_9f7f9e0fa4_8.1.zip",
@@ -839,6 +747,14 @@
  },
  {
   "cactus": [
+   "V9.6.2.0.OCBCNFD",
+   "V9.6.3.0.OCBCNFD",
+   "V9.6.5.0.OCBCNFD",
+   "V9.6.6.0.OCBCNFD",
+   "V9.6.8.0.OCBCNFD",
+   "V10.0.1.0.OCBCNFH",
+   "V10.0.3.0.OCBCNFH",
+   "V10.0.4.0.OCBCNFH",
    {
     "V10.0.5.0.OCBCNFH": {
      "file": "miui_HM6A_V10.0.5.0.OCBCNFH_49ab29d772_8.1.zip",
@@ -857,6 +773,7 @@
      "download": "http://bigota.d.miui.com/V10.2.2.0.OCBCNXM/miui_HM6A_V10.2.2.0.OCBCNXM_8b3c2f269f_8.1.zip"
     }
    },
+   "V10.3.1.0.OCBCNXM",
    {
     "V10.3.3.0.OCBCNXM": {
      "file": "miui_HM6A_V10.3.3.0.OCBCNXM_fd29a073b6_8.1.zip",
@@ -873,6 +790,8 @@
  },
  {
   "cactus_global": [
+   "V9.6.2.0.OCBMIFD",
+   "V9.6.11.0.OCBMIFD",
    {
     "V9.6.10.0.OCBMIFD": {
      "file": "miui_HM6AGlobal_V9.6.10.0.OCBMIFD_f761277f81_8.1.zip",
@@ -885,6 +804,9 @@
      "download": "http://bigota.d.miui.com/V9.6.13.0.OCBMIFD/miui_HM6AGlobal_V9.6.13.0.OCBMIFD_1e92927530_8.1.zip"
     }
    },
+   "V9.6.18.0.OCBMIFD",
+   "V10.0.2.0.OCBMIFH",
+   "V10.0.3.0.OCBMIFH",
    {
     "V10.0.12.0.OCBMIFH": {
      "file": "miui_HM6AGlobal_V10.0.12.0.OCBMIFH_fdbe628e0a_8.1.zip",
@@ -949,24 +871,28 @@
  },
  {
   "cancro": [
+   "V6.1.0.3.KXDCNBJ",
    {
     "V6.1.2.0.KXDCNBJ": {
      "file": "miui_MI3WMI4W_V6.1.2.0.KXDCNBJ_a5a8c41552_4.4.zip",
      "download": "http://bigota.d.miui.com/V6.1.2.0.KXDCNBJ/miui_MI3WMI4W_V6.1.2.0.KXDCNBJ_a5a8c41552_4.4.zip"
     }
    },
+   "V6.2.0.6.KXDCNBK",
    {
     "V6.2.1.0.KXDCNBK": {
      "file": "miui_MI3WMI4W_V6.2.1.0.KXDCNBK_433b2f5404_4.4.zip",
      "download": "http://bigota.d.miui.com/V6.2.1.0.KXDCNBK/miui_MI3WMI4W_V6.2.1.0.KXDCNBK_433b2f5404_4.4.zip"
     }
    },
+   "V6.3.2.0.KXDCNBL",
    {
     "V6.3.3.0.KXDCNBL": {
      "file": "miui_MI3WMI4W_V6.3.3.0.KXDCNBL_4bc46db87b_4.4.zip",
      "download": "http://bigota.d.miui.com/V6.3.3.0.KXDCNBL/miui_MI3WMI4W_V6.3.3.0.KXDCNBL_4bc46db87b_4.4.zip"
     }
    },
+   "V6.3.8.0.KXDCNBL",
    {
     "V6.3.9.0.KXDCNBL": {
      "file": "miui_MI3WMI4W_V6.3.9.0.KXDCNBL_0d7c439baf_4.4.zip",
@@ -1051,6 +977,7 @@
      "download": "http://bigota.d.miui.com/V6.7.1.0.KXDCNCH/miui_MI3WMI4W_V6.7.1.0.KXDCNCH_139d8c5cd8_4.4.zip"
     }
    },
+   "V6.7.3.0.KXDCNCH",
    {
     "V6.7.4.0.KXDCNCH": {
      "file": "miui_MI3WMI4W_V6.7.4.0.KXDCNCH_2443828cbc_4.4.zip",
@@ -1063,6 +990,8 @@
      "download": "http://bigota.d.miui.com/V7.0.5.0.KXDCNCI/miui_MI3WMI4W_V7.0.5.0.KXDCNCI_a734d69197_4.4.zip"
     }
    },
+   "V7.1.1.0.KXDCNCK",
+   "V7.1.2.0.KXDCNCK",
    {
     "V7.1.3.0.KXDCNCK": {
      "file": "miui_MI3WMI4W_V7.1.3.0.KXDCNCK_cada47461c_4.4.zip",
@@ -1081,12 +1010,17 @@
      "download": "http://bigota.d.miui.com/V7.1.5.0.KXDCNCK/miui_MI3WMI4W_V7.1.5.0.KXDCNCK_2788662329_4.4.zip"
     }
    },
+   "V7.2.5.0.MXDCNDB",
+   "V7.2.7.0.MXDCNDB",
+   "V7.2.8.0.MXDCNDB",
+   "V7.2.9.0.MXDCNDB",
    {
     "V7.2.11.0.MXDCNDB": {
      "file": "miui_MI3WMI4W_V7.2.11.0.MXDCNDB_a08d6219b1_6.0.zip",
      "download": "http://bigota.d.miui.com/V7.2.11.0.MXDCNDB/miui_MI3WMI4W_V7.2.11.0.MXDCNDB_a08d6219b1_6.0.zip"
     }
    },
+   "V7.3.1.0.MXDCNDD",
    {
     "V7.3.2.0.MXDCNDD": {
      "file": "miui_MI3WMI4W_V7.3.2.0.MXDCNDD_27d8841303_6.0.zip",
@@ -1129,6 +1063,7 @@
      "download": "http://bigota.d.miui.com/V8.0.2.0.MXDCNDG/miui_MI3WMI4W_V8.0.2.0.MXDCNDG_9769e6903d_6.0.zip"
     }
    },
+   "V8.1.1.0.MXDCNDI",
    {
     "V8.1.3.0.MXDCNDI": {
      "file": "miui_MI3WMI4W_V8.1.3.0.MXDCNDI_ceebf16509_6.0.zip",
@@ -1171,6 +1106,7 @@
      "download": "http://bigota.d.miui.com/V9.5.3.0.MXDCNFA/miui_MI3WMI4W_V9.5.3.0.MXDCNFA_1bdb4fc25c_6.0.zip"
     }
    },
+   "V9.6.2.0.MXDCNFD",
    {
     "V9.6.3.0.MXDCNFD": {
      "file": "miui_MI3WMI4W_V9.6.3.0.MXDCNFD_4abe5d7d2d_6.0.zip",
@@ -1235,6 +1171,7 @@
      "download": "http://bigota.d.miui.com/V6.5.4.0.KXDMICD/miui_MI3WMI4WGlobal_V6.5.4.0.KXDMICD_ccd95e083c_4.4.zip"
     }
    },
+   "V6.6.2.0.KXDMICF",
    {
     "V6.6.3.0.KXDMICF": {
      "file": "miui_MI3WMI4WGlobal_V6.6.3.0.KXDMICF_2f45ce785d_4.4.zip",
@@ -1253,12 +1190,14 @@
      "download": "http://bigota.d.miui.com/V6.7.1.0.KXDMICH/miui_MI3WMI4WGlobal_V6.7.1.0.KXDMICH_d4d8ea673f_4.4.zip"
     }
    },
+   "V6.7.6.0.KXDMICH",
    {
     "V7.0.5.0.KXDMICI": {
      "file": "miui_MI3WMI4WGlobal_V7.0.5.0.KXDMICI_9830c22421_4.4.zip",
      "download": "http://bigota.d.miui.com/V7.0.5.0.KXDMICI/miui_MI3WMI4WGlobal_V7.0.5.0.KXDMICI_9830c22421_4.4.zip"
     }
    },
+   "V7.0.6.0.KXDMICI",
    {
     "V7.1.1.0.KXDMICK": {
      "file": "miui_MI3WMI4WGlobal_V7.1.1.0.KXDMICK_11c7ce1a0a_4.4.zip",
@@ -1289,6 +1228,7 @@
      "download": "http://bigota.d.miui.com/V8.0.3.0.MXDMIDG/miui_MI3WMI4WGlobal_V8.0.3.0.MXDMIDG_5baee23249_6.0.zip"
     }
    },
+   "V8.1.3.0.MXDMIDI",
    {
     "V8.1.4.0.MXDMIDI": {
      "file": "miui_MI3WMI4WGlobal_V8.1.4.0.MXDMIDI_458ad2026e_6.0.zip",
@@ -1301,6 +1241,7 @@
      "download": "http://bigota.d.miui.com/V8.1.6.0.MXDMIDI/miui_MI3WMI4WGlobal_V8.1.6.0.MXDMIDI_5984da4175_6.0.zip"
     }
    },
+   "V8.2.1.0.MXDMIDL",
    {
     "V8.5.1.0.MXDMIED": {
      "file": "miui_MI3WMI4WGlobal_V8.5.1.0.MXDMIED_df99aee2e8_6.0.zip",
@@ -1347,6 +1288,7 @@
      "download": "http://bigota.d.miui.com/V6.3.5.0.KXGCNBL/miui_MI4LTECT_V6.3.5.0.KXGCNBL_bb9e682a2d_4.4.zip"
     }
    },
+   "V6.3.8.0.KXGCNBL",
    {
     "V6.3.9.0.KXGCNBL": {
      "file": "miui_MI4LTECT_V6.3.9.0.KXGCNBL_528568284e_4.4.zip",
@@ -1425,6 +1367,7 @@
      "download": "http://bigota.d.miui.com/V6.7.1.0.KXGCNCH/miui_MI4LTECT_V6.7.1.0.KXGCNCH_1f7d1bba25_4.4.zip"
     }
    },
+   "V6.7.4.0.KXGCNCH",
    {
     "V6.7.5.0.KXGCNCH": {
      "file": "miui_MI4LTECT_V6.7.5.0.KXGCNCH_4632b0d1b4_4.4.zip",
@@ -1437,6 +1380,8 @@
      "download": "http://bigota.d.miui.com/V7.0.5.0.KXGCNCI/miui_MI4LTECT_V7.0.5.0.KXGCNCI_502d45f4da_4.4.zip"
     }
    },
+   "V7.1.1.0.KXGCNCK",
+   "V7.1.2.0.KXGCNCK",
    {
     "V7.1.3.0.KXGCNCK": {
      "file": "miui_MI4LTECT_V7.1.3.0.KXGCNCK_89e86a925f_4.4.zip",
@@ -1455,12 +1400,15 @@
      "download": "http://bigota.d.miui.com/V7.1.5.0.KXGCNCK/miui_MI4LTECT_V7.1.5.0.KXGCNCK_bb156c547c_4.4.zip"
     }
    },
+   "V7.2.3.0.MXGCNDB",
+   "V7.2.4.0.MXGCNDB",
    {
     "V7.2.7.0.MXGCNDB": {
      "file": "miui_MI4LTECT_V7.2.7.0.MXGCNDB_db65984bcf_6.0.zip",
      "download": "http://bigota.d.miui.com/V7.2.7.0.MXGCNDB/miui_MI4LTECT_V7.2.7.0.MXGCNDB_db65984bcf_6.0.zip"
     }
    },
+   "V7.3.1.0.MXGCNDD",
    {
     "V7.3.2.0.MXGCNDD": {
      "file": "miui_MI4LTECT_V7.3.2.0.MXGCNDD_e39f7de6bf_6.0.zip",
@@ -1473,6 +1421,7 @@
      "download": "http://bigota.d.miui.com/V7.3.3.0.MXGCNDD/miui_MI4LTECT_V7.3.3.0.MXGCNDD_5d73d2c21b_6.0.zip"
     }
    },
+   "V7.5.2.0.MXGCNDE",
    {
     "V7.5.3.0.MXGCNDE": {
      "file": "miui_MI4LTECT_V7.5.3.0.MXGCNDE_a4d361a954_6.0.zip",
@@ -1491,6 +1440,7 @@
      "download": "http://bigota.d.miui.com/V8.0.2.0.MXGCNDG/miui_MI4LTECT_V8.0.2.0.MXGCNDG_3ca150b5a2_6.0.zip"
     }
    },
+   "V8.1.1.0.MXGCNDI",
    {
     "V8.1.3.0.MXGCNDI": {
      "file": "miui_MI4LTECT_V8.1.3.0.MXGCNDI_6fff216132_6.0.zip",
@@ -1549,12 +1499,14 @@
  },
  {
   "cappu": [
+   "V8.2.6.0.NCICNEB",
    {
     "V8.2.8.0.NCICNEB": {
      "file": "miui_MIPAD3_V8.2.8.0.NCICNEB_19fecdbacc_7.0.zip",
      "download": "http://bigota.d.miui.com/V8.2.8.0.NCICNEB/miui_MIPAD3_V8.2.8.0.NCICNEB_19fecdbacc_7.0.zip"
     }
    },
+   "V8.2.9.0.NCICNEB",
    {
     "V8.5.2.0.NCICNEG": {
      "file": "miui_MIPAD3_V8.5.2.0.NCICNEG_15c5ac7242_7.0.zip",
@@ -1613,18 +1565,23 @@
      "download": "http://bigota.d.miui.com/V8.0.10.0.MAGCNDH/miui_MI5S_V8.0.10.0.MAGCNDH_da90aee78b_6.0.zip"
     }
    },
+   "V8.0.14.0.MAGCNDH",
+   "V8.0.17.0.MAGCNDI",
    {
     "V8.0.18.0.MAGCNDI": {
      "file": "miui_MI5S_V8.0.18.0.MAGCNDI_a7d80a7252_6.0.zip",
      "download": "http://bigota.d.miui.com/V8.0.18.0.MAGCNDI/miui_MI5S_V8.0.18.0.MAGCNDI_a7d80a7252_6.0.zip"
     }
    },
+   "V8.0.20.0.MAGCNDI",
+   "V8.0.21.0.MAGCNDI",
    {
     "V8.0.22.0.MAGCNDI": {
      "file": "miui_MI5S_V8.0.22.0.MAGCNDI_f243359fdc_6.0.zip",
      "download": "http://bigota.d.miui.com/V8.0.22.0.MAGCNDI/miui_MI5S_V8.0.22.0.MAGCNDI_f243359fdc_6.0.zip"
     }
    },
+   "V8.2.1.0.MAGCNDL",
    {
     "V8.2.2.0.MAGCNDL": {
      "file": "miui_MI5S_V8.2.2.0.MAGCNDL_daa6356c50_6.0.zip",
@@ -1679,6 +1636,7 @@
      "download": "http://bigota.d.miui.com/V9.1.3.0.NAGCNEI/miui_MI5S_V9.1.3.0.NAGCNEI_e2638da154_7.0.zip"
     }
    },
+   "V9.2.1.0.NAGCNEK",
    {
     "V9.2.2.0.NAGCNEK": {
      "file": "miui_MI5S_V9.2.2.0.NAGCNEK_fcfe38056e_7.0.zip",
@@ -1737,6 +1695,7 @@
      "download": "http://bigota.d.miui.com/V8.0.3.0.MAGMIDI/miui_MI5SGlobal_V8.0.3.0.MAGMIDI_07b05f117f_6.0.zip"
     }
    },
+   "V8.2.1.0.MAGMIDL",
    {
     "V8.5.3.0.MAGMIED": {
      "file": "miui_MI5SGlobal_V8.5.3.0.MAGMIED_06d5d5e5bd_6.0.zip",
@@ -1791,6 +1750,7 @@
      "download": "http://bigota.d.miui.com/V10.1.1.0.OAGMIFI/miui_MI5SGlobal_V10.1.1.0.OAGMIFI_7c89001203_8.0.zip"
     }
    },
+   "V10.2.1.0.OAGMIXM",
    {
     "V10.2.2.0.OAGMIXM": {
      "file": "miui_MI5SGlobal_V10.2.2.0.OAGMIXM_1bf182cc27_8.0.zip",
@@ -1807,6 +1767,7 @@
  },
  {
   "cepheus": [
+   "V10.2.5.0.PFACNXM",
    {
     "V10.2.11.0.PFACNXM": {
      "file": "miui_CEPHEUS_V10.2.11.0.PFACNXM_4f19972866_9.0.zip",
@@ -1819,12 +1780,16 @@
      "download": "http://bigota.d.miui.com/V10.2.15.0.PFACNXM/miui_CEPHEUS_V10.2.15.0.PFACNXM_72af81f349_9.0.zip"
     }
    },
+   "V10.2.16.0.PFACNXM",
+   "V10.2.20.0.PFACNXM",
    {
     "V10.2.25.0.PFACNXM": {
      "file": "miui_CEPHEUS_V10.2.25.0.PFACNXM_b2fea621fa_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.2.25.0.PFACNXM/miui_CEPHEUS_V10.2.25.0.PFACNXM_b2fea621fa_9.0.zip"
     }
    },
+   "V10.2.27.0.PFACNXM",
+   "V10.2.28.0.PFACNXM",
    {
     "V10.2.29.0.PFACNXM": {
      "file": "miui_CEPHEUS_V10.2.29.0.PFACNXM_f112af8389_9.0.zip",
@@ -1847,18 +1812,22 @@
      "download": "http://bigota.d.miui.com/V10.2.15.0.PFAEUXM/miui_CEPHEUSEEAGlobal_V10.2.15.0.PFAEUXM_8b6fe7f1be_9.0.zip"
     }
    },
+   "V10.2.5.0.PFAEUVF",
+   "V10.2.3.0.PFAEUHG",
    {
     "V10.2.17.0.PFAEUXM": {
      "file": "miui_CEPHEUSEEAGlobal_V10.2.17.0.PFAEUXM_53263ccd41_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.2.17.0.PFAEUXM/miui_CEPHEUSEEAGlobal_V10.2.17.0.PFAEUXM_53263ccd41_9.0.zip"
     }
    },
+   "V10.2.4.0.PFAEUHG",
    {
     "V10.2.22.0.PFAEUXM": {
      "file": "miui_CEPHEUSEEAGlobal_V10.2.22.0.PFAEUXM_745a374eee_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.2.22.0.PFAEUXM/miui_CEPHEUSEEAGlobal_V10.2.22.0.PFAEUXM_745a374eee_9.0.zip"
     }
    },
+   "V10.2.6.0.PFAEUVF",
    {
     "V10.2.24.0.PFAEUXM": {
      "file": "miui_CEPHEUSEEAGlobal_V10.2.24.0.PFAEUXM_ed43f053ab_9.0.zip",
@@ -1897,6 +1866,14 @@
  },
  {
   "cereus": [
+   "V9.6.1.0.OCGCNFD",
+   "V9.6.4.0.OCGCNFD",
+   "V9.6.5.0.OCGCNFD",
+   "V9.6.7.0.OCGCNFD",
+   "V9.6.8.0.OCGCNFD",
+   "V9.6.10.0.OCGCNFD",
+   "V10.0.1.0.OCGCNFH",
+   "V10.0.3.0.OCGCNFH",
    {
     "V10.0.5.0.OCGCNFH": {
      "file": "miui_HM6_V10.0.5.0.OCGCNFH_808ab3b6db_8.1.zip",
@@ -1915,6 +1892,7 @@
      "download": "http://bigota.d.miui.com/V10.2.2.0.OCGCNXM/miui_HM6_V10.2.2.0.OCGCNXM_4ca845f3a0_8.1.zip"
     }
    },
+   "V10.3.1.0.OCGCNXM",
    {
     "V10.3.3.0.OCGCNXM": {
      "file": "miui_HM6_V10.3.3.0.OCGCNXM_0c59fa6bf9_8.1.zip",
@@ -1931,12 +1909,19 @@
  },
  {
   "cereus_global": [
+   "V9.6.4.0.OCGMIFD",
+   "V9.6.11.0.OCGMIFD",
+   "V9.6.14.0.OCGMIFD",
+   "V9.6.19.0.OCGMIFD",
+   "V10.0.1.0.OCGMIFH",
+   "V10.0.2.0.OCGMIFH",
    {
     "V10.0.6.0.OCGMIFH": {
      "file": "miui_HM6Global_V10.0.6.0.OCGMIFH_b59b2543d1_8.1.zip",
      "download": "http://bigota.d.miui.com/V10.0.6.0.OCGMIFH/miui_HM6Global_V10.0.6.0.OCGMIFH_b59b2543d1_8.1.zip"
     }
    },
+   "V10.2.2.0.OCGMIXM",
    {
     "V10.2.3.0.OCGMIXM": {
      "file": "miui_HM6Global_V10.2.3.0.OCGMIXM_0c0ba68ac4_8.1.zip",
@@ -2025,6 +2010,8 @@
      "download": "http://bigota.d.miui.com/V8.5.2.0.NDECNEF/miui_CHIRON_V8.5.2.0.NDECNEF_d53d05d99f_7.1.zip"
     }
    },
+   "V9.1.1.0.NDECNEI",
+   "V9.1.2.0.NDECNEI",
    {
     "V9.1.5.0.NDECNEI": {
      "file": "miui_MIMIX2_V9.1.5.0.NDECNEI_925222bc35_7.1.zip",
@@ -2049,6 +2036,7 @@
      "download": "http://bigota.d.miui.com/V9.1.11.0.NDECNEI/miui_MIMIX2_V9.1.11.0.NDECNEI_8149f92424_7.1.zip"
     }
    },
+   "V9.2.3.0.NDECNEK",
    {
     "V9.2.5.0.NDECNEK": {
      "file": "miui_MIMIX2_V9.2.5.0.NDECNEK_ad4261c1d7_7.1.zip",
@@ -2061,6 +2049,8 @@
      "download": "http://bigota.d.miui.com/V9.2.7.0.NDECNEK/miui_MIMIX2_V9.2.7.0.NDECNEK_5403112e75_7.1.zip"
     }
    },
+   "V9.5.2.0.ODECNFA",
+   "V9.5.5.0.ODECNFA",
    {
     "V9.5.6.0.ODECNFA": {
      "file": "miui_MIMIX2_V9.5.6.0.ODECNFA_92ee38e94e_8.0.zip",
@@ -2125,6 +2115,7 @@
      "download": "http://bigota.d.miui.com/V9.1.2.0.NDEMIEI/miui_MIMIX2Global_V9.1.2.0.NDEMIEI_d706b24247_7.1.zip"
     }
    },
+   "V9.2.3.0.NDEMIEK",
    {
     "V9.5.4.0.ODEMIFA": {
      "file": "miui_MIMIX2Global_V9.5.4.0.ODEMIFA_299bdfa675_8.0.zip",
@@ -2143,6 +2134,7 @@
      "download": "http://bigota.d.miui.com/V9.5.8.0.ODEMIFA/miui_MIMIX2Global_V9.5.8.0.ODEMIFA_697749dace_8.0.zip"
     }
    },
+   "V9.2.12.0.NDEMIEK",
    {
     "V9.6.1.0.ODEMIFD": {
      "file": "miui_MIMIX2Global_V9.6.1.0.ODEMIFD_d78006eca3_8.0.zip",
@@ -2161,6 +2153,7 @@
      "download": "http://bigota.d.miui.com/V10.2.2.0.ODEMIXM/miui_MIMIX2Global_V10.2.2.0.ODEMIXM_a92827160b_8.0.zip"
     }
    },
+   "V10.3.1.0.ODEMIXM",
    {
     "V10.3.5.0.ODEMIXM": {
      "file": "miui_MIMIX2Global_V10.3.5.0.ODEMIXM_f99efbaa3a_8.0.zip",
@@ -2171,6 +2164,7 @@
  },
  {
   "clover": [
+   "V9.6.0.3.ODJCNFD",
    {
     "V9.6.4.0.ODJCNFD": {
      "file": "miui_CLOVER_V9.6.4.0.ODJCNFD_564ab2cc76_8.1.zip",
@@ -2225,12 +2219,29 @@
      "download": "http://bigota.d.miui.com/V10.2.1.0.ODJCNXM/miui_MIPAD4_V10.2.1.0.ODJCNXM_304a7f24e3_8.1.zip"
     }
    },
+   "V10.3.1.0.ODJCNXM",
    {
     "V10.3.2.0.ODJCNXM": {
      "file": "miui_MIPAD4_V10.3.2.0.ODJCNXM_371ac63e9e_8.1.zip",
      "download": "http://bigota.d.miui.com/V10.3.2.0.ODJCNXM/miui_MIPAD4_V10.3.2.0.ODJCNXM_371ac63e9e_8.1.zip"
     }
    }
+  ]
+ },
+ {
+  "daisy": [
+   "V9.6.4.0.ODLMIFF",
+   "V9.6.6.0.ODLMIFF",
+   "V9.6.9.0.ODLMIFF",
+   "V9.6.10.0.ODLMIFF",
+   "V9.6.11.0.ODLMIFF",
+   "V10.0.2.0.PDLMIFJ",
+   "V10.0.3.0.PDLMIXM",
+   "V10.0.4.0.PDLMIXM",
+   "V10.0.7.0.PDLMIXM",
+   "V10.0.8.0.PDLMIXM",
+   "V10.0.9.0.PDLMIXM",
+   "V10.0.10.0.PDLMIXM"
   ]
  },
  {
@@ -2301,6 +2312,7 @@
  },
  {
   "dior": [
+   "V6.2.0.6.KHICNBK",
    {
     "V6.2.1.0.KHICNBK": {
      "file": "miui_H3LTE_V6.2.1.0.KHICNBK_03b86225dc_4.4.zip",
@@ -2319,6 +2331,7 @@
      "download": "http://bigota.d.miui.com/V6.3.3.0.KHICNBL/miui_H3LTE_V6.3.3.0.KHICNBL_cbb0035629_4.4.zip"
     }
    },
+   "V6.3.4.0.KHICNBL",
    {
     "V6.3.5.0.KHICNBL": {
      "file": "miui_HMNoteLTE_V6.3.5.0.KHICNBL_7e7b53a29d_4.4.zip",
@@ -2337,6 +2350,7 @@
      "download": "http://bigota.d.miui.com/V6.4.2.0.KHICNCB/miui_HMNoteLTE_V6.4.2.0.KHICNCB_cf2fd36f6d_4.4.zip"
     }
    },
+   "V6.5.0.1.KHICNCD",
    {
     "V6.5.1.0.KHICNCD": {
      "file": "miui_HMNoteLTE_V6.5.1.0.KHICNCD_be4375b768_4.4.zip",
@@ -2355,6 +2369,8 @@
      "download": "http://bigota.d.miui.com/V6.5.4.0.KHICNCD/miui_HMNoteLTE_V6.5.4.0.KHICNCD_f12df41ae3_4.4.zip"
     }
    },
+   "V6.6.1.0.KHICNCF",
+   "V6.6.2.0.KHICNCF",
    {
     "V6.6.3.0.KHICNCF": {
      "file": "miui_HMNoteLTE_V6.6.3.0.KHICNCF_86c807773c_4.4.zip",
@@ -2373,6 +2389,8 @@
      "download": "http://bigota.d.miui.com/V7.0.5.0.KHICNCI/miui_HMNoteLTE_V7.0.5.0.KHICNCI_92f6fb7b2f_4.4.zip"
     }
    },
+   "V7.1.1.0.KHICNCK",
+   "V7.1.2.0.KHICNCK",
    {
     "V7.1.4.0.KHICNCK": {
      "file": "miui_HMNoteLTE_V7.1.4.0.KHICNCK_20e725537b_4.4.zip",
@@ -2479,6 +2497,7 @@
      "download": "http://bigota.d.miui.com/V6.5.2.0.KHIMICD/miui_HMNoteLTEGlobal_V6.5.2.0.KHIMICD_e862816fad_4.4.zip"
     }
    },
+   "V6.5.3.0.KHIMICD",
    {
     "V6.5.4.0.KHIMICD": {
      "file": "miui_HMNoteLTEGlobal_V6.5.4.0.KHIMICD_b1a9262f85_4.4.zip",
@@ -2491,6 +2510,7 @@
      "download": "http://bigota.d.miui.com/V6.6.1.0.KHIMICF/miui_HMNoteLTEGlobal_V6.6.1.0.KHIMICF_0b2f6e7430_4.4.zip"
     }
    },
+   "V6.6.2.0.KHIMICF",
    {
     "V6.6.3.0.KHIMICF": {
      "file": "miui_HMNoteLTEGlobal_V6.6.3.0.KHIMICF_2de0e2527d_4.4.zip",
@@ -2521,12 +2541,14 @@
      "download": "http://bigota.d.miui.com/V7.0.7.0.KHIMICI/miui_HMNoteLTEGlobal_V7.0.7.0.KHIMICI_9d512562d0_4.4.zip"
     }
    },
+   "V7.0.8.0.KHIMICI",
    {
     "V7.1.1.0.KHIMICK": {
      "file": "miui_HMNoteLTEGlobal_V7.1.1.0.KHIMICK_cc9a04ca29_4.4.zip",
      "download": "http://bigota.d.miui.com/V7.1.1.0.KHIMICK/miui_HMNoteLTEGlobal_V7.1.1.0.KHIMICK_cc9a04ca29_4.4.zip"
     }
    },
+   "V7.2.2.0.KHIMIDA",
    {
     "V7.2.3.0.KHIMIDA": {
      "file": "miui_HMNoteLTEGlobal_V7.2.3.0.KHIMIDA_e8da8ed9b5_4.4.zip",
@@ -2569,6 +2591,7 @@
      "download": "http://bigota.d.miui.com/V8.2.1.0.KHIMIDL/miui_HMNoteLTEGlobal_V8.2.1.0.KHIMIDL_196c30cbf8_4.4.zip"
     }
    },
+   "V9.2.1.0.KHIMIEK",
    {
     "V9.2.2.0.KHIMIEK": {
      "file": "miui_HMNoteLTEGlobal_V9.2.2.0.KHIMIEK_ea6f646dfd_4.4.zip",
@@ -2585,18 +2608,28 @@
  },
  {
   "dipper": [
+   "V9.5.0.9.OEACNFA",
+   "V9.5.6.0.OEACNFA",
+   "V9.5.8.0.OEACNFA",
+   "V9.5.9.0.OEACNFA",
+   "V9.5.10.0.OEACNFA",
    {
     "V9.5.11.0.OEACNFA": {
      "file": "miui_MI8_V9.5.11.0.OEACNFA_4b37ec1ab5_8.1.zip",
      "download": "http://bigota.d.miui.com/V9.5.11.0.OEACNFA/miui_MI8_V9.5.11.0.OEACNFA_4b37ec1ab5_8.1.zip"
     }
    },
+   "V9.6.3.0.OEACNFD",
+   "V9.5.2.1.OEACNFA",
+   "V9.6.6.0.OEACNFD",
    {
     "V9.6.7.0.OEACNFD": {
      "file": "miui_MI8_V9.6.7.0.OEACNFD_8b117abdad_8.1.zip",
      "download": "http://bigota.d.miui.com/V9.6.7.0.OEACNFD/miui_MI8_V9.6.7.0.OEACNFD_8b117abdad_8.1.zip"
     }
    },
+   "V10.0.4.0.OEACNFH",
+   "V10.0.5.0.OEACNFH",
    {
     "V10.0.6.0.OEACNFH": {
      "file": "miui_MI8_V10.0.6.0.OEACNFH_de53c16966_8.1.zip",
@@ -2621,6 +2654,7 @@
      "download": "http://bigota.d.miui.com/V10.0.11.0.OEACNFH/miui_MI8_V10.0.11.0.OEACNFH_3dc219a708_8.1.zip"
     }
    },
+   "V10.1.1.0.PEACNFI",
    {
     "V10.1.2.0.PEACNFI": {
      "file": "miui_MI8_V10.1.2.0.PEACNFI_1d114f271f_9.0.zip",
@@ -2639,6 +2673,7 @@
      "download": "http://bigota.d.miui.com/V10.2.3.0.PEACNXM/miui_MI8_V10.2.3.0.PEACNXM_c15a1602b8_9.0.zip"
     }
    },
+   "V10.3.1.0.PEACNXM",
    {
     "V10.3.2.0.PEACNXM": {
      "file": "miui_MI8_V10.3.2.0.PEACNXM_703365cf01_9.0.zip",
@@ -2667,6 +2702,7 @@
      "download": "http://bigota.d.miui.com/V9.6.1.0.OEAMIFD/miui_MI8Global_V9.6.1.0.OEAMIFD_6cefb53cfe_8.1.zip"
     }
    },
+   "V9.6.3.0.OEAMIFD",
    {
     "V9.6.4.0.OEAMIFD": {
      "file": "miui_MI8Global_V9.6.4.0.OEAMIFD_c058900b27_8.1.zip",
@@ -2721,6 +2757,8 @@
      "download": "http://bigota.d.miui.com/V10.2.3.0.PEAMIXM/miui_MI8Global_V10.2.3.0.PEAMIXM_baafb8a2ee_9.0.zip"
     }
    },
+   "V10.3.1.0.PEAMIXM",
+   "V10.2.3.0.PEAMIHG",
    {
     "V10.3.2.0.PEAMIXM": {
      "file": "miui_MI8Global_V10.3.2.0.PEAMIXM_d9cf6c80bf_9.0.zip",
@@ -2749,6 +2787,7 @@
      "download": "http://bigota.d.miui.com/V10.2.1.0.PECCNFK/miui_MI8UD_V10.2.1.0.PECCNFK_2b3cc85dac_9.0.zip"
     }
    },
+   "V10.3.1.0.PECCNXM",
    {
     "V10.3.3.0.PECCNXM": {
      "file": "miui_MI8UD_V10.3.3.0.PECCNXM_e15fc692b0_9.0.zip",
@@ -2789,6 +2828,7 @@
      "download": "http://bigota.d.miui.com/V10.2.2.0.PECMIXM/miui_MI8UDGlobal_V10.2.2.0.PECMIXM_18c3c043ea_9.0.zip"
     }
    },
+   "V10.3.1.0.PECMIXM",
    {
     "V10.3.3.0.PECMIXM": {
      "file": "miui_MI8UDGlobal_V10.3.3.0.PECMIXM_cbd37dea1a_9.0.zip",
@@ -2817,12 +2857,15 @@
      "download": "http://bigota.d.miui.com/V6.6.3.0.LXICNCF/miui_MI4i_V6.6.3.0.LXICNCF_a6e0043bde_5.0.zip"
     }
    },
+   "V6.6.7.0.LXICNCF",
+   "V6.6.8.0.LXICNCF",
    {
     "V6.7.1.0.LXICNCH": {
      "file": "miui_MI4i_V6.7.1.0.LXICNCH_df24b136e0_5.0.zip",
      "download": "http://bigota.d.miui.com/V6.7.1.0.LXICNCH/miui_MI4i_V6.7.1.0.LXICNCH_df24b136e0_5.0.zip"
     }
    },
+   "V7.0.0.1.LXICNCI",
    {
     "V7.0.3.0.LXICNCI": {
      "file": "miui_MI4i_V7.0.3.0.LXICNCI_e46da51542_5.0.zip",
@@ -2869,6 +2912,7 @@
      "download": "http://bigota.d.miui.com/V7.2.2.0.MAACNDB/miui_MI5_V7.2.2.0.MAACNDB_0218520d5a_6.0.zip"
     }
    },
+   "V7.2.3.0.MAACNDB",
    {
     "V7.2.4.0.MAACNDB": {
      "file": "miui_MI5_V7.2.4.0.MAACNDB_61fce4775a_6.0.zip",
@@ -2899,6 +2943,7 @@
      "download": "http://bigota.d.miui.com/V7.2.8.0.MAACNDB/miui_MI5_V7.2.8.0.MAACNDB_b854b343b7_6.0.zip"
     }
    },
+   "V7.2.10.0.MAACNDB",
    {
     "V7.2.11.0.MAACNDB": {
      "file": "miui_MI5_V7.2.11.0.MAACNDB_06a9206d42_6.0.zip",
@@ -2917,6 +2962,7 @@
      "download": "http://bigota.d.miui.com/V7.2.13.0.MAACNDB/miui_MI5_V7.2.13.0.MAACNDB_bb678c5a81_6.0.zip"
     }
    },
+   "V7.2.14.0.MAACNDB",
    {
     "V7.3.2.0.MAACNDD": {
      "file": "miui_MI5_V7.3.2.0.MAACNDD_905c2c8100_6.0.zip",
@@ -2935,6 +2981,7 @@
      "download": "http://bigota.d.miui.com/V7.3.4.0.MAACNDD/miui_MI5_V7.3.4.0.MAACNDD_c5a2d87501_6.0.zip"
     }
    },
+   "V7.3.9.0.MAACNDD",
    {
     "V7.3.10.0.MAACNDD": {
      "file": "miui_MI5_V7.3.10.0.MAACNDD_652af7c6be_6.0.zip",
@@ -2947,18 +2994,26 @@
      "download": "http://bigota.d.miui.com/V7.5.4.0.MAACNDE/miui_MI5_V7.5.4.0.MAACNDE_c2c03f7eb6_6.0.zip"
     }
    },
+   "V7.5.4.1.MAACNDE",
    {
     "V7.5.6.0.MAACNDE": {
      "file": "miui_MI5_V7.5.6.0.MAACNDE_6177ba23a4_6.0.zip",
      "download": "http://bigota.d.miui.com/V7.5.6.0.MAACNDE/miui_MI5_V7.5.6.0.MAACNDE_6177ba23a4_6.0.zip"
     }
    },
+   "V7.5.7.0.MAACNDE",
+   "V7.5.8.0.MAACNDE",
    {
     "V7.5.9.0.MAACNDE": {
      "file": "miui_MI5_V7.5.9.0.MAACNDE_67b2edd4d4_6.0.zip",
      "download": "http://bigota.d.miui.com/V7.5.9.0.MAACNDE/miui_MI5_V7.5.9.0.MAACNDE_67b2edd4d4_6.0.zip"
     }
    },
+   "V8.0.3.0.MAACNDH",
+   "V8.0.5.0.MAACNDH",
+   "V8.0.6.0.MAACNDH",
+   "V8.0.7.0.MAACNDH",
+   "V8.0.8.0.MAACNDH",
    {
     "V8.0.10.0.MAACNDH": {
      "file": "miui_MI5_V8.0.10.0.MAACNDH_a96830d90c_6.0.zip",
@@ -2971,18 +3026,23 @@
      "download": "http://bigota.d.miui.com/V8.0.12.0.MAACNDI/miui_MI5_V8.0.12.0.MAACNDI_0d717ef060_6.0.zip"
     }
    },
+   "V8.1.1.0.MAACNDI",
    {
     "V8.1.3.0.MAACNDI": {
      "file": "miui_MI5_V8.1.3.0.MAACNDI_2baf6c3880_6.0.zip",
      "download": "http://bigota.d.miui.com/V8.1.3.0.MAACNDI/miui_MI5_V8.1.3.0.MAACNDI_2baf6c3880_6.0.zip"
     }
    },
+   "V8.1.4.0.MAACNDI",
    {
     "V8.1.6.0.MAACNDI": {
      "file": "miui_MI5_V8.1.6.0.MAACNDI_f048fabfc3_6.0.zip",
      "download": "http://bigota.d.miui.com/V8.1.6.0.MAACNDI/miui_MI5_V8.1.6.0.MAACNDI_f048fabfc3_6.0.zip"
     }
    },
+   "V8.1.7.0.NAACNDL",
+   "V8.1.8.0.NAACNDL",
+   "V8.1.9.0.NAACNDL",
    {
     "V8.2.1.0.NAACNEB": {
      "file": "miui_MI5_V8.2.1.0.NAACNEB_45a462dd6e_7.0.zip",
@@ -3071,6 +3131,8 @@
  },
  {
   "gemini_global": [
+   "V7.2.4.0.MAAMIDC",
+   "V7.2.8.0.MAAMIDC",
    {
     "V7.3.5.0.MAAMIDD": {
      "file": "miui_MI5Global_V7.3.5.0.MAAMIDD_bda19e067c_6.0.zip",
@@ -3095,6 +3157,7 @@
      "download": "http://bigota.d.miui.com/V7.5.2.0.MAAMIDE/miui_MI5Global_V7.5.2.0.MAAMIDE_390d9057ae_6.0.zip"
     }
    },
+   "V7.5.3.0.MAAMIDE",
    {
     "V8.0.2.0.MAAMIDG": {
      "file": "miui_MI5Global_V8.0.2.0.MAAMIDG_016150f985_6.0.zip",
@@ -3119,6 +3182,7 @@
      "download": "http://bigota.d.miui.com/V8.1.4.0.MAAMIDI/miui_MI5Global_V8.1.4.0.MAAMIDI_fc3bbcd638_6.0.zip"
     }
    },
+   "V8.2.1.0.NAAMIEB",
    {
     "V8.2.2.0.NAAMIEB": {
      "file": "miui_MI5Global_V8.2.2.0.NAAMIEB_b03a4b93ba_7.0.zip",
@@ -3143,12 +3207,14 @@
      "download": "http://bigota.d.miui.com/V9.2.1.0.NAAMIEK/miui_MI5Global_V9.2.1.0.NAAMIEK_06bac0876f_7.0.zip"
     }
    },
+   "V9.5.1.0.NAAMIFA",
    {
     "V9.5.2.0.NAAMIFA": {
      "file": "miui_MI5Global_V9.5.2.0.NAAMIFA_be043880fb_7.0.zip",
      "download": "http://bigota.d.miui.com/V9.5.2.0.NAAMIFA/miui_MI5Global_V9.5.2.0.NAAMIFA_be043880fb_7.0.zip"
     }
    },
+   "V9.5.3.0.NAAMIFA",
    {
     "V9.5.5.0.NAAMIFA": {
      "file": "miui_MI5Global_V9.5.5.0.NAAMIFA_aae9d3c565_7.0.zip",
@@ -3195,6 +3261,7 @@
      "download": "http://bigota.d.miui.com/V10.2.5.0.PFBCNXM/miui_GRUS_V10.2.5.0.PFBCNXM_a8508c5e9e_9.0.zip"
     }
    },
+   "V10.2.8.0.PFBCNXM",
    {
     "V10.2.11.0.PFBCNXM": {
      "file": "miui_GRUS_V10.2.11.0.PFBCNXM_a2557d7524_9.0.zip",
@@ -3229,12 +3296,14 @@
      "download": "http://bigota.d.miui.com/V10.2.5.0.PFBEUXM/miui_GRUSEEAGlobal_V10.2.5.0.PFBEUXM_16141f0824_9.0.zip"
     }
    },
+   "V10.2.1.0.PFBEUSF",
    {
     "V10.2.9.0.PFBEUXM": {
      "file": "miui_GRUSEEAGlobal_V10.2.9.0.PFBEUXM_432d8a9116_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.2.9.0.PFBEUXM/miui_GRUSEEAGlobal_V10.2.9.0.PFBEUXM_432d8a9116_9.0.zip"
     }
-   }
+   },
+   "V10.3.1.0.PFBEUXM"
   ]
  },
  {
@@ -3244,7 +3313,8 @@
      "file": "miui_GRUSGlobal_V10.2.2.0.PFBMIXM_b4cc336f0d_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.2.2.0.PFBMIXM/miui_GRUSGlobal_V10.2.2.0.PFBMIXM_b4cc336f0d_9.0.zip"
     }
-   }
+   },
+   "V10.3.1.0.PFBMIXM"
   ]
  },
  {
@@ -3267,12 +3337,14 @@
      "download": "http://bigota.d.miui.com/V6.3.11.0.KHKCNBL/miui_HMNote1S_V6.3.11.0.KHKCNBL_6618cefbe4_4.4.zip"
     }
    },
+   "V6.4.5.0.KHKCNCB",
    {
     "V6.4.7.0.KHKCNCB": {
      "file": "miui_HMNote1S_V6.4.7.0.KHKCNCB_a31125cded_4.4.zip",
      "download": "http://bigota.d.miui.com/V6.4.7.0.KHKCNCB/miui_HMNote1S_V6.4.7.0.KHKCNCB_a31125cded_4.4.zip"
     }
    },
+   "V6.4.8.0.KHKCNCB",
    {
     "V6.5.1.0.KHKCNCD": {
      "file": "miui_HMNote1S_V6.5.1.0.KHKCNCD_6b32fa3d11_4.4.zip",
@@ -3303,6 +3375,7 @@
      "download": "http://bigota.d.miui.com/V6.6.1.0.KHKCNCF/miui_HMNote1S_V6.6.1.0.KHKCNCF_65fa28faf2_4.4.zip"
     }
    },
+   "V6.6.2.0.KHKCNCF",
    {
     "V6.6.3.0.KHKCNCF": {
      "file": "miui_HMNote1S_V6.6.3.0.KHKCNCF_8f780a1e8c_4.4.zip",
@@ -3369,6 +3442,7 @@
      "download": "http://bigota.d.miui.com/V8.2.1.0.KHKCNDL/miui_HMNote1S_V8.2.1.0.KHKCNDL_75bd15bb39_4.4.zip"
     }
    },
+   "V8.5.1.0.KHKCNED",
    {
     "V8.5.2.0.KHKCNED": {
      "file": "miui_HMNote1S_V8.5.2.0.KHKCNED_b8ca675e1f_4.4.zip",
@@ -3473,18 +3547,26 @@
  },
  {
   "helium": [
+   "V7.3.14.0.MBDCNDE",
+   "V7.3.15.0.MBDCNDE",
+   "V7.3.16.0.MBDCNDE",
+   "V7.5.1.0.MBDCNDE",
+   "V7.5.2.0.MBDCNDE",
    {
     "V7.5.4.0.MBDCNDE": {
      "file": "miui_MIMAX652_V7.5.4.0.MBDCNDE_7290cd30d1_6.0.zip",
      "download": "http://bigota.d.miui.com/V7.5.4.0.MBDCNDE/miui_MIMAX652_V7.5.4.0.MBDCNDE_7290cd30d1_6.0.zip"
     }
    },
+   "V7.5.5.0.MBDCNDE",
    {
     "V7.5.6.0.MBDCNDE": {
      "file": "miui_MIMAX652_V7.5.6.0.MBDCNDE_2f3e04798b_6.0.zip",
      "download": "http://bigota.d.miui.com/V7.5.6.0.MBDCNDE/miui_MIMAX652_V7.5.6.0.MBDCNDE_2f3e04798b_6.0.zip"
     }
    },
+   "V7.5.7.0.MBDCNDE",
+   "V8.0.1.0.MBDCNDG",
    {
     "V8.0.2.0.MBDCNDG": {
      "file": "miui_MIMAX652_V8.0.2.0.MBDCNDG_55200d7b4e_6.0.zip",
@@ -3497,6 +3579,7 @@
      "download": "http://bigota.d.miui.com/V8.0.3.0.MBDCNDG/miui_MIMAX652_V8.0.3.0.MBDCNDG_ca79ab4112_6.0.zip"
     }
    },
+   "V8.1.1.0.MBDCNDI",
    {
     "V8.1.3.0.MBDCNDI": {
      "file": "miui_MIMAX652_V8.1.3.0.MBDCNDI_19fa626343_6.0.zip",
@@ -3515,6 +3598,7 @@
      "download": "http://bigota.d.miui.com/V8.1.5.0.MBDCNDI/miui_MIMAX652_V8.1.5.0.MBDCNDI_152f1d42b9_6.0.zip"
     }
    },
+   "V8.2.1.0.MBDCNDL",
    {
     "V8.2.2.0.MBDCNDL": {
      "file": "miui_MIMAX652_V8.2.2.0.MBDCNDL_f539959c25_6.0.zip",
@@ -3527,6 +3611,9 @@
      "download": "http://bigota.d.miui.com/V8.2.3.0.MBDCNDL/miui_MIMAX652_V8.2.3.0.MBDCNDL_e96f2aaeac_6.0.zip"
     }
    },
+   "V8.5.1.0.NBDCNED",
+   "V8.5.2.0.NBDCNED",
+   "V9.1.1.0.NBDCNEI",
    {
     "V9.1.2.0.NBDCNEI": {
      "file": "miui_MIMAX652_V9.1.2.0.NBDCNEI_75e2f83c00_7.0.zip",
@@ -3591,6 +3678,7 @@
      "download": "http://bigota.d.miui.com/V8.0.3.0.MBDMIDG/miui_MIMAX652Global_V8.0.3.0.MBDMIDG_2da4c7e9db_6.0.zip"
     }
    },
+   "V8.1.1.0.MBDMIDI",
    {
     "V8.1.3.0.MBDMIDI": {
      "file": "miui_MIMAX652Global_V8.1.3.0.MBDMIDI_d098c43a04_6.0.zip",
@@ -3615,6 +3703,7 @@
      "download": "http://bigota.d.miui.com/V8.1.9.0.MBDMIDI/miui_MIMAX652Global_V8.1.9.0.MBDMIDI_befee4b71b_6.0.zip"
     }
    },
+   "V8.2.1.0.MBDMIDL",
    {
     "V8.2.3.0.MBDMIDL": {
      "file": "miui_MIMAX652Global_V8.2.3.0.MBDMIDL_62b7da3cb0_6.0.zip",
@@ -3639,6 +3728,7 @@
      "download": "http://bigota.d.miui.com/V9.2.1.0.NBDMIEK/miui_MIMAX652Global_V9.2.1.0.NBDMIEK_89f4a2cce2_7.0.zip"
     }
    },
+   "V9.5.1.0.NBDMIFA",
    {
     "V9.5.2.0.NBDMIFA": {
      "file": "miui_MIMAX652Global_V9.5.2.0.NBDMIFA_935ffa42ef_7.0.zip",
@@ -3703,6 +3793,7 @@
      "download": "http://bigota.d.miui.com/V7.0.7.0.LHNCNCJ/miui_HMNote3_V7.0.7.0.LHNCNCJ_37794a6b31_5.0.zip"
     }
    },
+   "V7.0.11.0.LHNCNCJ",
    {
     "V7.0.16.0.LHNCNCJ": {
      "file": "miui_HMNote3_V7.0.16.0.LHNCNCJ_5b33f0a630_5.0.zip",
@@ -3715,6 +3806,8 @@
      "download": "http://bigota.d.miui.com/V7.0.19.0.LHNCNCJ/miui_HMNote3_V7.0.19.0.LHNCNCJ_1b1d1631ad_5.0.zip"
     }
    },
+   "V7.0.22.0.LHNCNCJ",
+   "V7.1.3.0.LHNCNCK",
    {
     "V7.1.6.0.LHNCNCK": {
      "file": "miui_HMNote3_V7.1.6.0.LHNCNCK_fdbfd526d4_5.0.zip",
@@ -3739,12 +3832,15 @@
      "download": "http://bigota.d.miui.com/V7.2.3.0.LHNCNDA/miui_HMNote3_V7.2.3.0.LHNCNDA_14531c51c2_5.0.zip"
     }
    },
+   "V7.2.4.0.LHNCNDA",
    {
     "V7.2.5.0.LHNCNDA": {
      "file": "miui_HMNote3_V7.2.5.0.LHNCNDA_ac160a83ed_5.0.zip",
      "download": "http://bigota.d.miui.com/V7.2.5.0.LHNCNDA/miui_HMNote3_V7.2.5.0.LHNCNDA_ac160a83ed_5.0.zip"
     }
    },
+   "V7.3.1.0.LHNCNDD",
+   "V7.3.2.0.LHNCNDD",
    {
     "V7.3.3.0.LHNCNDD": {
      "file": "miui_HMNote3_V7.3.3.0.LHNCNDD_1b35def95d_5.0.zip",
@@ -3757,6 +3853,7 @@
      "download": "http://bigota.d.miui.com/V7.5.1.0.LHNCNDE/miui_HMNote3_V7.5.1.0.LHNCNDE_962be569f6_5.0.zip"
     }
    },
+   "V7.5.2.0.LHNCNDE",
    {
     "V8.0.1.0.LHNCNDG": {
      "file": "miui_HMNote3_V8.0.1.0.LHNCNDG_bbc7d4e6a1_5.0.zip",
@@ -3769,6 +3866,8 @@
      "download": "http://bigota.d.miui.com/V8.0.2.0.LHNCNDG/miui_HMNote3_V8.0.2.0.LHNCNDG_fecd00a958_5.0.zip"
     }
    },
+   "V8.0.3.0.LHNCNDG",
+   "V8.1.1.0.LHNCNDI",
    {
     "V8.1.3.0.LHNCNDI": {
      "file": "miui_HMNote3_V8.1.3.0.LHNCNDI_dde4608901_5.0.zip",
@@ -3805,6 +3904,7 @@
      "download": "http://bigota.d.miui.com/V9.5.1.0.LHNCNFA/miui_HMNote3_V9.5.1.0.LHNCNFA_2329f3532d_5.0.zip"
     }
    },
+   "V9.5.2.0.LHNCNFA",
    {
     "V9.6.1.0.LHNCNFD": {
      "file": "miui_HMNote3_V9.6.1.0.LHNCNFD_c1e5a895a8_5.0.zip",
@@ -3815,6 +3915,7 @@
  },
  {
   "hermes": [
+   "V6.6.0.1.KHMCNCF",
    {
     "V6.6.0.2.LHMCNCF": {
      "file": "miui_HERMES_V6.6.0.2.LHMCNCF_e3919f3336_5.0.zip",
@@ -3899,6 +4000,7 @@
      "download": "http://bigota.d.miui.com/V6.6.8.0.LHMCNCF/miui_HMNote2_V6.6.8.0.LHMCNCF_6a9a0deecc_5.0.zip"
     }
    },
+   "V6.7.1.0.LHMCNCH",
    {
     "V6.7.2.0.LHMCNCH": {
      "file": "miui_HMNote2_V6.7.2.0.LHMCNCH_f92112266c_5.0.zip",
@@ -3923,6 +4025,7 @@
      "download": "http://bigota.d.miui.com/V6.7.5.0.LHMCNCH/miui_HMNote2_V6.7.5.0.LHMCNCH_7b45a9a562_5.0.zip"
     }
    },
+   "V6.7.7.0.LHMCNCH",
    {
     "V6.7.10.0.LHMCNCH": {
      "file": "miui_HMNote2_V6.7.10.0.LHMCNCH_f75442bc6d_5.0.zip",
@@ -3953,6 +4056,10 @@
      "download": "http://bigota.d.miui.com/V7.0.8.0.LHMCNCI/miui_HMNote2_V7.0.8.0.LHMCNCI_0fb9cb89be_5.0.zip"
     }
    },
+   "V7.0.11.0.LHMCNCI",
+   "V7.0.12.0.LHMCNCI",
+   "V7.0.14.0.LHMCNCI",
+   "V7.1.1.0.LHMCNCK",
    {
     "V7.1.3.0.LHMCNCK": {
      "file": "miui_HMNote2_V7.1.3.0.LHMCNCK_f91ea75298_5.0.zip",
@@ -3965,12 +4072,15 @@
      "download": "http://bigota.d.miui.com/V7.1.4.0.LHMCNCK/miui_HMNote2_V7.1.4.0.LHMCNCK_3c659e9201_5.0.zip"
     }
    },
+   "V7.2.1.0.LHMCNDB",
+   "V7.2.2.0.LHMCNDA",
    {
     "V7.2.3.0.LHMCNDA": {
      "file": "miui_HMNote2_V7.2.3.0.LHMCNDA_7c6198ec45_5.0.zip",
      "download": "http://bigota.d.miui.com/V7.2.3.0.LHMCNDA/miui_HMNote2_V7.2.3.0.LHMCNDA_7c6198ec45_5.0.zip"
     }
    },
+   "V7.3.1.0.LHMCNDD",
    {
     "V7.3.2.0.LHMCNDD": {
      "file": "miui_HMNote2_V7.3.2.0.LHMCNDD_201457b21d_5.0.zip",
@@ -3983,6 +4093,7 @@
      "download": "http://bigota.d.miui.com/V7.5.1.0.LHMCNDE/miui_HMNote2_V7.5.1.0.LHMCNDE_d5fb9ff5fb_5.0.zip"
     }
    },
+   "V7.5.2.0.LHMCNDE",
    {
     "V7.5.3.0.LHMCNDE": {
      "file": "miui_HMNote2_V7.5.3.0.LHMCNDE_5c328ed503_5.0.zip",
@@ -3995,6 +4106,7 @@
      "download": "http://bigota.d.miui.com/V7.5.5.0.LHMCNDE/miui_HMNote2_V7.5.5.0.LHMCNDE_2fe90ead64_5.0.zip"
     }
    },
+   "V7.5.4.0.LHMCNDE",
    {
     "V8.0.1.0.LHMCNDG": {
      "file": "miui_HMNote2_V8.0.1.0.LHMCNDG_bd3340753f_5.0.zip",
@@ -4007,6 +4119,8 @@
      "download": "http://bigota.d.miui.com/V8.0.2.0.LHMCNDG/miui_HMNote2_V8.0.2.0.LHMCNDG_aa47b7edd9_5.0.zip"
     }
    },
+   "V8.0.3.0.LHMCNDG",
+   "V8.1.1.0.LHMCNDI",
    {
     "V8.1.3.0.LHMCNDI": {
      "file": "miui_HMNote2_V8.1.3.0.LHMCNDI_1d9361268f_5.0.zip",
@@ -4065,6 +4179,7 @@
  },
  {
   "hermes_global": [
+   "V7.0.11.0.LHMMICI",
    {
     "V7.0.12.0.LHMMICI": {
      "file": "miui_HMNote2Global_V7.0.12.0.LHMMICI_184f32e3b7_5.0.zip",
@@ -4101,6 +4216,7 @@
      "download": "http://bigota.d.miui.com/V7.2.3.0.LHMMIDA/miui_HMNote2Global_V7.2.3.0.LHMMIDA_979b829e64_5.0.zip"
     }
    },
+   "V7.3.1.0.LHMMIDD",
    {
     "V7.3.3.0.LHMMIDD": {
      "file": "miui_HMNote2Global_V7.3.3.0.LHMMIDD_d3e4a2e5c9_5.0.zip",
@@ -4113,6 +4229,7 @@
      "download": "http://bigota.d.miui.com/V7.5.1.0.LHMMIDE/miui_HMNote2Global_V7.5.1.0.LHMMIDE_a55779e620_5.0.zip"
     }
    },
+   "V7.5.2.0.LHMMIDE",
    {
     "V8.0.1.0.LHMMIDG": {
      "file": "miui_HMNote2Global_V8.0.1.0.LHMMIDG_e88d21e2a2_5.0.zip",
@@ -4137,6 +4254,7 @@
      "download": "http://bigota.d.miui.com/V8.5.1.0.LHMMIED/miui_HMNote2Global_V8.5.1.0.LHMMIED_7375e06057_5.0.zip"
     }
    },
+   "V9.2.3.0.LHMMIEK",
    {
     "V9.2.4.0.LHMMIEK": {
      "file": "miui_HMNote2Global_V9.2.4.0.LHMMIEK_d8c9295957_5.0.zip",
@@ -4171,18 +4289,28 @@
  },
  {
   "hydrogen": [
+   "V7.3.10.0.MBCCNDC",
+   "V7.3.11.0.MBCCNDC",
+   "V7.3.12.0.MBCCNDC",
+   "V7.3.14.0.MBCCNDC",
+   "V7.3.15.0.MBCCNDC",
+   "V7.3.16.0.MBCCNDE",
+   "V7.5.1.0.MBCCNDE",
+   "V7.5.2.0.MBCCNDE",
    {
     "V7.5.4.0.MBCCNDE": {
      "file": "miui_MIMAX_V7.5.4.0.MBCCNDE_e7b05e60ad_6.0.zip",
      "download": "http://bigota.d.miui.com/V7.5.4.0.MBCCNDE/miui_MIMAX_V7.5.4.0.MBCCNDE_e7b05e60ad_6.0.zip"
     }
    },
+   "V7.5.5.0.MBCCNDE",
    {
     "V7.5.6.0.MBCCNDE": {
      "file": "miui_MIMAX_V7.5.6.0.MBCCNDE_5ec43abb75_6.0.zip",
      "download": "http://bigota.d.miui.com/V7.5.6.0.MBCCNDE/miui_MIMAX_V7.5.6.0.MBCCNDE_5ec43abb75_6.0.zip"
     }
    },
+   "V7.5.7.0.MBCCNDE",
    {
     "V8.0.1.0.MBCCNDG": {
      "file": "miui_MIMAX_V8.0.1.0.MBCCNDG_688a9ea082_6.0.zip",
@@ -4201,6 +4329,7 @@
      "download": "http://bigota.d.miui.com/V8.0.3.0.MBCCNDG/miui_MIMAX_V8.0.3.0.MBCCNDG_504480c785_6.0.zip"
     }
    },
+   "V8.1.1.0.MBCCNDI",
    {
     "V8.1.3.0.MBCCNDI": {
      "file": "miui_MIMAX_V8.1.3.0.MBCCNDI_ccfb81f1a8_6.0.zip",
@@ -4219,6 +4348,7 @@
      "download": "http://bigota.d.miui.com/V8.1.5.0.MBCCNDI/miui_MIMAX_V8.1.5.0.MBCCNDI_3a01fdd44b_6.0.zip"
     }
    },
+   "V8.2.1.0.MBCCNDL",
    {
     "V8.2.2.0.MBCCNDL": {
      "file": "miui_MIMAX_V8.2.2.0.MBCCNDL_756c0c1f79_6.0.zip",
@@ -4231,12 +4361,16 @@
      "download": "http://bigota.d.miui.com/V8.2.3.0.MBCCNDL/miui_MIMAX_V8.2.3.0.MBCCNDL_09dd6b2ce1_6.0.zip"
     }
    },
+   "V8.5.1.0.NBCCNED",
+   "V8.5.2.0.NBCCNED",
+   "V9.1.1.0.NBCCNEI",
    {
     "V9.1.2.0.NBCCNEI": {
      "file": "miui_MIMAX_V9.1.2.0.NBCCNEI_e596476067_7.0.zip",
      "download": "http://bigota.d.miui.com/V9.1.2.0.NBCCNEI/miui_MIMAX_V9.1.2.0.NBCCNEI_e596476067_7.0.zip"
     }
    },
+   "V9.1.3.0.NBCCNEI",
    {
     "V9.2.1.0.NBCCNEK": {
      "file": "miui_MIMAX_V9.2.1.0.NBCCNEK_a051a1b732_7.0.zip",
@@ -4295,6 +4429,8 @@
      "download": "http://bigota.d.miui.com/V7.5.3.0.MBCMIDE/miui_MIMAXGlobal_V7.5.3.0.MBCMIDE_267a7c4439_6.0.zip"
     }
    },
+   "V7.5.4.0.MBCMIDE",
+   "V7.5.6.0.MBCMIDE",
    {
     "V7.5.4.1.MBCMIDE": {
      "file": "miui_MIMAXGlobal_V7.5.4.1.MBCMIDE_472e349b4d_6.0.zip",
@@ -4343,6 +4479,9 @@
      "download": "http://bigota.d.miui.com/V8.1.6.0.MBCMIDI/miui_MIMAXGlobal_V8.1.6.0.MBCMIDI_1e6706b520_6.0.zip"
     }
    },
+   "V8.2.1.0.MBCMIDL",
+   "V8.2.3.0.MBCMIDL",
+   "V8.2.4.0.MBCMIDL",
    {
     "V8.2.5.0.MBCMIDL": {
      "file": "miui_MIMAXGlobal_V8.2.5.0.MBCMIDL_754e317c95_6.0.zip",
@@ -4367,6 +4506,7 @@
      "download": "http://bigota.d.miui.com/V9.2.1.0.NBCMIEK/miui_MIMAXGlobal_V9.2.1.0.NBCMIEK_9b0680b676_7.0.zip"
     }
    },
+   "V9.5.1.0.NBCMIFA",
    {
     "V9.5.2.0.NBCMIFA": {
      "file": "miui_MIMAXGlobal_V9.5.2.0.NBCMIFA_66a18ac56c_7.0.zip",
@@ -4419,6 +4559,7 @@
      "download": "http://bigota.d.miui.com/V7.5.2.0.LAICNDE/miui_HM3_V7.5.2.0.LAICNDE_32ad406691_5.1.zip"
     }
    },
+   "V7.5.3.0.LAICNDE",
    {
     "V8.0.1.0.LAICNDG": {
      "file": "miui_HM3_V8.0.1.0.LAICNDG_b2b048b0b3_5.1.zip",
@@ -4443,6 +4584,7 @@
      "download": "http://bigota.d.miui.com/V8.1.1.0.LAICNDI/miui_HM3_V8.1.1.0.LAICNDI_e0001b8f26_5.1.zip"
     }
    },
+   "V8.2.2.0.LAICNDL",
    {
     "V8.5.2.0.LAICNED": {
      "file": "miui_HM3_V8.5.2.0.LAICNED_639757f037_5.1.zip",
@@ -4473,6 +4615,23 @@
      "download": "http://bigota.d.miui.com/V9.6.1.0.LAICNFD/miui_HM3_V9.6.1.0.LAICNFD_0e8630d551_5.1.zip"
     }
    }
+  ]
+ },
+ {
+  "jasmine": [
+   "V9.6.5.0.ODIMIFE",
+   "V9.6.9.0.ODIMIFE",
+   "V9.6.10.0.ODIMIFE",
+   "V9.6.13.0.ODIMIFE",
+   "V9.6.14.0.ODIMIFE",
+   "V9.6.15.0.ODIMIFE",
+   "V9.6.16.0.ODIMIFE",
+   "V9.6.17.0.ODIMIFE",
+   "V10.0.5.0.PDIMIXM",
+   "V10.0.7.0.PDIMIXM",
+   "V10.0.8.0.PDIMIXM",
+   "V10.0.9.0.PDIMIXM",
+   "V10.0.10.0.PDIMIXM"
   ]
  },
  {
@@ -4537,6 +4696,7 @@
      "download": "http://bigota.d.miui.com/V8.5.12.0.NCHCNED/miui_MINote3_V8.5.12.0.NCHCNED_4640cd844d_7.1.zip"
     }
    },
+   "V9.1.1.0.NCHCNEI",
    {
     "V8.5.8.0.NCHCNED": {
      "file": "miui_JASON_V8.5.8.0.NCHCNED_51a7fb0553_7.1.zip",
@@ -4597,6 +4757,8 @@
      "download": "http://bigota.d.miui.com/V9.6.1.0.NCHCNFD/miui_MINote3_V9.6.1.0.NCHCNFD_7bba0c2b0c_7.1.zip"
     }
    },
+   "V10.0.2.0.OCHCNFH",
+   "V10.0.4.0.OCHCNFH",
    {
     "V10.0.5.0.OCHCNFH": {
      "file": "miui_MINote3_V10.0.5.0.OCHCNFH_c48c33b395_8.1.zip",
@@ -4619,6 +4781,7 @@
  },
  {
   "jason_global": [
+   "V9.1.4.0.NCHMIEI",
    {
     "V9.5.3.0.NCHMIFA": {
      "file": "miui_MINote3Global_V9.5.3.0.NCHMIFA_f75ae7e989_7.1.zip",
@@ -4671,6 +4834,7 @@
      "download": "http://bigota.d.miui.com/V7.5.2.0.MHRMIDE/miui_HMNote3ProtwGlobal_V7.5.2.0.MHRMIDE_2104cb492f_6.0.zip"
     }
    },
+   "V8.0.2.0.MHRMIDG",
    {
     "V8.0.4.0.MHRMIDG": {
      "file": "miui_HMNote3ProtwGlobal_V8.0.4.0.MHRMIDG_901f565f57_6.0.zip",
@@ -4695,6 +4859,8 @@
      "download": "http://bigota.d.miui.com/V8.1.3.0.MHRMIDI/miui_HMNote3ProtwGlobal_V8.1.3.0.MHRMIDI_14698da799_6.0.zip"
     }
    },
+   "V8.2.1.0.MHRMIDL",
+   "V8.2.3.0.MHRMIDL",
    {
     "V8.2.4.0.MHRMIDL": {
      "file": "miui_HMNote3ProtwGlobal_V8.2.4.0.MHRMIDL_4f1f9a34ca_6.0.zip",
@@ -4719,18 +4885,21 @@
      "download": "http://bigota.d.miui.com/V9.2.3.0.MHRMIEK/miui_HMNote3ProtwGlobal_V9.2.3.0.MHRMIEK_04c442630f_6.0.zip"
     }
    },
+   "V9.5.2.0.MHRMIEK",
    {
     "V9.5.4.0.MHRMIFA": {
      "file": "miui_HMNote3ProtwGlobal_V9.5.4.0.MHRMIFA_75f29362f6_6.0.zip",
      "download": "http://bigota.d.miui.com/V9.5.4.0.MHRMIFA/miui_HMNote3ProtwGlobal_V9.5.4.0.MHRMIFA_75f29362f6_6.0.zip"
     }
    },
+   "V9.5.6.0.MHRMIFD",
    {
     "V9.5.7.0.MHRMIFA": {
      "file": "miui_HMNote3ProtwGlobal_V9.5.7.0.MHRMIFA_d5df352343_6.0.zip",
      "download": "http://bigota.d.miui.com/V9.5.7.0.MHRMIFA/miui_HMNote3ProtwGlobal_V9.5.7.0.MHRMIFA_d5df352343_6.0.zip"
     }
    },
+   "V9.6.2.0.MHRMIFD",
    {
     "V9.6.3.0.MHRMIFD": {
      "file": "miui_HMNote3ProtwGlobal_V9.6.3.0.MHRMIFD_4aed4c9137_6.0.zip",
@@ -4753,12 +4922,19 @@
  },
  {
   "kenzo": [
+   "V7.1.1.1.LHOCNCL",
+   "V7.1.2.0.LHOCNCL",
+   "V7.1.5.0.LHOCNCL",
+   "V7.1.6.0.LHOCNCL",
+   "V7.1.8.0.LHOCNCL",
    {
     "V7.1.9.0.LHOCNCL": {
      "file": "miui_HMNote3CT_V7.1.9.0.LHOCNCL_5bd1e9ddfd_5.1.zip",
      "download": "http://bigota.d.miui.com/V7.1.9.0.LHOCNCL/miui_HMNote3CT_V7.1.9.0.LHOCNCL_5bd1e9ddfd_5.1.zip"
     }
    },
+   "V7.1.7.0.LHOCNCL",
+   "V7.1.13.0.LHOCNCL",
    {
     "V7.1.16.0.LHOCNCL": {
      "file": "miui_HMNote3CT_V7.1.16.0.LHOCNCL_1ccfa3b349_5.1.zip",
@@ -4795,6 +4971,7 @@
      "download": "http://bigota.d.miui.com/V7.2.3.0.LHOCNDA/miui_HMNote3Pro_V7.2.3.0.LHOCNDA_6f9a4c6dd4_5.1.zip"
     }
    },
+   "V7.2.4.0.LHOCNDA",
    {
     "V7.2.5.0.LHOCNDA": {
      "file": "miui_HMNote3Pro_V7.2.5.0.LHOCNDA_479d1942d8_5.1.zip",
@@ -4807,6 +4984,7 @@
      "download": "http://bigota.d.miui.com/V7.3.2.0.LHOCNDD/miui_HMNote3Pro_V7.3.2.0.LHOCNDD_3219c6418a_5.1.zip"
     }
    },
+   "V7.3.5.0.LHOCNDD",
    {
     "V7.3.6.0.LHOCNDD": {
      "file": "miui_HMNote3Pro_V7.3.6.0.LHOCNDD_008c7a1a21_5.1.zip",
@@ -4819,6 +4997,7 @@
      "download": "http://bigota.d.miui.com/V7.3.8.0.LHOCNDD/miui_HMNote3Pro_V7.3.8.0.LHOCNDD_9e5c02ac3c_5.1.zip"
     }
    },
+   "V7.5.1.0.LHOCNDE",
    {
     "V7.5.2.0.LHOCNDE": {
      "file": "miui_HMNote3Pro_V7.5.2.0.LHOCNDE_0bf2155921_5.1.zip",
@@ -4837,6 +5016,8 @@
      "download": "http://bigota.d.miui.com/V8.0.1.0.LHOCNDG/miui_HMNote3Pro_V8.0.1.0.LHOCNDG_61fb9d596a_5.1.zip"
     }
    },
+   "V8.0.2.0.LHOCNDG",
+   "V8.0.3.0.LHOCNDG",
    {
     "V8.0.4.0.LHOCNDG": {
      "file": "miui_HMNote3Pro_V8.0.4.0.LHOCNDG_2e4bc56103_5.1.zip",
@@ -4849,6 +5030,7 @@
      "download": "http://bigota.d.miui.com/V8.0.5.0.LHOCNDG/miui_HMNote3Pro_V8.0.5.0.LHOCNDG_5ea9db8603_5.1.zip"
     }
    },
+   "V8.0.6.0.LHOCNDG",
    {
     "V8.0.7.0.LHOCNDG": {
      "file": "miui_HMNote3Pro_V8.0.7.0.LHOCNDG_731d9ce146_5.1.zip",
@@ -4873,6 +5055,7 @@
      "download": "http://bigota.d.miui.com/V8.2.1.0.MHOCNDL/miui_HMNote3Pro_V8.2.1.0.MHOCNDL_bdcce5de96_6.0.zip"
     }
    },
+   "V8.5.2.0.MHOCNED",
    {
     "V8.5.3.0.MHOCNED": {
      "file": "miui_HMNote3Pro_V8.5.3.0.MHOCNED_d604d11330_6.0.zip",
@@ -4891,12 +5074,16 @@
      "download": "http://bigota.d.miui.com/V8.5.4.0.MHOCNED/miui_HMNote3Pro_V8.5.4.0.MHOCNED_0ec552535c_6.0.zip"
     }
    },
+   "V9.2.1.0.MHOCNEK",
+   "V9.2.2.0.MHOCNEK",
+   "V9.5.1.0.MHOCNFA",
    {
     "V9.5.2.0.MHOCNFA": {
      "file": "miui_HMNote3Pro_V9.5.2.0.MHOCNFA_3f96f51f6d_6.0.zip",
      "download": "http://bigota.d.miui.com/V9.5.2.0.MHOCNFA/miui_HMNote3Pro_V9.5.2.0.MHOCNFA_3f96f51f6d_6.0.zip"
     }
    },
+   "V9.6.1.0.MHOCNFD",
    {
     "V9.6.3.0.MHOCNFD": {
      "file": "miui_HMNote3Pro_V9.6.3.0.MHOCNFD_3187ed3dc1_6.0.zip",
@@ -4967,6 +5154,8 @@
      "download": "http://bigota.d.miui.com/V7.3.7.0.LHOMIDD/miui_HMNote3ProGlobal_V7.3.7.0.LHOMIDD_8b4f14bb9d_5.1.zip"
     }
    },
+   "V7.5.3.0.LHOMIDE",
+   "V7.5.4.0.LHOMIDE",
    {
     "V8.0.1.0.LHOMIDG": {
      "file": "miui_HMNote3ProGlobal_V8.0.1.0.LHOMIDG_8976c33651_5.1.zip",
@@ -4997,12 +5186,15 @@
      "download": "http://bigota.d.miui.com/V8.1.1.0.MHOMIDI/miui_HMNote3ProGlobal_V8.1.1.0.MHOMIDI_8e5f6f8e03_6.0.zip"
     }
    },
+   "V8.1.4.0.MHOMIDI",
    {
     "V8.1.6.0.MHOMIDI": {
      "file": "miui_HMNote3ProGlobal_V8.1.6.0.MHOMIDI_8b2a6cbc26_6.0.zip",
      "download": "http://bigota.d.miui.com/V8.1.6.0.MHOMIDI/miui_HMNote3ProGlobal_V8.1.6.0.MHOMIDI_8b2a6cbc26_6.0.zip"
     }
    },
+   "V8.2.1.0.MHOMIDL",
+   "V8.2.2.0.MHOMIDL",
    {
     "V8.2.3.0.MHOMIDL": {
      "file": "miui_HMNote3ProGlobal_V8.2.3.0.MHOMIDL_96eaa8d7fa_6.0.zip",
@@ -5015,6 +5207,7 @@
      "download": "http://bigota.d.miui.com/V8.2.4.0.MHOMIDL/miui_HMNote3ProGlobal_V8.2.4.0.MHOMIDL_c50034ca06_6.0.zip"
     }
    },
+   "V8.5.1.0.MHOMIED",
    {
     "V8.5.6.0.MHOMIED": {
      "file": "miui_HMNote3ProGlobal_V8.5.6.0.MHOMIED_afe9fee927_6.0.zip",
@@ -5033,18 +5226,21 @@
      "download": "http://bigota.d.miui.com/V9.2.4.0.MHOMIEK/miui_HMNote3ProGlobal_V9.2.4.0.MHOMIEK_ff6e34fdb1_6.0.zip"
     }
    },
+   "V9.5.1.0.MHOMIEK",
    {
     "V9.5.3.0.MHOMIFA": {
      "file": "miui_HMNote3ProGlobal_V9.5.3.0.MHOMIFA_b80cfbef7d_6.0.zip",
      "download": "http://bigota.d.miui.com/V9.5.3.0.MHOMIFA/miui_HMNote3ProGlobal_V9.5.3.0.MHOMIFA_b80cfbef7d_6.0.zip"
     }
    },
+   "V9.5.5.0.MHOMIFD",
    {
     "V9.5.6.0.MHOMIFA": {
      "file": "miui_HMNote3ProGlobal_V9.5.6.0.MHOMIFA_be1fa69e63_6.0.zip",
      "download": "http://bigota.d.miui.com/V9.5.6.0.MHOMIFA/miui_HMNote3ProGlobal_V9.5.6.0.MHOMIFA_be1fa69e63_6.0.zip"
     }
    },
+   "V9.6.2.0.MHOMIFD",
    {
     "V9.6.3.0.MHOMIFD": {
      "file": "miui_HMNote3ProGlobal_V9.6.3.0.MHOMIFD_2e08170428_6.0.zip",
@@ -5091,30 +5287,37 @@
      "download": "http://bigota.d.miui.com/V7.5.1.0.MALCNDE/miui_HM3S_V7.5.1.0.MALCNDE_ff91568512_6.0.zip"
     }
    },
+   "V7.5.2.0.MALCNDE",
+   "V7.5.3.0.MALCNDE",
    {
     "V7.5.5.0.MALCNDE": {
      "file": "miui_HM3S_V7.5.5.0.MALCNDE_d578aada72_6.0.zip",
      "download": "http://bigota.d.miui.com/V7.5.5.0.MALCNDE/miui_HM3S_V7.5.5.0.MALCNDE_d578aada72_6.0.zip"
     }
    },
+   "V7.5.7.0.MALCNDE",
    {
     "V7.5.9.0.MALCNDE": {
      "file": "miui_HM3S_V7.5.9.0.MALCNDE_d99dc15f66_6.0.zip",
      "download": "http://bigota.d.miui.com/V7.5.9.0.MALCNDE/miui_HM3S_V7.5.9.0.MALCNDE_d99dc15f66_6.0.zip"
     }
    },
+   "V8.0.2.0.MALCNDG",
+   "V8.0.5.0.MALCNDG",
    {
     "V8.0.6.0.MALCNDG": {
      "file": "miui_HM3S_V8.0.6.0.MALCNDG_6695e3e8c0_6.0.zip",
      "download": "http://bigota.d.miui.com/V8.0.6.0.MALCNDG/miui_HM3S_V8.0.6.0.MALCNDG_6695e3e8c0_6.0.zip"
     }
    },
+   "V8.0.8.0.MALCNDG",
    {
     "V8.0.10.0.MALCNDG": {
      "file": "miui_HM3S_V8.0.10.0.MALCNDG_db9d0407d4_6.0.zip",
      "download": "http://bigota.d.miui.com/V8.0.10.0.MALCNDG/miui_HM3S_V8.0.10.0.MALCNDG_db9d0407d4_6.0.zip"
     }
    },
+   "V8.1.1.0.MALCNDI",
    {
     "V8.1.2.0.MALCNDI": {
      "file": "miui_HM3S_V8.1.2.0.MALCNDI_e64923fab3_6.0.zip",
@@ -5133,6 +5336,8 @@
      "download": "http://bigota.d.miui.com/V8.1.5.0.MALCNDI/miui_HM3S_V8.1.5.0.MALCNDI_c8f45a19bd_6.0.zip"
     }
    },
+   "V8.2.1.0.MALCNDL",
+   "V8.2.3.0.MALCNDL",
    {
     "V8.5.1.0.MALCNED": {
      "file": "miui_HM3S_V8.5.1.0.MALCNED_cd4167f63f_6.0.zip",
@@ -5209,12 +5414,17 @@
      "download": "http://bigota.d.miui.com/V8.0.3.0.MALMIDG/miui_HM3SGlobal_V8.0.3.0.MALMIDG_e67fb5fade_6.0.zip"
     }
    },
+   "V8.0.4.0.MALMIDG",
+   "V8.0.8.0.MALMIDG",
    {
     "V8.1.1.0.MALMIDI": {
      "file": "miui_HM3SGlobal_V8.1.1.0.MALMIDI_874f56cdc1_6.0.zip",
      "download": "http://bigota.d.miui.com/V8.1.1.0.MALMIDI/miui_HM3SGlobal_V8.1.1.0.MALMIDI_874f56cdc1_6.0.zip"
     }
    },
+   "V8.1.3.0.MALMIDI",
+   "V8.1.6.0.MALMIDI",
+   "V8.2.4.0.MALMIDL",
    {
     "V8.2.5.0.MALMIDL": {
      "file": "miui_HM3SGlobal_V8.2.5.0.MALMIDL_5271576d3b_6.0.zip",
@@ -5233,6 +5443,9 @@
      "download": "http://bigota.d.miui.com/V8.5.4.0.MALMIED/miui_HM3SGlobal_V8.5.4.0.MALMIED_b2ff7423f6_6.0.zip"
     }
    },
+   "V9.2.2.0.MALMIEK",
+   "V9.5.1.0.MALMIFA",
+   "V9.5.3.0.MALMIFA",
    {
     "V9.5.5.0.MALMIFA": {
      "file": "miui_HM3SGlobal_V9.5.5.0.MALMIFA_26e029276a_6.0.zip",
@@ -5279,6 +5492,9 @@
  },
  {
   "latte": [
+   "V7.1.2.0.LACCNCK",
+   "V7.1.3.0.LACCNCK",
+   "V7.1.4.0.LACCNCL",
    {
     "V7.1.5.0.LACCNCL": {
      "file": "miui_MIPAD2_V7.1.5.0.LACCNCL_d230b4ded5_5.1.zip",
@@ -5309,12 +5525,14 @@
      "download": "http://bigota.d.miui.com/V7.2.1.0.LACCNDA/miui_MIPAD2_V7.2.1.0.LACCNDA_d39eb1046d_5.1.zip"
     }
    },
+   "V7.3.1.0.LACCNDD",
    {
     "V7.5.2.0.LACCNDE": {
      "file": "miui_MIPAD2_V7.5.2.0.LACCNDE_89dc7d6bbc_5.1.zip",
      "download": "http://bigota.d.miui.com/V7.5.2.0.LACCNDE/miui_MIPAD2_V7.5.2.0.LACCNDE_89dc7d6bbc_5.1.zip"
     }
    },
+   "V7.5.3.0.LACCNDE",
    {
     "V7.5.4.0.LACCNDE": {
      "file": "miui_MIPAD2_V7.5.4.0.LACCNDE_5e2baf03fe_5.1.zip",
@@ -5415,6 +5633,8 @@
      "download": "http://bigota.d.miui.com/V10.2.8.0.PFGCNXM/miui_LAVENDER_V10.2.8.0.PFGCNXM_b5a787b17c_9.0.zip"
     }
    },
+   "V10.2.9.0.PFGCNXM",
+   "V10.2.10.0.PFGCNXM",
    {
     "V10.2.13.0.PFGCNXM": {
      "file": "miui_LAVENDER_V10.2.13.0.PFGCNXM_85f3f1b262_9.0.zip",
@@ -5443,6 +5663,7 @@
      "download": "http://bigota.d.miui.com/V10.2.3.0.PFGEUXM/miui_LAVENDEREEAGlobal_V10.2.3.0.PFGEUXM_0d9a655bbf_9.0.zip"
     }
    },
+   "V10.2.6.0.PFGEUXM",
    {
     "V10.2.7.0.PFGEUXM": {
      "file": "miui_LAVENDEREEAGlobal_V10.2.7.0.PFGEUXM_896bf2fcfe_9.0.zip",
@@ -5471,6 +5692,7 @@
  },
  {
   "lavender_global": [
+   "V10.2.6.0.PFGMIXM",
    {
     "V10.2.7.0.PFGMIXM": {
      "file": "miui_LAVENDERGlobal_V10.2.7.0.PFGMIXM_b4667cdac6_9.0.zip",
@@ -5511,6 +5733,7 @@
      "download": "http://bigota.d.miui.com/V10.2.7.0.PFGINXM/miui_LAVENDERINGlobal_V10.2.7.0.PFGINXM_1b0374cd32_9.0.zip"
     }
    },
+   "V10.2.10.0.PFGINXM",
    {
     "V10.2.11.0.PFGINXM": {
      "file": "miui_LAVENDERINGlobal_V10.2.11.0.PFGINXM_902c58efd1_9.0.zip",
@@ -5527,6 +5750,9 @@
  },
  {
   "lcsh92_wet_jb9": [
+   "V6.6.1.0.KHDCNCF",
+   "V7.0.1.0.KHDCNCI",
+   "V7.1.1.0.KHDCNCK",
    {
     "V7.1.2.0.KHDCNCK": {
      "file": "miui_HMNoteW_V7.1.2.0.KHDCNCK_a949477d32_4.4.zip",
@@ -5569,6 +5795,7 @@
      "download": "http://bigota.d.miui.com/V8.0.1.0.KHDCNDG/miui_HMNoteW_V8.0.1.0.KHDCNDG_e5a79bc02a_4.4.zip"
     }
    },
+   "V8.1.1.0.KHDCNDI",
    {
     "V8.2.1.0.KHDCNDL": {
      "file": "miui_HMNoteW_V8.2.1.0.KHDCNDL_675f298457_4.4.zip",
@@ -5603,6 +5830,8 @@
  },
  {
   "lcsh92_wet_tdd": [
+   "V6.6.1.0.KHECNCF",
+   "V7.0.1.0.KHECNCI",
    {
     "V7.1.2.0.KHECNCK": {
      "file": "miui_HMNoteTD_V7.1.2.0.KHECNCK_e41a9bba61_4.4.zip",
@@ -5691,6 +5920,7 @@
      "download": "http://bigota.d.miui.com/V6.5.4.0.LXHCNCD/miui_MINotePro_V6.5.4.0.LXHCNCD_44c0ac079c_5.0.zip"
     }
    },
+   "V6.5.5.0.LXHCNCD",
    {
     "V6.5.9.0.LXHCNCD": {
      "file": "miui_MINotePro_V6.5.9.0.LXHCNCD_a6657d59f9_5.0.zip",
@@ -5703,6 +5933,7 @@
      "download": "http://bigota.d.miui.com/V6.5.10.0.LXHCNCD/miui_MINotePro_V6.5.10.0.LXHCNCD_b77de70d2f_5.0.zip"
     }
    },
+   "V6.6.1.0.LXHCNCF",
    {
     "V6.6.3.0.LXHCNCF": {
      "file": "miui_MINotePro_V6.6.3.0.LXHCNCF_b8918d2c7b_5.0.zip",
@@ -5751,12 +5982,16 @@
      "download": "http://bigota.d.miui.com/V6.7.2.0.LXHCNCH/miui_MINotePro_V6.7.2.0.LXHCNCH_a5b645c08d_5.0.zip"
     }
    },
+   "V7.0.1.0.LXHCNCI",
+   "V7.0.2.0.LXHCNCI",
+   "V7.0.3.0.LXHCNCI",
    {
     "V7.0.5.0.LXHCNCI": {
      "file": "miui_MINotePro_V7.0.5.0.LXHCNCI_eb94f14a8d_5.0.zip",
      "download": "http://bigota.d.miui.com/V7.0.5.0.LXHCNCI/miui_MINotePro_V7.0.5.0.LXHCNCI_eb94f14a8d_5.0.zip"
     }
    },
+   "V7.1.2.0.LXHCNCK",
    {
     "V7.1.4.0.LXHCNCK": {
      "file": "miui_MINotePro_V7.1.4.0.LXHCNCK_963d484578_5.1.zip",
@@ -5853,6 +6088,7 @@
      "download": "http://bigota.d.miui.com/V8.2.1.0.LXHCNDL/miui_MINotePro_V8.2.1.0.LXHCNDL_3edfda7fb2_5.1.zip"
     }
    },
+   "V8.2.3.0.NXHCNEC",
    {
     "V8.5.1.0.NXHCNED": {
      "file": "miui_MINotePro_V8.5.1.0.NXHCNED_48c471a7bf_7.0.zip",
@@ -5923,6 +6159,9 @@
      "download": "http://bigota.d.miui.com/V7.0.7.0.LXKCNCI/miui_MI4c_V7.0.7.0.LXKCNCI_c7d7fcd94a_5.1.zip"
     }
    },
+   "V7.0.8.0.LXKCNCI",
+   "V7.0.9.0.LXKCNCI",
+   "V7.0.10.0.LXKCNCI",
    {
     "V7.0.11.0.LXKCNCI": {
      "file": "miui_MI4c_V7.0.11.0.LXKCNCI_35d159b1a9_5.1.zip",
@@ -5941,6 +6180,9 @@
      "download": "http://bigota.d.miui.com/V7.0.16.0.LXKCNCI/miui_MI4c_V7.0.16.0.LXKCNCI_cba5b6c4a8_5.1.zip"
     }
    },
+   "V7.1.1.0.LXKCNCK",
+   "V7.1.3.0.LXKCNCK",
+   "V7.1.4.0.LXKCNCK",
    {
     "V7.1.6.0.LXKCNCK": {
      "file": "miui_MI4c_V7.1.6.0.LXKCNCK_1debc127a9_5.1.zip",
@@ -5995,6 +6237,9 @@
      "download": "http://bigota.d.miui.com/V7.5.4.0.LXKCNDE/miui_MI4c_V7.5.4.0.LXKCNDE_50d85a02c6_5.1.zip"
     }
    },
+   "V7.5.5.0.LXKCNDE",
+   "V8.0.1.0.LXKCNDG",
+   "V8.0.2.0.LXKCNDG",
    {
     "V8.0.4.0.LXKCNDG": {
      "file": "miui_MI4c_V8.0.4.0.LXKCNDG_230b599a5e_5.1.zip",
@@ -6079,6 +6324,7 @@
      "download": "http://bigota.d.miui.com/V9.5.2.0.NXKCNFA/miui_MI4c_V9.5.2.0.NXKCNFA_81f363e363_7.0.zip"
     }
    },
+   "V9.6.1.0.NXKCNFD",
    {
     "V9.6.2.0.NXKCNFD": {
      "file": "miui_MI4c_V9.6.2.0.NXKCNFD_d6ad938e10_7.0.zip",
@@ -6231,6 +6477,7 @@
  },
  {
   "lithium_global": [
+   "V8.2.1.0.MAHMIDL",
    {
     "V8.2.4.0.MAHMIDL": {
      "file": "miui_MIMIXGlobal_V8.2.4.0.MAHMIDL_a48c317843_6.0.zip",
@@ -6405,6 +6652,7 @@
      "download": "http://bigota.d.miui.com/V6.5.4.0.KHLCNCD/miui_HM2A_V6.5.4.0.KHLCNCD_c915ca01a5_4.4.zip"
     }
    },
+   "V6.6.1.0.KHLCNCF",
    {
     "V6.6.2.0.KHLCNCF": {
      "file": "miui_HM2A_V6.6.2.0.KHLCNCF_88a39d8bfd_4.4.zip",
@@ -6423,6 +6671,7 @@
      "download": "http://bigota.d.miui.com/V6.6.5.0.KHLCNCF/miui_HM2A_V6.6.5.0.KHLCNCF_b2cbe886ab_4.4.zip"
     }
    },
+   "V6.6.6.0.KHLCNCF",
    {
     "V6.6.7.0.KHLCNCF": {
      "file": "miui_HM2A_V6.6.7.0.KHLCNCF_22bd7a9601_4.4.zip",
@@ -6489,6 +6738,7 @@
      "download": "http://bigota.d.miui.com/V8.0.1.0.KHLCNDG/miui_HM2A_V8.0.1.0.KHLCNDG_0995ce927d_4.4.zip"
     }
    },
+   "V8.1.1.0.KHLCNDI",
    {
     "V8.1.2.0.KHLCNDI": {
      "file": "miui_HM2A_V8.1.2.0.KHLCNDI_c29690d073_4.4.zip",
@@ -6553,6 +6803,7 @@
  },
  {
   "markw": [
+   "V8.0.1.0.MBECNDG",
    {
     "V8.0.5.0.MBECNDG": {
      "file": "miui_MARKW_V8.0.5.0.MBECNDG_5f9017f28c_6.0.zip",
@@ -6565,6 +6816,7 @@
      "download": "http://bigota.d.miui.com/V8.0.6.0.MBECNDG/miui_HM4Pro_V8.0.6.0.MBECNDG_453a1bde25_6.0.zip"
     }
    },
+   "V8.1.2.0.MBECNDI",
    {
     "V8.1.3.0.MBECNDI": {
      "file": "miui_HM4Pro_V8.1.3.0.MBECNDI_57587f1197_6.0.zip",
@@ -6595,6 +6847,7 @@
      "download": "http://bigota.d.miui.com/V8.5.3.0.MBECNED/miui_HM4Pro_V8.5.3.0.MBECNED_7f28a737a4_6.0.zip"
     }
    },
+   "V9.2.2.0.MBECNEK",
    {
     "V9.2.4.0.MBECNEK": {
      "file": "miui_HM4Pro_V9.2.4.0.MBECNEK_9ecce7ab2a_6.0.zip",
@@ -6647,6 +6900,7 @@
      "download": "http://bigota.d.miui.com/V8.1.2.0.MBEMIDI/miui_HM4ProGlobal_V8.1.2.0.MBEMIDI_a8edfe4ee7_6.0.zip"
     }
    },
+   "V8.2.1.0.MBEMIDL",
    {
     "V8.2.4.0.MBEMIDL": {
      "file": "miui_HM4ProGlobal_V8.2.4.0.MBEMIDL_454a067758_6.0.zip",
@@ -6671,12 +6925,15 @@
      "download": "http://bigota.d.miui.com/V9.2.3.0.MBEMIEK/miui_HM4ProGlobal_V9.2.3.0.MBEMIEK_e4b96ba15c_6.0.zip"
     }
    },
+   "V9.5.1.0.MBEMIFA",
+   "V9.5.3.0.MBEMIFA",
    {
     "V9.5.5.0.MBEMIFA": {
      "file": "miui_HM4ProGlobal_V9.5.5.0.MBEMIFA_73586c5684_6.0.zip",
      "download": "http://bigota.d.miui.com/V9.5.5.0.MBEMIFA/miui_HM4ProGlobal_V9.5.5.0.MBEMIFA_73586c5684_6.0.zip"
     }
    },
+   "V9.6.1.0.MBEMIFA",
    {
     "V9.6.2.0.MBEMIFD": {
      "file": "miui_HM4ProGlobal_V9.6.2.0.MBEMIFD_ccc3eafbef_6.0.zip",
@@ -6783,6 +7040,7 @@
      "download": "http://bigota.d.miui.com/V9.1.5.0.NCJCNEI/miui_MI5C_V9.1.5.0.NCJCNEI_27c1800f92_7.1.zip"
     }
    },
+   "V9.1.7.0.NCJCNEI",
    {
     "V9.1.9.0.NCJCNEI": {
      "file": "miui_MI5C_V9.1.9.0.NCJCNEI_72e6baea11_7.1.zip",
@@ -6807,6 +7065,7 @@
      "download": "http://bigota.d.miui.com/V9.5.2.0.NCJCNFA/miui_MI5C_V9.5.2.0.NCJCNFA_cdac794cf1_7.1.zip"
     }
    },
+   "V9.6.1.0.NCJCNFD",
    {
     "V9.6.2.0.NCJCNFD": {
      "file": "miui_MI5C_V9.6.2.0.NCJCNFD_64d76ae7eb_7.1.zip",
@@ -6853,6 +7112,7 @@
      "download": "http://bigota.d.miui.com/V8.2.3.0.MCFCNDL/miui_HMNote4X_V8.2.3.0.MCFCNDL_1f50f1f91b_6.0.zip"
     }
    },
+   "V8.2.4.0.MCFCNDL",
    {
     "V8.2.5.0.MCFCNDL": {
      "file": "miui_HMNote4X_V8.2.5.0.MCFCNDL_f386d87e4e_6.0.zip",
@@ -6877,6 +7137,7 @@
      "download": "http://bigota.d.miui.com/V8.2.22.0.MCFCNDL/miui_HMNote4X_V8.2.22.0.MCFCNDL_c08e5df878_6.0.zip"
     }
    },
+   "V8.5.1.0.MCFCNED",
    {
     "V8.5.3.0.MCFCNED": {
      "file": "miui_HMNote4X_V8.5.3.0.MCFCNED_a7eb89697a_6.0.zip",
@@ -6901,6 +7162,8 @@
      "download": "http://bigota.d.miui.com/V8.5.7.0.MCFCNED/miui_HMNote4X_V8.5.7.0.MCFCNED_59d20a5e82_6.0.zip"
     }
    },
+   "V9.0.1.0.NCFCNEI",
+   "V9.0.4.0.NCFCNEI",
    {
     "V9.0.5.0.NCFCNEI": {
      "file": "miui_HMNote4X_V9.0.5.0.NCFCNEI_5598ea6cef_7.0.zip",
@@ -6971,12 +7234,14 @@
      "download": "http://bigota.d.miui.com/V8.1.11.0.MCFMIDI/miui_MIDOGlobal_V8.1.11.0.MCFMIDI_936f37c86f_6.0.zip"
     }
    },
+   "V8.1.14.0.MCFMIDI",
    {
     "V8.1.15.0.MCFMIDI": {
      "file": "miui_HMNote4XGlobal_V8.1.15.0.MCFMIDI_d8a7047f07_6.0.zip",
      "download": "http://bigota.d.miui.com/V8.1.15.0.MCFMIDI/miui_HMNote4XGlobal_V8.1.15.0.MCFMIDI_d8a7047f07_6.0.zip"
     }
    },
+   "V8.2.2.0.MCFMIDL",
    {
     "V8.2.4.0.MCFMIDL": {
      "file": "miui_HMNote4XGlobal_V8.2.4.0.MCFMIDL_b340f1c79f_6.0.zip",
@@ -6989,6 +7254,7 @@
      "download": "http://bigota.d.miui.com/V8.2.5.0.MCFMIDL/miui_HMNote4XGlobal_V8.2.5.0.MCFMIDL_5a12ae39c1_6.0.zip"
     }
    },
+   "V8.2.7.0.MCFMIDL",
    {
     "V8.2.10.0.MCFMIDL": {
      "file": "miui_HMNote4XGlobal_V8.2.10.0.MCFMIDL_ee189ea231_6.0.zip",
@@ -7031,6 +7297,8 @@
      "download": "http://bigota.d.miui.com/V9.2.1.0.NCFMIEK/miui_HMNote4XGlobal_V9.2.1.0.NCFMIEK_095a79e80a_7.0.zip"
     }
    },
+   "V9.2.2.0.NCFMIEK",
+   "V9.5.4.0.NCFMIFA",
    {
     "V9.5.8.0.NCFMIFA": {
      "file": "miui_HMNote4XGlobal_V9.5.8.0.NCFMIFA_30495e599d_7.0.zip",
@@ -7095,6 +7363,7 @@
      "download": "http://bigota.d.miui.com/V6.1.1.0.KXFCNBJ/miui_MOCHA_V6.1.1.0.KXFCNBJ_6f275069c2_4.4.zip"
     }
    },
+   "V6.2.0.6.KXFCNBK",
    {
     "V6.2.2.0.KXFCNBK": {
      "file": "miui_MOCHA_V6.2.2.0.KXFCNBK_4d34d1a636_4.4.zip",
@@ -7125,6 +7394,8 @@
      "download": "http://bigota.d.miui.com/V6.5.1.0.KXFCNCD/miui_MOCHA_V6.5.1.0.KXFCNCD_aab1df8fc3_4.4.zip"
     }
    },
+   "V6.6.2.0.KXFCNCF",
+   "V6.6.3.0.KXFCNCF",
    {
     "V6.6.4.0.KXFCNCF": {
      "file": "miui_MIPAD_V6.6.4.0.KXFCNCF_db36fe64af_4.4.zip",
@@ -7149,12 +7420,14 @@
      "download": "http://bigota.d.miui.com/V6.7.3.0.KXFCNCH/miui_MIPAD_V6.7.3.0.KXFCNCH_e53c6f2913_4.4.zip"
     }
    },
+   "V7.0.1.0.KXFCNCI",
    {
     "V7.0.3.0.KXFCNCI": {
      "file": "miui_MIPAD_V7.0.3.0.KXFCNCI_4182b7cfbf_4.4.zip",
      "download": "http://bigota.d.miui.com/V7.0.3.0.KXFCNCI/miui_MIPAD_V7.0.3.0.KXFCNCI_4182b7cfbf_4.4.zip"
     }
    },
+   "V7.1.1.0.KXFCNCK",
    {
     "V7.1.2.0.KXFCNCK": {
      "file": "miui_MIPAD_V7.1.2.0.KXFCNCK_6a89d9275e_4.4.zip",
@@ -7179,6 +7452,7 @@
      "download": "http://bigota.d.miui.com/V7.5.1.0.KXFCNDE/miui_MIPAD_V7.5.1.0.KXFCNDE_70f84200a5_4.4.zip"
     }
    },
+   "V8.1.1.0.KXFCNDI",
    {
     "V8.1.2.0.KXFCNDI": {
      "file": "miui_MIPAD_V8.1.2.0.KXFCNDI_4f5d2be676_4.4.zip",
@@ -7313,6 +7587,7 @@
      "download": "http://bigota.d.miui.com/V8.0.10.0.MBGCNDI/miui_MI5SPlus_V8.0.10.0.MBGCNDI_f3a96acd4a_6.0.zip"
     }
    },
+   "V8.0.12.0.MBGCNDI",
    {
     "V8.0.13.0.MBGCNDI": {
      "file": "miui_MI5SPlus_V8.0.13.0.MBGCNDI_bb05c4073a_6.0.zip",
@@ -7337,6 +7612,7 @@
      "download": "http://bigota.d.miui.com/V8.0.16.0.MBGCNDI/miui_MI5SPlus_V8.0.16.0.MBGCNDI_c456df3fa1_6.0.zip"
     }
    },
+   "V8.2.1.0.MBGCNDL",
    {
     "V8.2.2.0.MBGCNDL": {
      "file": "miui_MI5SPlus_V8.2.2.0.MBGCNDL_211329251c_6.0.zip",
@@ -7421,6 +7697,7 @@
      "download": "http://bigota.d.miui.com/V10.1.1.0.NBGCNFI/miui_MI5SPlus_V10.1.1.0.NBGCNFI_e22139db2e_7.0.zip"
     }
    },
+   "V10.1.2.0.OBGCNFI",
    {
     "V10.1.3.0.OBGCNFI": {
      "file": "miui_MI5SPlus_V10.1.3.0.OBGCNFI_fe85d745aa_8.0.zip",
@@ -7455,6 +7732,7 @@
      "download": "http://bigota.d.miui.com/V8.0.4.0.MBGMIDI/miui_MI5SPlusGlobal_V8.0.4.0.MBGMIDI_58853c4577_6.0.zip"
     }
    },
+   "V8.2.2.0.MBGMIDL",
    {
     "V8.5.2.0.MBGMIED": {
      "file": "miui_MI5SPlusGlobal_V8.5.2.0.MBGMIED_e942753d36_6.0.zip",
@@ -7509,6 +7787,7 @@
      "download": "http://bigota.d.miui.com/V10.1.1.0.OBGMIFI/miui_MI5SPlusGlobal_V10.1.1.0.OBGMIFI_f1ad47a04e_8.0.zip"
     }
    },
+   "V10.2.1.0.OBGMIXM",
    {
     "V10.2.2.0.OBGMIXM": {
      "file": "miui_MI5SPlusGlobal_V10.2.2.0.OBGMIXM_efb0235cd1_8.0.zip",
@@ -7525,6 +7804,11 @@
  },
  {
   "nikel": [
+   "V7.3.0.2.MBFCNDE",
+   "V7.3.0.4.MBFCNDE",
+   "V7.3.0.5.MBFCNDE",
+   "V7.3.1.0.MBFCNDE",
+   "V7.3.2.0.MBFCNDE",
    {
     "V7.3.8.0.MBFCNDE": {
      "file": "miui_HMNote4_V7.3.8.0.MBFCNDE_979e283bee_6.0.zip",
@@ -7591,36 +7875,46 @@
      "download": "http://bigota.d.miui.com/V8.1.4.0.MBFCNDI/miui_HMNote4_V8.1.4.0.MBFCNDI_c0c40ff15a_6.0.zip"
     }
    },
+   "V8.1.5.0.MBFCNDI",
    {
     "V8.1.6.0.MBFCNDI": {
      "file": "miui_HMNote4_V8.1.6.0.MBFCNDI_7c39266359_6.0.zip",
      "download": "http://bigota.d.miui.com/V8.1.6.0.MBFCNDI/miui_HMNote4_V8.1.6.0.MBFCNDI_7c39266359_6.0.zip"
     }
    },
+   "V8.1.7.0.MBFCNDI",
    {
     "V8.1.8.0.MBFCNDI": {
      "file": "miui_HMNote4_V8.1.8.0.MBFCNDI_58e7ad3e52_6.0.zip",
      "download": "http://bigota.d.miui.com/V8.1.8.0.MBFCNDI/miui_HMNote4_V8.1.8.0.MBFCNDI_58e7ad3e52_6.0.zip"
     }
    },
+   "V8.1.9.0.MBFCNDI",
    {
     "V8.1.10.0.MBFCNDI": {
      "file": "miui_HMNote4_V8.1.10.0.MBFCNDI_de632da917_6.0.zip",
      "download": "http://bigota.d.miui.com/V8.1.10.0.MBFCNDI/miui_HMNote4_V8.1.10.0.MBFCNDI_de632da917_6.0.zip"
     }
    },
+   "V8.1.11.0.MBFCNDI",
+   "V8.1.12.0.MBFCNDI",
+   "V8.1.13.0.MBFCNDI",
    {
     "V8.1.14.0.MBFCNDI": {
      "file": "miui_HMNote4_V8.1.14.0.MBFCNDI_b27afee65a_6.0.zip",
      "download": "http://bigota.d.miui.com/V8.1.14.0.MBFCNDI/miui_HMNote4_V8.1.14.0.MBFCNDI_b27afee65a_6.0.zip"
     }
    },
+   "V8.2.1.0.MBFCNDL",
    {
     "V8.2.2.0.MBFCNDL": {
      "file": "miui_HMNote4_V8.2.2.0.MBFCNDL_ea8c6a2518_6.0.zip",
      "download": "http://bigota.d.miui.com/V8.2.2.0.MBFCNDL/miui_HMNote4_V8.2.2.0.MBFCNDL_ea8c6a2518_6.0.zip"
     }
    },
+   "V8.5.1.0.MBFCNED",
+   "V8.5.2.0.MBFCNED",
+   "V8.5.5.0.MBFCNED",
    {
     "V8.5.6.0.MBFCNED": {
      "file": "miui_HMNote4_V8.5.6.0.MBFCNED_4824360074_6.0.zip",
@@ -7657,6 +7951,7 @@
      "download": "http://bigota.d.miui.com/V9.6.2.0.MBFCNFD/miui_HMNote4_V9.6.2.0.MBFCNFD_1ef2f4789c_6.0.zip"
     }
    },
+   "V9.6.3.0.MBFCNFD",
    {
     "V10.1.2.0.MBFCNFI": {
      "file": "miui_HMNote4_V10.1.2.0.MBFCNFI_4cba0c0cc3_6.0.zip",
@@ -7691,6 +7986,10 @@
      "download": "http://bigota.d.miui.com/V8.0.4.0.MBFMIDG/miui_HMNote4Global_V8.0.4.0.MBFMIDG_4ea9c644a3_6.0.zip"
     }
    },
+   "V8.1.2.0.MBFMIDI",
+   "V8.1.3.0.MBFMIDI",
+   "V8.1.4.0.MBFMIDI",
+   "V8.1.6.0.MBFMIDI",
    {
     "V8.1.7.0.MBFMIDI": {
      "file": "miui_HMNote4Global_V8.1.7.0.MBFMIDI_3559f734de_6.0.zip",
@@ -7703,6 +8002,7 @@
      "download": "http://bigota.d.miui.com/V8.2.1.0.MBFMIDL/miui_HMNote4Global_V8.2.1.0.MBFMIDL_5d8b59ece8_6.0.zip"
     }
    },
+   "V8.5.2.0.MBFMIED",
    {
     "V8.5.3.0.MBFMIED": {
      "file": "miui_HMNote4Global_V8.5.3.0.MBFMIED_87dc83627e_6.0.zip",
@@ -7739,6 +8039,7 @@
      "download": "http://bigota.d.miui.com/V9.5.3.0.MBFMIFA/miui_HMNote4Global_V9.5.3.0.MBFMIFA_59ae956927_6.0.zip"
     }
    },
+   "V9.6.1.0.MBFMIFD",
    {
     "V10.1.1.0.MBFMIFI": {
      "file": "miui_HMNote4Global_V10.1.1.0.MBFMIFI_633fef9960_6.0.zip",
@@ -7755,6 +8056,12 @@
  },
  {
   "nitrogen": [
+   "V9.5.1.2.OEDCNED",
+   "V9.6.1.0.OEDCNFD",
+   "V9.6.2.0.OEDCNFD",
+   "V9.6.3.1.OEDCNFD",
+   "V9.6.5.0.OEDCNFD",
+   "V9.5.1.3.OEDCNED",
    {
     "V9.6.7.0.OEDCNFD": {
      "file": "miui_NITROGEN_V9.6.7.0.OEDCNFD_cff62600a4_8.1.zip",
@@ -7803,6 +8110,7 @@
      "download": "http://bigota.d.miui.com/V10.2.1.0.OEDCNXM/miui_MIMAX3_V10.2.1.0.OEDCNXM_4f84ff82ea_8.1.zip"
     }
    },
+   "V10.2.1.0.PEDCNXM",
    {
     "V10.2.2.0.PEDCNXM": {
      "file": "miui_MIMAX3_V10.2.2.0.PEDCNXM_11d19f77b7_9.0.zip",
@@ -7877,6 +8185,12 @@
  },
  {
   "omega": [
+   "V7.3.0.2.MHQCNDE",
+   "V7.3.0.4.MHQCNDE",
+   "V7.3.1.0.MHQCNDE",
+   "V7.3.1.1.MHQCNDE",
+   "V7.3.2.0.MHQCNDE",
+   "V7.3.3.0.MHQCNDE",
    {
     "V7.3.6.0.MHQCNDE": {
      "file": "miui_OMEGA_V7.3.6.0.MHQCNDE_18a8ec62f9_6.0.zip",
@@ -7907,6 +8221,8 @@
      "download": "http://bigota.d.miui.com/V7.3.10.0.MHQCNDE/miui_HMPro_V7.3.10.0.MHQCNDE_1271972f93_6.0.zip"
     }
    },
+   "V7.5.1.0.MHQCNDF",
+   "V7.5.2.0.MHQCNDF",
    {
     "V8.0.1.0.MHQCNDG": {
      "file": "miui_HMPro_V8.0.1.0.MHQCNDG_0d689ae330_6.0.zip",
@@ -7937,6 +8253,12 @@
      "download": "http://bigota.d.miui.com/V8.1.2.0.MHQCNDI/miui_HMPro_V8.1.2.0.MHQCNDI_7a17cf4e05_6.0.zip"
     }
    },
+   "V8.2.1.0.MHQCNDL",
+   "V8.2.2.0.MHQCNDL",
+   "V8.2.3.0.MHQCNDL",
+   "V8.5.1.0.MHQCNED",
+   "V8.5.2.0.MHQCNED",
+   "V8.5.3.0.MHQCNED",
    {
     "V8.5.4.0.MHQCNED": {
      "file": "miui_HMPro_V8.5.4.0.MHQCNED_ea81107494_6.0.zip",
@@ -8005,6 +8327,7 @@
      "download": "http://bigota.d.miui.com/V10.2.5.0.PFLCNXM/miui_ONCLITE_V10.2.5.0.PFLCNXM_8db0d2c9de_9.0.zip"
     }
    },
+   "V10.2.7.0.PFLCNXM",
    {
     "V10.3.1.0.PFLCNXM": {
      "file": "miui_ONCLITE_V10.3.1.0.PFLCNXM_ca6e0d1a48_9.0.zip",
@@ -8075,6 +8398,7 @@
      "download": "http://bigota.d.miui.com/V8.5.10.0.NDDCNED/miui_MIMAX2_V8.5.10.0.NDDCNED_2ab6cba1e4_7.1.zip"
     }
    },
+   "V8.5.11.0.NDDCNED",
    {
     "V8.5.12.0.NDDCNED": {
      "file": "miui_MIMAX2_V8.5.12.0.NDDCNED_9521149b33_7.1.zip",
@@ -8123,18 +8447,21 @@
      "download": "http://bigota.d.miui.com/V9.2.2.0.NDDCNEK/miui_MIMAX2_V9.2.2.0.NDDCNEK_0b90cf6084_7.1.zip"
     }
    },
+   "V9.5.1.0.NDDCNFA",
    {
     "V9.5.2.0.NDDCNFA": {
      "file": "miui_MIMAX2_V9.5.2.0.NDDCNFA_c54343410f_7.1.zip",
      "download": "http://bigota.d.miui.com/V9.5.2.0.NDDCNFA/miui_MIMAX2_V9.5.2.0.NDDCNFA_c54343410f_7.1.zip"
     }
    },
+   "V9.5.1.4.ODDCNED",
    {
     "V9.5.5.0.NDDCNFA": {
      "file": "miui_MIMAX2_V9.5.5.0.NDDCNFA_51fbf34826_7.1.zip",
      "download": "http://bigota.d.miui.com/V9.5.5.0.NDDCNFA/miui_MIMAX2_V9.5.5.0.NDDCNFA_51fbf34826_7.1.zip"
     }
    },
+   "V9.5.1.5.ODDCNED",
    {
     "V9.6.1.0.NDDCNFD": {
      "file": "miui_MIMAX2_V9.6.1.0.NDDCNFD_5f553c0d44_7.1.zip",
@@ -8147,18 +8474,22 @@
      "download": "http://bigota.d.miui.com/V10.1.1.0.NDDCNFI/miui_MIMAX2_V10.1.1.0.NDDCNFI_f4a080359e_7.1.zip"
     }
    },
+   "V9.5.5.2.ODDCNED",
    {
     "V10.2.1.0.NDDCNXM": {
      "file": "miui_MIMAX2_V10.2.1.0.NDDCNXM_8776739820_7.1.zip",
      "download": "http://bigota.d.miui.com/V10.2.1.0.NDDCNXM/miui_MIMAX2_V10.2.1.0.NDDCNXM_8776739820_7.1.zip"
     }
    },
+   "V10.0.1.2.ODDCNED",
+   "V10.0.1.2.ODDCNUD",
    {
     "V10.3.1.0.NDDCNXM": {
      "file": "miui_MIMAX2_V10.3.1.0.NDDCNXM_e4dbc2e566_7.1.zip",
      "download": "http://bigota.d.miui.com/V10.3.1.0.NDDCNXM/miui_MIMAX2_V10.3.1.0.NDDCNXM_e4dbc2e566_7.1.zip"
     }
-   }
+   },
+   "V10.0.1.2.PDDCNED"
   ]
  },
  {
@@ -8303,6 +8634,7 @@
      "download": "http://bigota.d.miui.com/V10.0.11.0.PEEMIFH/miui_MIMIX3Global_V10.0.11.0.PEEMIFH_9761b07e78_9.0.zip"
     }
    },
+   "V10.2.1.0.PEEMIHG",
    {
     "V10.2.1.0.PEEMIXM": {
      "file": "miui_MIMIX3Global_V10.2.1.0.PEEMIXM_9dc43870b4_9.0.zip",
@@ -8335,12 +8667,14 @@
  },
  {
   "pisces": [
+   "V6.1.0.3.KXCCNBJ",
    {
     "V6.1.2.0.KXCCNBJ": {
      "file": "miui_MI3TD_V6.1.2.0.KXCCNBJ_efe97f1045_4.4.zip",
      "download": "http://bigota.d.miui.com/V6.1.2.0.KXCCNBJ/miui_MI3TD_V6.1.2.0.KXCCNBJ_efe97f1045_4.4.zip"
     }
    },
+   "V6.2.0.6.KXCCNBK",
    {
     "V6.2.1.0.KXCCNBK": {
      "file": "miui_MI3TD_V6.2.1.0.KXCCNBK_2d5fd97b1e_4.4.zip",
@@ -8395,12 +8729,14 @@
      "download": "http://bigota.d.miui.com/V6.7.1.0.KXCCNCH/miui_MI3TD_V6.7.1.0.KXCCNCH_2cf18fa8a3_4.4.zip"
     }
    },
+   "V7.0.3.0.KXCCNCI",
    {
     "V7.0.5.0.KXCCNCI": {
      "file": "miui_MI3TD_V7.0.5.0.KXCCNCI_879f5106bd_4.4.zip",
      "download": "http://bigota.d.miui.com/V7.0.5.0.KXCCNCI/miui_MI3TD_V7.0.5.0.KXCCNCI_879f5106bd_4.4.zip"
     }
    },
+   "V7.1.2.0.KXCCNCK",
    {
     "V7.1.3.0.KXCCNCK": {
      "file": "miui_MI3TD_V7.1.3.0.KXCCNCK_e4794f76e7_4.4.zip",
@@ -8443,6 +8779,8 @@
      "download": "http://bigota.d.miui.com/V8.0.1.0.KXCCNDG/miui_MI3TD_V8.0.1.0.KXCCNDG_248480f45d_4.4.zip"
     }
    },
+   "V8.1.1.0.KXCCNDI",
+   "V8.1.2.0.KXCCNDI",
    {
     "V8.1.3.0.KXCCNDI": {
      "file": "miui_MI3TD_V8.1.3.0.KXCCNDI_290a77a193_4.4.zip",
@@ -8455,6 +8793,7 @@
      "download": "http://bigota.d.miui.com/V8.2.1.0.KXCCNDL/miui_MI3TD_V8.2.1.0.KXCCNDL_1417724b06_4.4.zip"
     }
    },
+   "V8.2.2.0.KXCCNDL",
    {
     "V8.2.3.0.KXCCNDL": {
      "file": "miui_MI3TD_V8.2.3.0.KXCCNDL_6996ac8332_4.4.zip",
@@ -8495,6 +8834,8 @@
      "download": "http://bigota.d.miui.com/V9.6.6.0.ODTCNFD/miui_PLATINA_V9.6.6.0.ODTCNFD_8d82573b27_8.1.zip"
     }
    },
+   "V10.0.2.0.ODTCNFH",
+   "V10.0.5.0.ODTCNFH",
    {
     "V10.0.7.0.ODTCNFH": {
      "file": "miui_MI8Lite_V10.0.7.0.ODTCNFH_7b6ce6d894_8.1.zip",
@@ -8519,6 +8860,7 @@
      "download": "http://bigota.d.miui.com/V10.2.3.0.ODTCNXM/miui_MI8Lite_V10.2.3.0.ODTCNXM_7200bb8aa9_8.1.zip"
     }
    },
+   "V10.2.1.0.PDTCNXM",
    {
     "V10.2.3.0.PDTCNXM": {
      "file": "miui_MI8Lite_V10.2.3.0.PDTCNXM_d6a7ddabb7_9.0.zip",
@@ -8695,12 +9037,14 @@
      "download": "http://bigota.d.miui.com/V9.6.10.0.ODGCNFD/miui_MIMIX2S_V9.6.10.0.ODGCNFD_9c8189b04c_8.0.zip"
     }
    },
+   "V10.0.2.0.ODGCNFH",
    {
     "V10.0.3.0.ODGCNFH": {
      "file": "miui_MIMIX2S_V10.0.3.0.ODGCNFH_e4f527c0f5_8.0.zip",
      "download": "http://bigota.d.miui.com/V10.0.3.0.ODGCNFH/miui_MIMIX2S_V10.0.3.0.ODGCNFH_e4f527c0f5_8.0.zip"
     }
    },
+   "V10.0.4.0.PDGCNFH",
    {
     "V10.0.7.0.PDGCNFH": {
      "file": "miui_MIMIX2S_V10.0.7.0.PDGCNFH_76ee695826_9.0.zip",
@@ -8765,6 +9109,7 @@
      "download": "http://bigota.d.miui.com/V10.0.2.0.ODGMIFH/miui_MIMIX2SGlobal_V10.0.2.0.ODGMIFH_ddc8dcd78e_8.0.zip"
     }
    },
+   "V10.0.3.0.PDGMIFH",
    {
     "V10.0.4.0.PDGMIFH": {
      "file": "miui_MIMIX2SGlobal_V10.0.4.0.PDGMIFH_cf48f5552a_9.0.zip",
@@ -8795,6 +9140,7 @@
      "download": "http://bigota.d.miui.com/V10.2.2.0.PDGMIXM/miui_MIMIX2SGlobal_V10.2.2.0.PDGMIXM_7bb6553bad_9.0.zip"
     }
    },
+   "V10.3.2.0.PDGMIXM",
    {
     "V10.3.3.0.PDGMIXM": {
      "file": "miui_MIMIX2SGlobal_V10.3.3.0.PDGMIXM_58ae3e0f4f_9.0.zip",
@@ -8811,12 +9157,14 @@
      "download": "http://bigota.d.miui.com/V8.0.3.0.MCECNDG/miui_PRADA_V8.0.3.0.MCECNDG_9e14c612df_6.0.zip"
     }
    },
+   "V8.1.1.0.MCECNDI",
    {
     "V8.1.2.0.MCECNDI": {
      "file": "miui_HM4_V8.1.2.0.MCECNDI_e7a2d6cb08_6.0.zip",
      "download": "http://bigota.d.miui.com/V8.1.2.0.MCECNDI/miui_HM4_V8.1.2.0.MCECNDI_e7a2d6cb08_6.0.zip"
     }
    },
+   "V8.1.3.0.MCECNDI",
    {
     "V8.1.4.0.MCECNDI": {
      "file": "miui_HM4_V8.1.4.0.MCECNDI_20663b57db_6.0.zip",
@@ -8829,6 +9177,8 @@
      "download": "http://bigota.d.miui.com/V8.1.5.0.MCECNDI/miui_HM4_V8.1.5.0.MCECNDI_7379d10c7b_6.0.zip"
     }
    },
+   "V8.2.1.0.MCECNDL",
+   "V8.5.2.0.MCECNED",
    {
     "V9.2.4.0.MCECNEK": {
      "file": "miui_HM4_V9.2.4.0.MCECNEK_358475bcb6_6.0.zip",
@@ -8933,12 +9283,15 @@
      "download": "http://bigota.d.miui.com/V10.3.8.0.PFKCNXM/miui_RAPHAEL_V10.3.8.0.PFKCNXM_97881965dc_9.0.zip"
     }
    },
+   "V10.3.9.0.PFKCNXM",
+   "V10.3.10.0.PFKCNXM",
    {
     "V10.3.11.0.PFKCNXM": {
      "file": "miui_RAPHAEL_V10.3.11.0.PFKCNXM_1e15b563e5_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.11.0.PFKCNXM/miui_RAPHAEL_V10.3.11.0.PFKCNXM_1e15b563e5_9.0.zip"
     }
-   }
+   },
+   "V10.3.12.0.PFKCNXM"
   ]
  },
  {
@@ -8973,6 +9326,7 @@
      "download": "http://bigota.d.miui.com/V9.1.2.0.NCKCNEI/miui_HM5A_V9.1.2.0.NCKCNEI_ef0e6f3546_7.1.zip"
     }
    },
+   "V9.1.3.0.NCKCNEI",
    {
     "V9.2.3.0.NCKCNEK": {
      "file": "miui_HM5A_V9.2.3.0.NCKCNEK_48926662b1_7.1.zip",
@@ -9009,12 +9363,14 @@
      "download": "http://bigota.d.miui.com/V10.1.1.0.NCKCNFI/miui_HM5A_V10.1.1.0.NCKCNFI_2e5ec8a9df_7.1.zip"
     }
    },
+   "V10.2.2.0.OCKCNFK",
    {
     "V10.2.3.0.OCKCNXM": {
      "file": "miui_HM5A_V10.2.3.0.OCKCNXM_f5a85e23b8_8.1.zip",
      "download": "http://bigota.d.miui.com/V10.2.3.0.OCKCNXM/miui_HM5A_V10.2.3.0.OCKCNXM_f5a85e23b8_8.1.zip"
     }
    },
+   "V10.2.4.0.OCKCNXM",
    {
     "V10.3.2.0.OCKCNXM": {
      "file": "miui_HM5A_V10.3.2.0.OCKCNXM_3b96f7e49b_8.1.zip",
@@ -9067,6 +9423,7 @@
      "download": "http://bigota.d.miui.com/V9.2.4.0.NCKMIEK/miui_HM5AGlobal_V9.2.4.0.NCKMIEK_be2b7ad7bd_7.1.zip"
     }
    },
+   "V9.5.1.0.NCKMIFA",
    {
     "V9.5.6.0.NCKMIFA": {
      "file": "miui_HM5AGlobal_V9.5.6.0.NCKMIFA_d11c034a89_7.1.zip",
@@ -9108,7 +9465,10 @@
      "file": "miui_HM5AGlobal_V10.1.1.0.NCKMIFI_8cb19207b7_7.1.zip",
      "download": "http://bigota.d.miui.com/V10.1.1.0.NCKMIFI/miui_HM5AGlobal_V10.1.1.0.NCKMIFI_8cb19207b7_7.1.zip"
     }
-   }
+   },
+   "V10.1.2.0.OCKMIFI",
+   "V10.2.1.0.OCKMIXM",
+   "V10.2.2.0.OCKMIXM"
   ]
  },
  {
@@ -9209,12 +9569,15 @@
      "download": "http://bigota.d.miui.com/V8.5.4.0.MCCCNED/miui_HM4A_V8.5.4.0.MCCCNED_551588c95e_6.0.zip"
     }
    },
+   "V8.5.5.0.MCCCNED",
    {
     "V8.5.6.0.MCCCNED": {
      "file": "miui_HM4A_V8.5.6.0.MCCCNED_6b84d29d40_6.0.zip",
      "download": "http://bigota.d.miui.com/V8.5.6.0.MCCCNED/miui_HM4A_V8.5.6.0.MCCCNED_6b84d29d40_6.0.zip"
     }
    },
+   "V9.2.1.0.MCCCNEK",
+   "V9.2.2.0.MCCCNEK",
    {
     "V9.5.1.0.MCCCNFA": {
      "file": "miui_HM4A_V9.5.1.0.MCCCNFA_111bcadf1a_6.0.zip",
@@ -9261,6 +9624,8 @@
      "download": "http://bigota.d.miui.com/V8.1.4.0.MCCMIDI/miui_HM4AGlobal_V8.1.4.0.MCCMIDI_406ea332ac_6.0.zip"
     }
    },
+   "V8.2.1.0.MCCMIDL",
+   "V8.2.6.0.MCCMIDL",
    {
     "V8.2.9.0.MCCMIDL": {
      "file": "miui_HM4AGlobal_V8.2.9.0.MCCMIDL_25e902476a_6.0.zip",
@@ -9285,12 +9650,14 @@
      "download": "http://bigota.d.miui.com/V8.5.7.0.MCCMIED/miui_HM4AGlobal_V8.5.7.0.MCCMIED_78fc022f1c_6.0.zip"
     }
    },
+   "V8.5.10.0.NCCMIED",
    {
     "V9.2.6.0.NCCMIEK": {
      "file": "miui_HM4AGlobal_V9.2.6.0.NCCMIEK_3552ea4023_7.1.zip",
      "download": "http://bigota.d.miui.com/V9.2.6.0.NCCMIEK/miui_HM4AGlobal_V9.2.6.0.NCCMIEK_3552ea4023_7.1.zip"
     }
    },
+   "V9.5.1.0.NCCMIFA",
    {
     "V9.5.4.0.NCCMIFA": {
      "file": "miui_HM4AGlobal_V9.5.4.0.NCCMIFA_84f71d5b04_7.1.zip",
@@ -9361,6 +9728,7 @@
      "download": "http://bigota.d.miui.com/V9.1.7.0.NDACNEI/miui_HM5_V9.1.7.0.NDACNEI_8a45accec3_7.1.zip"
     }
    },
+   "V9.2.1.0.NDACNEK",
    {
     "V9.2.2.0.NDACNEK": {
      "file": "miui_HM5_V9.2.2.0.NDACNEK_2bdc9527f0_7.1.zip",
@@ -9397,6 +9765,7 @@
      "download": "http://bigota.d.miui.com/V10.1.1.0.NDACNFI/miui_HM5_V10.1.1.0.NDACNFI_2dc4ca6121_7.1.zip"
     }
    },
+   "V10.2.2.0.ODACNXM",
    {
     "V10.2.3.0.ODACNXM": {
      "file": "miui_HM5_V10.2.3.0.ODACNXM_6978e36981_8.1.zip",
@@ -9413,6 +9782,7 @@
  },
  {
   "rosy_global": [
+   "V9.2.2.0.NDAMIEK",
    {
     "V9.2.3.0.NDAMIEK": {
      "file": "miui_HM5Global_V9.2.3.0.NDAMIEK_de81f66f2b_7.1.zip",
@@ -9460,7 +9830,9 @@
      "file": "miui_HM5Global_V10.1.2.0.NDAMIFI_6afa536b21_7.1.zip",
      "download": "http://bigota.d.miui.com/V10.1.2.0.NDAMIFI/miui_HM5Global_V10.1.2.0.NDAMIFI_6afa536b21_7.1.zip"
     }
-   }
+   },
+   "V10.1.3.0.ODAMIFI",
+   "V10.2.1.0.ODAMIXM"
   ]
  },
  {
@@ -9471,12 +9843,15 @@
      "download": "http://bigota.d.miui.com/V8.2.13.0.NCACNEC/miui_MI6_V8.2.13.0.NCACNEC_613dc312ea_7.1.zip"
     }
    },
+   "V8.2.16.0.NCACNEC",
+   "V8.2.16.4.NCACNEC",
    {
     "V8.2.17.0.NCACNEC": {
      "file": "miui_MI6_V8.2.17.0.NCACNEC_f77e7a2d23_7.1.zip",
      "download": "http://bigota.d.miui.com/V8.2.17.0.NCACNEC/miui_MI6_V8.2.17.0.NCACNEC_f77e7a2d23_7.1.zip"
     }
    },
+   "V8.2.18.0.NCACNEC",
    {
     "V8.2.22.0.NCACNEC": {
      "file": "miui_MI6_V8.2.22.0.NCACNEC_aeef27288f_7.1.zip",
@@ -9525,12 +9900,16 @@
      "download": "http://bigota.d.miui.com/V8.5.3.0.NCACNEG/miui_MI6_V8.5.3.0.NCACNEG_c9344b4b3b_7.1.zip"
     }
    },
+   "V8.5.4.0.NCACNEG",
    {
     "V8.5.5.0.NCACNEG": {
      "file": "miui_MI6_V8.5.5.0.NCACNEG_c8c6a3ffa2_7.1.zip",
      "download": "http://bigota.d.miui.com/V8.5.5.0.NCACNEG/miui_MI6_V8.5.5.0.NCACNEG_c8c6a3ffa2_7.1.zip"
     }
    },
+   "V9.0.2.0.NCACNEI",
+   "V9.0.3.0.NCACNEI",
+   "V9.0.4.0.NCACNEI",
    {
     "V9.0.5.0.NCACNEI": {
      "file": "miui_MI6_V9.0.5.0.NCACNEI_06a12c5a3e_7.1.zip",
@@ -9543,18 +9922,23 @@
      "download": "http://bigota.d.miui.com/V9.0.6.0.NCACNEI/miui_MI6_V9.0.6.0.NCACNEI_7ff4a6a0f8_7.1.zip"
     }
    },
+   "V9.2.1.0.NCACNEK",
    {
     "V9.2.3.0.NCACNEK": {
      "file": "miui_MI6_V9.2.3.0.NCACNEK_0cd236e3b2_7.1.zip",
      "download": "http://bigota.d.miui.com/V9.2.3.0.NCACNEK/miui_MI6_V9.2.3.0.NCACNEK_0cd236e3b2_7.1.zip"
     }
    },
+   "V9.0.7.1.NCACNEC",
    {
     "V9.2.4.0.NCACNEK": {
      "file": "miui_MI6_V9.2.4.0.NCACNEK_4210c4c354_7.1.zip",
      "download": "http://bigota.d.miui.com/V9.2.4.0.NCACNEK/miui_MI6_V9.2.4.0.NCACNEK_4210c4c354_7.1.zip"
     }
    },
+   "V9.2.3.0.OCACNEK",
+   "V9.5.3.0.OCACNFA",
+   "V9.5.7.0.OCACNFA",
    {
     "V9.5.8.0.OCACNFA": {
      "file": "miui_MI6_V9.5.8.0.OCACNFA_6996c0d8b1_8.0.zip",
@@ -9637,6 +10021,7 @@
      "download": "http://bigota.d.miui.com/V9.2.3.0.OCAMIEK/miui_MI6Global_V9.2.3.0.OCAMIEK_650ad43775_8.0.zip"
     }
    },
+   "V9.5.3.0.OCAMIFA",
    {
     "V9.5.6.0.OCAMIFA": {
      "file": "miui_MI6Global_V9.5.6.0.OCAMIFA_58d018e649_8.0.zip",
@@ -9661,6 +10046,7 @@
      "download": "http://bigota.d.miui.com/V10.2.1.0.OCAMIXM/miui_MI6Global_V10.2.1.0.OCAMIXM_5a866eee19_8.0.zip"
     }
    },
+   "V10.3.1.0.OCAMIXM",
    {
     "V10.3.4.0.OCAMIXM": {
      "file": "miui_MI6Global_V10.3.4.0.OCAMIXM_e1a4c9671c_8.0.zip",
@@ -9671,6 +10057,15 @@
  },
  {
   "sakura": [
+   "V9.6.0.2.ODICNFD",
+   "V9.6.0.4.ODICNFD",
+   "V9.6.0.5.ODICNFD",
+   "V9.6.1.0.ODICNFD",
+   "V9.6.2.0.ODICNFD",
+   "V9.6.4.0.ODICNFD",
+   "V9.6.6.0.ODICNFD",
+   "V9.6.6.3.ODICNFD",
+   "V9.6.6.5.ODICNFD",
    {
     "V9.6.7.0.ODICNFD": {
      "file": "miui_SAKURA_V9.6.7.0.ODICNFD_b74c7c3280_8.1.zip",
@@ -9731,6 +10126,7 @@
      "download": "http://bigota.d.miui.com/V10.0.5.0.ODICNFH/miui_HM6Pro_V10.0.5.0.ODICNFH_b5dae41dc0_8.1.zip"
     }
    },
+   "V10.2.1.0.ODICNXM",
    {
     "V10.2.2.0.ODICNXM": {
      "file": "miui_HM6Pro_V10.2.2.0.ODICNXM_30d420df1d_8.1.zip",
@@ -9853,6 +10249,7 @@
      "download": "http://bigota.d.miui.com/V8.5.4.0.MAMCNED/miui_HM4X_V8.5.4.0.MAMCNED_2c588c2b0f_6.0.zip"
     }
    },
+   "V9.1.1.0.NAMCNEI",
    {
     "V9.1.2.0.NAMCNEI": {
      "file": "miui_HM4X_V9.1.2.0.NAMCNEI_467bba07d3_7.1.zip",
@@ -9923,12 +10320,14 @@
      "download": "http://bigota.d.miui.com/V8.2.0.2.MAMMIEA/miui_HM4XGlobal_V8.2.0.2.MAMMIEA_0fce804f05_6.0.zip"
     }
    },
+   "V8.2.12.0.MAMMIEA",
    {
     "V8.5.2.0.MAMMIED": {
      "file": "miui_HM4XGlobal_V8.5.2.0.MAMMIED_973da51a2e_6.0.zip",
      "download": "http://bigota.d.miui.com/V8.5.2.0.MAMMIED/miui_HM4XGlobal_V8.5.2.0.MAMMIED_973da51a2e_6.0.zip"
     }
    },
+   "V8.5.1.0.NAMMIED",
    {
     "V8.5.4.0.NAMMIED": {
      "file": "miui_HM4XGlobal_V8.5.4.0.NAMMIED_5e9d246d66_7.1.zip",
@@ -9959,6 +10358,7 @@
      "download": "http://bigota.d.miui.com/V9.2.5.0.NAMMIEK/miui_HM4XGlobal_V9.2.5.0.NAMMIEK_c6f74c37a1_7.1.zip"
     }
    },
+   "V9.5.2.0.NAMMIFA",
    {
     "V9.5.4.0.NAMMIFA": {
      "file": "miui_HM4XGlobal_V9.5.4.0.NAMMIFA_858a4ffcc1_7.1.zip",
@@ -10035,6 +10435,8 @@
      "download": "http://bigota.d.miui.com/V8.0.15.0.MADCNDI/miui_MINote2_V8.0.15.0.MADCNDI_9140ecd014_6.0.zip"
     }
    },
+   "V8.2.1.0.MADCNDL",
+   "V8.2.1.1.MADCNDL",
    {
     "V8.2.3.0.MADCNDL": {
      "file": "miui_MINote2_V8.2.3.0.MADCNDL_83921e6a00_6.0.zip",
@@ -10095,6 +10497,7 @@
      "download": "http://bigota.d.miui.com/V9.1.3.0.NADCNEI/miui_MINote2_V9.1.3.0.NADCNEI_f6953edcad_7.0.zip"
     }
    },
+   "V9.2.1.0.NADCNEK",
    {
     "V9.2.2.0.NADCNEK": {
      "file": "miui_MINote2_V9.2.2.0.NADCNEK_516f4c3fd4_7.0.zip",
@@ -10141,6 +10544,7 @@
  },
  {
   "scorpio_global": [
+   "V8.2.3.0.MADMIDL",
    {
     "V8.2.5.0.MADMIDL": {
      "file": "miui_MINote2Global_V8.2.5.0.MADMIDL_261d0d95a4_6.0.zip",
@@ -10153,12 +10557,14 @@
      "download": "http://bigota.d.miui.com/V8.2.6.0.MADMIDL/miui_MINote2Global_V8.2.6.0.MADMIDL_66535b7bc9_6.0.zip"
     }
    },
+   "V8.5.4.0.MADMIED",
    {
     "V8.5.5.0.MADMIED": {
      "file": "miui_MINote2Global_V8.5.5.0.MADMIED_c600b7af28_6.0.zip",
      "download": "http://bigota.d.miui.com/V8.5.5.0.MADMIED/miui_MINote2Global_V8.5.5.0.MADMIED_c600b7af28_6.0.zip"
     }
    },
+   "V9.1.1.0.NADMIEI",
    {
     "V9.2.1.0.NADMIEK": {
      "file": "miui_MINote2Global_V9.2.1.0.NADMIEK_fd21725fcf_7.0.zip",
@@ -10280,6 +10686,13 @@
   ]
  },
  {
+  "tiare": [
+   "V10.2.6.0.OCLRUXM",
+   "V10.2.7.0.OCLRUXM",
+   "V10.2.8.0.OCLRUXM"
+  ]
+ },
+ {
   "tiffany": [
    {
     "V8.5.3.0.NDBCNED": {
@@ -10311,6 +10724,7 @@
      "download": "http://bigota.d.miui.com/V8.5.9.0.NDBCNED/miui_MI5X_V8.5.9.0.NDBCNED_ca5591a86c_7.1.zip"
     }
    },
+   "V8.5.12.0.NDBCNED",
    {
     "V8.5.14.0.NDBCNED": {
      "file": "miui_MI5X_V8.5.14.0.NDBCNED_8684c37155_7.1.zip",
@@ -10323,6 +10737,7 @@
      "download": "http://bigota.d.miui.com/V8.5.15.0.NDBCNED/miui_MI5X_V8.5.15.0.NDBCNED_054abb9b9c_7.1.zip"
     }
    },
+   "V9.0.2.0.NDBCNEI",
    {
     "V9.0.3.0.NDBCNEI": {
      "file": "miui_MI5X_V9.0.3.0.NDBCNEI_2d6f6aceb1_7.1.zip",
@@ -10347,6 +10762,7 @@
      "download": "http://bigota.d.miui.com/V9.2.2.0.NDBCNEK/miui_MI5X_V9.2.2.0.NDBCNEK_036516ce73_7.1.zip"
     }
    },
+   "V9.5.1.0.NDBCNFA",
    {
     "V9.5.3.0.NDBCNFA": {
      "file": "miui_MI5X_V9.5.3.0.NDBCNFA_680660d4d8_7.1.zip",
@@ -10457,6 +10873,7 @@
      "download": "http://bigota.d.miui.com/V9.6.8.0.OEKMIFD/miui_HMNote6ProGlobal_V9.6.8.0.OEKMIFD_bbca20918c_8.1.zip"
     }
    },
+   "V9.6.5.0.OEKMIFD",
    {
     "V10.0.4.0.OEKMIFH": {
      "file": "miui_HMNote6ProGlobal_V10.0.4.0.OEKMIFH_0318fdec16_8.1.zip",
@@ -10492,7 +10909,8 @@
      "file": "miui_HMNote6ProGlobal_V10.3.2.0.PEKMIXM_f6f2899114_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.2.0.PEKMIXM/miui_HMNote6ProGlobal_V10.3.2.0.PEKMIXM_f6f2899114_9.0.zip"
     }
-   }
+   },
+   "V10.3.3.0.PEKMIXM"
   ]
  },
  {
@@ -10509,12 +10927,14 @@
      "download": "http://bigota.d.miui.com/V8.5.8.0.NDKCNED/miui_HMNote5A_V8.5.8.0.NDKCNED_dd3423776a_7.1.zip"
     }
    },
+   "V8.5.9.0.NDKCNED",
    {
     "V8.5.10.0.NDKCNED": {
      "file": "miui_HMNote5A_V8.5.10.0.NDKCNED_64b6d223c9_7.1.zip",
      "download": "http://bigota.d.miui.com/V8.5.10.0.NDKCNED/miui_HMNote5A_V8.5.10.0.NDKCNED_64b6d223c9_7.1.zip"
     }
    },
+   "V9.1.2.0.NDKCNEI",
    {
     "V9.1.4.0.NDKCNEI": {
      "file": "miui_HMNote5A_V9.1.4.0.NDKCNEI_f78edd512a_7.1.zip",
@@ -10533,6 +10953,8 @@
      "download": "http://bigota.d.miui.com/V9.2.1.0.NDKCNEK/miui_HMNote5A_V9.2.1.0.NDKCNEK_f121dda9d1_7.1.zip"
     }
    },
+   "V9.5.1.0.NDKCNFA",
+   "V9.5.2.0.NDKCNFA",
    {
     "V9.5.5.0.NDKCNFA": {
      "file": "miui_HMNote5A_V9.5.5.0.NDKCNFA_d2ff041ce7_7.1.zip",
@@ -10545,6 +10967,7 @@
      "download": "http://bigota.d.miui.com/V9.5.6.0.NDKCNFA/miui_HMNote5A_V9.5.6.0.NDKCNFA_7246b65ac7_7.1.zip"
     }
    },
+   "V9.6.1.0.NDKCNFD",
    {
     "V9.6.3.0.NDKCNFD": {
      "file": "miui_HMNote5A_V9.6.3.0.NDKCNFD_6cff5892c5_7.1.zip",
@@ -10573,6 +10996,7 @@
      "download": "http://bigota.d.miui.com/V8.5.2.0.NDKMIED/miui_HMNote5AGlobal_V8.5.2.0.NDKMIED_8ce5fb8a27_7.1.zip"
     }
    },
+   "V9.1.1.0.NDKMIEI",
    {
     "V9.1.2.0.NDKMIEI": {
      "file": "miui_HMNote5AGlobal_V9.1.2.0.NDKMIEI_f4938bdaad_7.1.zip",
@@ -10591,6 +11015,7 @@
      "download": "http://bigota.d.miui.com/V9.2.3.0.NDKMIEK/miui_HMNote5AGlobal_V9.2.3.0.NDKMIEK_b91914df63_7.1.zip"
     }
    },
+   "V9.5.4.0.NDKMIFA",
    {
     "V9.5.5.0.NDKMIFA": {
      "file": "miui_HMNote5AGlobal_V9.5.5.0.NDKMIFA_203eb257bf_7.1.zip",
@@ -10643,6 +11068,7 @@
      "download": "http://bigota.d.miui.com/V8.5.10.0.NDFCNED/miui_HMNote5ALITE_V8.5.10.0.NDFCNED_32e5f323ac_7.1.zip"
     }
    },
+   "V9.1.2.0.NDFCNEI",
    {
     "V9.1.4.0.NDFCNEI": {
      "file": "miui_HMNote5ALITE_V9.1.4.0.NDFCNEI_27f7f4b3eb_7.1.zip",
@@ -10661,6 +11087,8 @@
      "download": "http://bigota.d.miui.com/V9.2.1.0.NDFCNEK/miui_HMNote5ALITE_V9.2.1.0.NDFCNEK_7152b653a7_7.1.zip"
     }
    },
+   "V9.5.1.0.NDFCNFA",
+   "V9.5.2.0.NDFCNFA",
    {
     "V9.5.5.0.NDFCNFA": {
      "file": "miui_HMNote5ALITE_V9.5.5.0.NDFCNFA_562747a2f2_7.1.zip",
@@ -10673,6 +11101,7 @@
      "download": "http://bigota.d.miui.com/V9.5.6.0.NDFCNFA/miui_HMNote5ALITE_V9.5.6.0.NDFCNFA_1e58f7425e_7.1.zip"
     }
    },
+   "V9.6.1.0.NDFCNFD",
    {
     "V9.6.3.0.NDFCNFD": {
      "file": "miui_HMNote5ALITE_V9.6.3.0.NDFCNFD_b770072066_7.1.zip",
@@ -10713,6 +11142,7 @@
      "download": "http://bigota.d.miui.com/V8.5.6.0.NDFMIED/miui_HMNote5ALITEGlobal_V8.5.6.0.NDFMIED_1f71a59023_7.1.zip"
     }
    },
+   "V9.1.1.0.NDFMIEI",
    {
     "V9.1.2.0.NDFMIEI": {
      "file": "miui_HMNote5ALITEGlobal_V9.1.2.0.NDFMIEI_daa47b0264_7.1.zip",
@@ -10731,6 +11161,8 @@
      "download": "http://bigota.d.miui.com/V9.2.5.0.NDFMIEK/miui_HMNote5ALITEGlobal_V9.2.5.0.NDFMIEK_bf8387bb9d_7.1.zip"
     }
    },
+   "V9.5.1.0.NDFMIFA",
+   "V9.5.4.0.NDFMIFA",
    {
     "V9.5.5.0.NDFMIFA": {
      "file": "miui_HMNote5ALITEGlobal_V9.5.5.0.NDFMIFA_9de82d528f_7.1.zip",
@@ -10765,12 +11197,14 @@
  },
  {
   "ursa": [
+   "V9.6.5.0.OEHCNFD",
    {
     "V9.6.7.0.OEHCNFD": {
      "file": "miui_MI8Explorer_V9.6.7.0.OEHCNFD_8701b933eb_8.1.zip",
      "download": "http://bigota.d.miui.com/V9.6.7.0.OEHCNFD/miui_MI8Explorer_V9.6.7.0.OEHCNFD_8701b933eb_8.1.zip"
     }
    },
+   "V10.0.4.0.OEHCNFH",
    {
     "V10.0.6.0.OEHCNFH": {
      "file": "miui_MI8Explorer_V10.0.6.0.OEHCNFH_f915ad1ee9_8.1.zip",
@@ -10801,6 +11235,7 @@
      "download": "http://bigota.d.miui.com/V10.2.1.0.PEHCNXM/miui_MI8Explorer_V10.2.1.0.PEHCNXM_dedaca3d40_9.0.zip"
     }
    },
+   "V10.3.1.0.PEHCNXM",
    {
     "V10.3.4.0.PEHCNXM": {
      "file": "miui_MI8Explorer_V10.3.4.0.PEHCNXM_a45ae692ea_9.0.zip",
@@ -10811,6 +11246,11 @@
  },
  {
   "vince": [
+   "V9.0.4.0.NEGCNEI",
+   "V9.2.1.0.NEGCNEK",
+   "V9.2.3.0.NEGCNEK",
+   "V9.2.4.0.NEGCNEK",
+   "V9.5.1.0.NEGCNFA",
    {
     "V9.5.2.0.NEGCNFA": {
      "file": "miui_HM5Plus_V9.5.2.0.NEGCNFA_ba45782278_7.1.zip",
@@ -10859,6 +11299,7 @@
      "download": "http://bigota.d.miui.com/V10.2.2.0.OEGCNFK/miui_HM5Plus_V10.2.2.0.OEGCNFK_22597e1e2e_8.1.zip"
     }
    },
+   "V10.2.3.0.OEGCNXM",
    {
     "V10.2.4.0.OEGCNXM": {
      "file": "miui_HM5Plus_V10.2.4.0.OEGCNXM_c5fdb8aaa1_8.1.zip",
@@ -10875,6 +11316,9 @@
  },
  {
   "vince_global": [
+   "V9.2.3.0.NEGMIEK",
+   "V9.2.6.0.NEGMIEK",
+   "V9.2.13.0.NEGMIFA",
    {
     "V9.5.3.0.NEGMIFA": {
      "file": "miui_HM5PlusGlobal_V9.5.3.0.NEGMIFA_3561d5df4a_7.1.zip",
@@ -10929,6 +11373,7 @@
      "download": "http://bigota.d.miui.com/V10.0.2.0.OEGMIFH/miui_HM5PlusGlobal_V10.0.2.0.OEGMIFH_dc9f1b974c_8.1.zip"
     }
    },
+   "V9.5.16.0.NEGMIFA",
    {
     "V10.0.4.0.OEGMIFH": {
      "file": "miui_HM5PlusGlobal_V10.0.4.0.OEGMIFH_6ecc2f2148_8.1.zip",
@@ -10968,7 +11413,9 @@
      "file": "miui_VIOLET_V10.3.5.0.PFHCNXM_4bdf98d05f_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.5.0.PFHCNXM/miui_VIOLET_V10.3.5.0.PFHCNXM_4bdf98d05f_9.0.zip"
     }
-   }
+   },
+   "V10.3.6.0.PFHCNXM",
+   "V10.3.8.0.PFHCNXM"
   ]
  },
  {
@@ -11008,11 +11455,17 @@
      "file": "miui_VIOLETINGlobal_V10.3.7.0.PFHINXM_ce5c2d34d7_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.7.0.PFHINXM/miui_VIOLETINGlobal_V10.3.7.0.PFHINXM_ce5c2d34d7_9.0.zip"
     }
-   }
+   },
+   "V10.3.9.0.PFHINXM"
   ]
  },
  {
   "virgo": [
+   "V6.1.4.0.KXECNBJ",
+   "V6.2.0.1.KXECNBK",
+   "V6.2.0.3.KXECNBK",
+   "V6.2.0.4.KXECNBK",
+   "V6.2.0.5.KXECNBK",
    {
     "V6.3.6.0.KXECNBL": {
      "file": "miui_MINote_V6.3.6.0.KXECNBL_cd00e8f8b1_4.4.zip",
@@ -11073,6 +11526,7 @@
      "download": "http://bigota.d.miui.com/V6.5.1.0.KXECNCB/miui_MINote_V6.5.1.0.KXECNCB_19bc530b6c_4.4.zip"
     }
    },
+   "V6.5.2.0.KXECNCD",
    {
     "V6.5.3.0.KXECNCD": {
      "file": "miui_MINote_V6.5.3.0.KXECNCD_ac381f0826_4.4.zip",
@@ -11115,12 +11569,15 @@
      "download": "http://bigota.d.miui.com/V6.7.1.0.KXECNCH/miui_MINote_V6.7.1.0.KXECNCH_2efd4c5662_4.4.zip"
     }
    },
+   "V6.7.3.0.KXECNCH",
+   "V7.0.5.0.KXECNCI",
    {
     "V7.0.6.0.KXECNCI": {
      "file": "miui_MINote_V7.0.6.0.KXECNCI_cfcd21619e_4.4.zip",
      "download": "http://bigota.d.miui.com/V7.0.6.0.KXECNCI/miui_MINote_V7.0.6.0.KXECNCI_cfcd21619e_4.4.zip"
     }
    },
+   "V7.1.2.0.KXECNCK",
    {
     "V7.1.3.0.KXECNCK": {
      "file": "miui_MINote_V7.1.3.0.KXECNCK_fce412cc7a_4.4.zip",
@@ -11133,6 +11590,9 @@
      "download": "http://bigota.d.miui.com/V7.1.5.0.KXECNCK/miui_MINote_V7.1.5.0.KXECNCK_1213312189_4.4.zip"
     }
    },
+   "V7.2.3.0.MXECNDB",
+   "V7.2.4.0.MXECNDB",
+   "V7.2.5.0.MXECNDB",
    {
     "V7.2.7.0.MXECNDB": {
      "file": "miui_MINote_V7.2.7.0.MXECNDB_2ccc13cb72_6.0.zip",
@@ -11175,6 +11635,8 @@
      "download": "http://bigota.d.miui.com/V7.5.5.0.MXECNDE/miui_MINote_V7.5.5.0.MXECNDE_055c4ceafa_6.0.zip"
     }
    },
+   "V7.5.6.0.MXECNDE",
+   "V8.0.1.0.MXECNDG",
    {
     "V8.0.2.0.MXECNDG": {
      "file": "miui_MINote_V8.0.2.0.MXECNDG_2ea49a9ba7_6.0.zip",
@@ -11187,6 +11649,8 @@
      "download": "http://bigota.d.miui.com/V8.0.3.0.MXECNDG/miui_MINote_V8.0.3.0.MXECNDG_a4eee45432_6.0.zip"
     }
    },
+   "V8.1.1.0.MXECNDI",
+   "V8.1.2.0.MXECNDI",
    {
     "V8.1.3.0.MXECNDI": {
      "file": "miui_MINote_V8.1.3.0.MXECNDI_96ffe7e421_6.0.zip",
@@ -11317,6 +11781,7 @@
      "download": "http://bigota.d.miui.com/V8.1.4.0.MXEMIDI/miui_MINoteGlobal_V8.1.4.0.MXEMIDI_3bf6649228_6.0.zip"
     }
    },
+   "V8.2.1.0.MXEMIDL",
    {
     "V9.2.3.0.MXEMIEK": {
      "file": "miui_MINoteGlobal_V9.2.3.0.MXEMIEK_1dbb61175a_6.0.zip",
@@ -11387,18 +11852,21 @@
      "download": "http://bigota.d.miui.com/V6.7.1.0.KXJCNCH/miui_MINoteCT_V6.7.1.0.KXJCNCH_dd58ec169f_4.4.zip"
     }
    },
+   "V6.7.3.0.KXJCNCH",
    {
     "V6.7.6.0.KXJCNCH": {
      "file": "miui_MINoteCT_V6.7.6.0.KXJCNCH_4d044f006e_4.4.zip",
      "download": "http://bigota.d.miui.com/V6.7.6.0.KXJCNCH/miui_MINoteCT_V6.7.6.0.KXJCNCH_4d044f006e_4.4.zip"
     }
    },
+   "V7.0.5.0.KXJCNCI",
    {
     "V7.0.6.0.KXJCNCI": {
      "file": "miui_MINoteCT_V7.0.6.0.KXJCNCI_ca22efdde8_4.4.zip",
      "download": "http://bigota.d.miui.com/V7.0.6.0.KXJCNCI/miui_MINoteCT_V7.0.6.0.KXJCNCI_ca22efdde8_4.4.zip"
     }
    },
+   "V7.1.2.0.KXJCNCK",
    {
     "V7.1.3.0.KXJCNCK": {
      "file": "miui_MINoteCT_V7.1.3.0.KXJCNCK_eb8810ee9b_4.4.zip",
@@ -11415,12 +11883,18 @@
  },
  {
   "wayne": [
+   "V9.5.1.0.ODCCNFA",
+   "V9.5.2.0.ODCCNFA",
+   "V9.5.3.0.ODCCNFA",
+   "V9.5.4.0.ODCCNFA",
+   "V9.5.6.0.ODCCNFA",
    {
     "V9.5.7.0.ODCCNFA": {
      "file": "miui_MI6X_V9.5.7.0.ODCCNFA_ece416caff_8.1.zip",
      "download": "http://bigota.d.miui.com/V9.5.7.0.ODCCNFA/miui_MI6X_V9.5.7.0.ODCCNFA_ece416caff_8.1.zip"
     }
    },
+   "V9.5.8.0.ODCCNFA",
    {
     "V9.5.11.0.ODCCNFA": {
      "file": "miui_MI6X_V9.5.11.0.ODCCNFA_4f9bdb5447_8.1.zip",
@@ -11439,6 +11913,8 @@
      "download": "http://bigota.d.miui.com/V9.5.15.0.ODCCNFA/miui_MI6X_V9.5.15.0.ODCCNFA_69583f9b96_8.1.zip"
     }
    },
+   "V9.6.4.0.ODCCNFD",
+   "V9.6.5.0.ODCCNFD",
    {
     "V9.6.6.0.ODCCNFD": {
      "file": "miui_MI6X_V9.6.6.0.ODCCNFD_01c1448d36_8.1.zip",
@@ -11503,12 +11979,14 @@
  },
  {
   "whyred": [
+   "V9.5.0.3.OEICNFA",
    {
     "V9.5.4.0.OEICNFA": {
      "file": "miui_WHYRED_V9.5.4.0.OEICNFA_b18a3c94aa_8.1.zip",
      "download": "http://bigota.d.miui.com/V9.5.4.0.OEICNFA/miui_WHYRED_V9.5.4.0.OEICNFA_b18a3c94aa_8.1.zip"
     }
    },
+   "V9.5.11.0.OEICNFA",
    {
     "V9.5.12.0.OEICNFA": {
      "file": "miui_HMNote5_V9.5.12.0.OEICNFA_52780e6b7c_8.1.zip",
@@ -11521,6 +11999,7 @@
      "download": "http://bigota.d.miui.com/V9.5.14.0.OEICNFA/miui_HMNote5_V9.5.14.0.OEICNFA_9fed96d8fa_8.1.zip"
     }
    },
+   "V9.5.15.0.OEICNFA",
    {
     "V9.5.16.0.OEICNFA": {
      "file": "miui_HMNote5_V9.5.16.0.OEICNFA_d74d585a49_8.1.zip",
@@ -11551,12 +12030,14 @@
      "download": "http://bigota.d.miui.com/V9.6.4.0.OEICNFD/miui_HMNote5_V9.6.4.0.OEICNFD_8e2aab90c3_8.1.zip"
     }
    },
+   "V10.0.1.0.OEICNFH",
    {
     "V10.0.2.0.OEICNFH": {
      "file": "miui_HMNote5_V10.0.2.0.OEICNFH_c9b9ece0c8_8.1.zip",
      "download": "http://bigota.d.miui.com/V10.0.2.0.OEICNFH/miui_HMNote5_V10.0.2.0.OEICNFH_c9b9ece0c8_8.1.zip"
     }
    },
+   "V10.2.1.0.OEICNFK",
    {
     "V10.2.2.0.OEICNXM": {
      "file": "miui_HMNote5_V10.2.2.0.OEICNXM_c0e48cfc8e_8.1.zip",
@@ -11615,6 +12096,7 @@
      "download": "http://bigota.d.miui.com/V9.5.6.0.OEIMIFA/miui_HMNote5HMNote5ProGlobal_V9.5.6.0.OEIMIFA_3b50aa3537_8.1.zip"
     }
    },
+   "V9.5.11.0.OEIMIFA",
    {
     "V9.2.13.0.NEIMIEK": {
      "file": "miui_WHYREDGlobal_V9.2.13.0.NEIMIEK_2c4578fa45_7.1.zip",
@@ -11645,6 +12127,7 @@
      "download": "http://bigota.d.miui.com/V9.5.19.0.OEIMIFA/miui_HMNote5HMNote5ProGlobal_V9.5.19.0.OEIMIFA_b370a6bc7e_8.1.zip"
     }
    },
+   "V9.6.2.0.OEIMIFD",
    {
     "V9.6.3.0.OEIMIFD": {
      "file": "miui_HMNote5HMNote5ProGlobal_V9.6.3.0.OEIMIFD_7fe1fc0813_8.1.zip",
@@ -11669,6 +12152,7 @@
      "download": "http://bigota.d.miui.com/V10.0.2.0.OEIMIFH/miui_HMNote5HMNote5ProGlobal_V10.0.2.0.OEIMIFH_57e18afa3a_8.1.zip"
     }
    },
+   "V10.0.3.0.OEIMIFH",
    {
     "V10.0.4.0.OEIMIFH": {
      "file": "miui_HMNote5HMNote5ProGlobal_V10.0.4.0.OEIMIFH_9aa5f799fe_8.1.zip",
@@ -11721,6 +12205,7 @@
      "download": "http://bigota.d.miui.com/V6.2.8.0.KHJCNBK/miui_HM2014813_V6.2.8.0.KHJCNBK_93366cc913_4.4.zip"
     }
    },
+   "V6.3.2.0.KHJCNBL",
    {
     "V6.4.1.0.KHJCNCB": {
      "file": "miui_HM2XTD_V6.4.1.0.KHJCNCB_20b63989d6_4.4.zip",
@@ -11787,6 +12272,7 @@
      "download": "http://bigota.d.miui.com/V6.7.1.0.KHJCNCH/miui_HM2XTD_V6.7.1.0.KHJCNCH_acb1161f2e_4.4.zip"
     }
    },
+   "V7.0.9.0.KHJCNCI",
    {
     "V7.0.11.0.KHJCNCI": {
      "file": "miui_HM2XTD_V7.0.11.0.KHJCNCI_cf101dc19c_4.4.zip",
@@ -11811,30 +12297,55 @@
      "download": "http://bigota.d.miui.com/V7.2.2.0.KHJCNDA/miui_HM2XTD_V7.2.2.0.KHJCNDA_5d08a776c4_4.4.zip"
     }
    },
+   "V7.2.1.0.LHJCNDB",
    {
     "V7.3.2.0.KHJCNDD": {
      "file": "miui_HM2XTD_V7.3.2.0.KHJCNDD_c752a05d59_4.4.zip",
      "download": "http://bigota.d.miui.com/V7.3.2.0.KHJCNDD/miui_HM2XTD_V7.3.2.0.KHJCNDD_c752a05d59_4.4.zip"
     }
    },
+   "V7.3.1.0.KHJCNDD",
+   "V7.3.1.0.LHJCNDD",
+   "V7.3.2.0.LHJCNDD",
+   "V7.3.3.0.LHJCNDD",
+   "V7.3.4.0.LHJCNDD",
+   "V7.5.1.0.LHJCNDE",
+   "V7.5.1.0.KHJCNDE",
+   "V7.5.2.0.LHJCNDE",
+   "V7.5.3.0.LHJCNDE",
+   "V8.0.1.0.KHJCNDG",
+   "V8.0.2.0.LHJCNDG",
+   "V8.0.4.0.LHJCNDG",
+   "V8.0.3.0.LHJCNDG",
+   "V8.0.3.0.KHJCNDG",
    {
     "V8.0.2.0.KHJCNDG": {
      "file": "miui_HM2XTD_V8.0.2.0.KHJCNDG_fb4e8ec5f7_4.4.zip",
      "download": "http://bigota.d.miui.com/V8.0.2.0.KHJCNDG/miui_HM2XTD_V8.0.2.0.KHJCNDG_fb4e8ec5f7_4.4.zip"
     }
    },
+   "V8.0.5.0.LHJCNDG",
+   "V8.0.6.0.LHJCNDG",
    {
     "V8.1.1.0.KHJCNDI": {
      "file": "miui_HM2XTD_V8.1.1.0.KHJCNDI_5bdfd43cd4_4.4.zip",
      "download": "http://bigota.d.miui.com/V8.1.1.0.KHJCNDI/miui_HM2XTD_V8.1.1.0.KHJCNDI_5bdfd43cd4_4.4.zip"
     }
    },
+   "V8.1.2.0.LHJCNDI",
    {
     "V8.2.1.0.KHJCNDL": {
      "file": "miui_HM2XTD_V8.2.1.0.KHJCNDL_0dec601777_4.4.zip",
      "download": "http://bigota.d.miui.com/V8.2.1.0.KHJCNDL/miui_HM2XTD_V8.2.1.0.KHJCNDL_0dec601777_4.4.zip"
     }
    },
+   "V8.2.1.0.LHJCNDL",
+   "V8.2.2.0.LHJCNDL",
+   "V8.2.3.0.LHJCNDL",
+   "V8.2.3.0.KHJCNDL",
+   "V8.2.4.0.LHJCNDL",
+   "V8.2.5.0.LHJCNDL",
+   "V8.5.1.0.LHJCNED",
    {
     "V8.5.1.0.KHJCNED": {
      "file": "miui_HM2XTD_V8.5.1.0.KHJCNED_056769ac58_4.4.zip",
@@ -11847,6 +12358,8 @@
      "download": "http://bigota.d.miui.com/V9.2.1.0.KHJCNEK/miui_HM2XTD_V9.2.1.0.KHJCNEK_840c945c58_4.4.zip"
     }
    },
+   "V9.2.1.0.LHJCNEK",
+   "V9.2.3.0.LHJCNEK",
    {
     "V9.2.3.0.KHJCNEK": {
      "file": "miui_HM2XTD_V9.2.3.0.KHJCNEK_d07b4c0f36_4.4.zip",
@@ -11923,6 +12436,31 @@
  },
  {
   "wt86047_pro": [
+   "V6.2.4.0.KHJCNBK",
+   "V6.2.8.0.KHJCNBK",
+   "V6.3.2.0.KHJCNBL",
+   "V6.4.1.0.KHJCNCB",
+   "V6.4.2.0.KHJCNCB",
+   "V6.4.3.0.KHJCNCB",
+   "V6.5.1.0.KHJCNCD",
+   "V6.5.2.0.KHJCNCD",
+   "V6.5.3.0.KHJCNCD",
+   "V6.6.1.0.KHJCNCF",
+   "V6.6.2.0.KHJCNCF",
+   "V6.6.3.0.KHJCNCF",
+   "V6.6.4.0.KHJCNCF",
+   "V6.7.1.0.KHJCNCH",
+   "V7.0.9.0.KHJCNCI",
+   "V7.0.11.0.KHJCNCI",
+   "V7.0.12.0.KHJCNCI",
+   "V7.1.2.0.KHJCNCK",
+   "V7.2.2.0.KHJCNDA",
+   "V7.2.1.0.LHJCNDB",
+   "V7.3.2.0.KHJCNDD",
+   "V7.3.1.0.KHJCNDD",
+   "V7.3.1.0.LHJCNDD",
+   "V7.3.2.0.LHJCNDD",
+   "V7.3.3.0.LHJCNDD",
    {
     "V7.3.4.0.LHJCNDD": {
      "file": "miui_HM2XTDPro_V7.3.4.0.LHJCNDD_ffab27f12d_5.1.zip",
@@ -11935,6 +12473,7 @@
      "download": "http://bigota.d.miui.com/V7.5.1.0.LHJCNDE/miui_HM2XTDPro_V7.5.1.0.LHJCNDE_45bef86a02_5.1.zip"
     }
    },
+   "V7.5.1.0.KHJCNDE",
    {
     "V7.5.2.0.LHJCNDE": {
      "file": "miui_HM2XTDPro_V7.5.2.0.LHJCNDE_2dfadb06a7_5.1.zip",
@@ -11947,30 +12486,46 @@
      "download": "http://bigota.d.miui.com/V7.5.3.0.LHJCNDE/miui_HM2XTDPro_V7.5.3.0.LHJCNDE_498414e5df_5.1.zip"
     }
    },
+   "V8.0.1.0.KHJCNDG",
+   "V8.0.2.0.LHJCNDG",
+   "V8.0.4.0.LHJCNDG",
+   "V8.0.3.0.LHJCNDG",
+   "V8.0.3.0.KHJCNDG",
+   "V8.0.2.0.KHJCNDG",
    {
     "V8.0.5.0.LHJCNDG": {
      "file": "miui_HM2XTDPro_V8.0.5.0.LHJCNDG_0d6678b051_5.1.zip",
      "download": "http://bigota.d.miui.com/V8.0.5.0.LHJCNDG/miui_HM2XTDPro_V8.0.5.0.LHJCNDG_0d6678b051_5.1.zip"
     }
    },
+   "V8.0.6.0.LHJCNDG",
+   "V8.1.1.0.KHJCNDI",
    {
     "V8.1.2.0.LHJCNDI": {
      "file": "miui_HM2XTDPro_V8.1.2.0.LHJCNDI_7cb4a8f53d_5.1.zip",
      "download": "http://bigota.d.miui.com/V8.1.2.0.LHJCNDI/miui_HM2XTDPro_V8.1.2.0.LHJCNDI_7cb4a8f53d_5.1.zip"
     }
    },
+   "V8.2.1.0.KHJCNDL",
    {
     "V8.2.1.0.LHJCNDL": {
      "file": "miui_HM2XTDPro_V8.2.1.0.LHJCNDL_e30c10d826_5.1.zip",
      "download": "http://bigota.d.miui.com/V8.2.1.0.LHJCNDL/miui_HM2XTDPro_V8.2.1.0.LHJCNDL_e30c10d826_5.1.zip"
     }
    },
+   "V8.2.2.0.LHJCNDL",
+   "V8.2.3.0.LHJCNDL",
+   "V8.2.3.0.KHJCNDL",
+   "V8.2.4.0.LHJCNDL",
+   "V8.2.5.0.LHJCNDL",
    {
     "V8.5.1.0.LHJCNED": {
      "file": "miui_HM2XTDPro_V8.5.1.0.LHJCNED_65a7c8a60e_5.1.zip",
      "download": "http://bigota.d.miui.com/V8.5.1.0.LHJCNED/miui_HM2XTDPro_V8.5.1.0.LHJCNED_65a7c8a60e_5.1.zip"
     }
    },
+   "V8.5.1.0.KHJCNED",
+   "V9.2.1.0.KHJCNEK",
    {
     "V9.2.1.0.LHJCNEK": {
      "file": "miui_HM2XTDPro_V9.2.1.0.LHJCNEK_fa5361186c_5.1.zip",
@@ -11982,7 +12537,19 @@
      "file": "miui_HM2XTDPro_V9.2.3.0.LHJCNEK_9a555fbb8b_5.1.zip",
      "download": "http://bigota.d.miui.com/V9.2.3.0.LHJCNEK/miui_HM2XTDPro_V9.2.3.0.LHJCNEK_9a555fbb8b_5.1.zip"
     }
-   }
+   },
+   "V9.2.3.0.KHJCNEK",
+   "V6.2.0.1.KHJCNBK",
+   "V6.2.0.2.KHJCNBK",
+   "V6.2.0.3.KHJCNBK",
+   "V6.2.0.4.KHJCNBK",
+   "V6.2.0.5.KHJCNBK",
+   "V6.2.0.6.KHJCNBK",
+   "V6.2.1.0.KHJCNBK",
+   "V6.2.2.0.KHJCNBK",
+   "V6.2.3.0.KHJCNBK",
+   "V6.3.3.0.KHJCNBL",
+   "V6.3.5.0.KHJCNBL"
   ]
  },
  {
@@ -12011,6 +12578,7 @@
      "download": "http://bigota.d.miui.com/V6.4.1.0.KHJCNCB/miui_HM2XWC_V6.4.1.0.KHJCNCB_1f4be8c538_4.4.zip"
     }
    },
+   "V6.4.2.0.KHJCNCB",
    {
     "V6.4.3.0.KHJCNCB": {
      "file": "miui_HM2XWC_V6.4.3.0.KHJCNCB_c76ae5127e_4.4.zip",
@@ -12029,6 +12597,9 @@
      "download": "http://bigota.d.miui.com/V6.5.2.0.KHJCNCD/miui_HM2XWC_V6.5.2.0.KHJCNCD_7dbb8488e3_4.4.zip"
     }
    },
+   "V6.5.3.0.KHJCNCD",
+   "V6.6.1.0.KHJCNCF",
+   "V6.6.2.0.KHJCNCF",
    {
     "V6.6.3.0.KHJCNCF": {
      "file": "miui_HM2XWC_V6.6.3.0.KHJCNCF_ea7b97a7a4_4.4.zip",
@@ -12047,12 +12618,14 @@
      "download": "http://bigota.d.miui.com/V6.7.1.0.KHJCNCH/miui_HM2XWC_V6.7.1.0.KHJCNCH_0a0764b4fc_4.4.zip"
     }
    },
+   "V7.0.9.0.KHJCNCI",
    {
     "V7.0.11.0.KHJCNCI": {
      "file": "miui_HM2XWC_V7.0.11.0.KHJCNCI_78c1db8d76_4.4.zip",
      "download": "http://bigota.d.miui.com/V7.0.11.0.KHJCNCI/miui_HM2XWC_V7.0.11.0.KHJCNCI_78c1db8d76_4.4.zip"
     }
    },
+   "V7.0.12.0.KHJCNCI",
    {
     "V7.1.2.0.KHJCNCK": {
      "file": "miui_HM2XWC_V7.1.2.0.KHJCNCK_f5e1bbd466_4.4.zip",
@@ -12065,36 +12638,60 @@
      "download": "http://bigota.d.miui.com/V7.2.2.0.KHJCNDA/miui_HM2XWC_V7.2.2.0.KHJCNDA_0f6062f6b7_4.4.zip"
     }
    },
+   "V7.2.1.0.LHJCNDB",
+   "V7.3.2.0.KHJCNDD",
    {
     "V7.3.1.0.KHJCNDD": {
      "file": "miui_HM2XWC_V7.3.1.0.KHJCNDD_8b635e4867_4.4.zip",
      "download": "http://bigota.d.miui.com/V7.3.1.0.KHJCNDD/miui_HM2XWC_V7.3.1.0.KHJCNDD_8b635e4867_4.4.zip"
     }
    },
+   "V7.3.1.0.LHJCNDD",
+   "V7.3.2.0.LHJCNDD",
+   "V7.3.3.0.LHJCNDD",
+   "V7.3.4.0.LHJCNDD",
+   "V7.5.1.0.LHJCNDE",
+   "V7.5.1.0.KHJCNDE",
+   "V7.5.2.0.LHJCNDE",
+   "V7.5.3.0.LHJCNDE",
+   "V8.0.1.0.KHJCNDG",
+   "V8.0.2.0.LHJCNDG",
+   "V8.0.4.0.LHJCNDG",
+   "V8.0.3.0.LHJCNDG",
    {
     "V8.0.3.0.KHJCNDG": {
      "file": "miui_HM2XWC_V8.0.3.0.KHJCNDG_130558b730_4.4.zip",
      "download": "http://bigota.d.miui.com/V8.0.3.0.KHJCNDG/miui_HM2XWC_V8.0.3.0.KHJCNDG_130558b730_4.4.zip"
     }
    },
+   "V8.0.2.0.KHJCNDG",
+   "V8.0.5.0.LHJCNDG",
+   "V8.0.6.0.LHJCNDG",
    {
     "V8.1.1.0.KHJCNDI": {
      "file": "miui_HM2XWC_V8.1.1.0.KHJCNDI_abcaab6ee8_4.4.zip",
      "download": "http://bigota.d.miui.com/V8.1.1.0.KHJCNDI/miui_HM2XWC_V8.1.1.0.KHJCNDI_abcaab6ee8_4.4.zip"
     }
    },
+   "V8.1.2.0.LHJCNDI",
    {
     "V8.2.1.0.KHJCNDL": {
      "file": "miui_HM2XWC_V8.2.1.0.KHJCNDL_bceb8e75a3_4.4.zip",
      "download": "http://bigota.d.miui.com/V8.2.1.0.KHJCNDL/miui_HM2XWC_V8.2.1.0.KHJCNDL_bceb8e75a3_4.4.zip"
     }
    },
+   "V8.2.1.0.LHJCNDL",
+   "V8.2.2.0.LHJCNDL",
+   "V8.2.3.0.LHJCNDL",
    {
     "V8.2.3.0.KHJCNDL": {
      "file": "miui_HM2XWC_V8.2.3.0.KHJCNDL_49b241e766_4.4.zip",
      "download": "http://bigota.d.miui.com/V8.2.3.0.KHJCNDL/miui_HM2XWC_V8.2.3.0.KHJCNDL_49b241e766_4.4.zip"
     }
    },
+   "V8.2.4.0.LHJCNDL",
+   "V8.2.5.0.LHJCNDL",
+   "V8.5.1.0.LHJCNED",
    {
     "V8.5.1.0.KHJCNED": {
      "file": "miui_HM2XWC_V8.5.1.0.KHJCNED_51a10f08e5_4.4.zip",
@@ -12107,6 +12704,8 @@
      "download": "http://bigota.d.miui.com/V9.2.1.0.KHJCNEK/miui_HM2XWC_V9.2.1.0.KHJCNEK_cf7e83c261_4.4.zip"
     }
    },
+   "V9.2.1.0.LHJCNEK",
+   "V9.2.3.0.LHJCNEK",
    {
     "V9.2.3.0.KHJCNEK": {
      "file": "miui_HM2XWC_V9.2.3.0.KHJCNEK_906f1865bf_4.4.zip",
@@ -12167,6 +12766,7 @@
      "download": "http://bigota.d.miui.com/V6.2.3.0.KHJCNBK/miui_HM2014811_V6.2.3.0.KHJCNBK_e5b970efbf_4.4.zip"
     }
    },
+   "V6.3.3.0.KHJCNBL",
    {
     "V6.3.5.0.KHJCNBL": {
      "file": "miui_HM2XWC_V6.3.5.0.KHJCNBL_b834673d9b_4.4.zip",
@@ -12177,12 +12777,14 @@
  },
  {
   "wt88047_global": [
+   "V6.3.4.1.KHJMIBL",
    {
     "V6.3.3.0.KHJMIBL": {
      "file": "miui_HM2XWCGlobal_V6.3.3.0.KHJMIBL_c616fe8a3e_4.4.zip",
      "download": "http://bigota.d.miui.com/V6.3.3.0.KHJMIBL/miui_HM2XWCGlobal_V6.3.3.0.KHJMIBL_c616fe8a3e_4.4.zip"
     }
    },
+   "V6.4.3.0.KHJMICB",
    {
     "V6.4.4.0.KHJMICB": {
      "file": "miui_HM2XWCGlobal_V6.4.4.0.KHJMICB_e6cce6a5af_4.4.zip",
@@ -12249,6 +12851,7 @@
      "download": "http://bigota.d.miui.com/V7.1.3.0.KHJMICK/miui_HM2XWCGlobal_V7.1.3.0.KHJMICK_eaca5d5e47_4.4.zip"
     }
    },
+   "V7.2.1.0.LHJMIDB",
    {
     "V7.2.1.0.KHJMIDA": {
      "file": "miui_HM2XWCGlobal_V7.2.1.0.KHJMIDA_caf0459371_4.4.zip",
@@ -12267,12 +12870,14 @@
      "download": "http://bigota.d.miui.com/V7.5.2.0.KHJMIDE/miui_HM2XWCGlobal_V7.5.2.0.KHJMIDE_0cb9001382_4.4.zip"
     }
    },
+   "V7.5.2.0.LHJMIDE",
    {
     "V7.5.3.0.KHJMIDE": {
      "file": "miui_HM2XWCGlobal_V7.5.3.0.KHJMIDE_f7fddd17f4_4.4.zip",
      "download": "http://bigota.d.miui.com/V7.5.3.0.KHJMIDE/miui_HM2XWCGlobal_V7.5.3.0.KHJMIDE_f7fddd17f4_4.4.zip"
     }
    },
+   "V7.5.3.0.LHJMIDE",
    {
     "V8.0.1.0.KHJMIDG": {
      "file": "miui_HM2XWCGlobal_V8.0.1.0.KHJMIDG_ffd654ffe9_4.4.zip",
@@ -12285,6 +12890,10 @@
      "download": "http://bigota.d.miui.com/V8.0.2.0.KHJMIDG/miui_HM2XWCGlobal_V8.0.2.0.KHJMIDG_09d683b2e1_4.4.zip"
     }
    },
+   "V8.0.7.0.LHJMIDG",
+   "V8.1.1.0.KHJMIDI",
+   "V8.1.3.0.LHJMIDI",
+   "V8.2.1.0.LHJMIDL",
    {
     "V8.2.1.0.KHJMIDL": {
      "file": "miui_HM2XWCGlobal_V8.2.1.0.KHJMIDL_b1291d1139_4.4.zip",
@@ -12297,6 +12906,8 @@
      "download": "http://bigota.d.miui.com/V8.5.1.0.KHJMIED/miui_HM2XWCGlobal_V8.5.1.0.KHJMIED_8431a7dade_4.4.zip"
     }
    },
+   "V8.5.1.0.LHJMIED",
+   "V8.5.2.0.LHJMIED",
    {
     "V6.2.0.5.KHJMIBK": {
      "file": "miui_HM2014811Global_V6.2.0.5.KHJMIBK_dfb4652aef_4.4.zip",
@@ -12321,12 +12932,14 @@
      "download": "http://bigota.d.miui.com/V6.3.5.0.KHJMIBL/miui_HM2XWCGlobal_V6.3.5.0.KHJMIBL_d3aaca8629_4.4.zip"
     }
    },
+   "V9.2.4.0.LHJMIEK",
    {
     "V9.2.2.0.KHJMIEK": {
      "file": "miui_HM2XWCGlobal_V9.2.2.0.KHJMIEK_def25c2da8_4.4.zip",
      "download": "http://bigota.d.miui.com/V9.2.2.0.KHJMIEK/miui_HM2XWCGlobal_V9.2.2.0.KHJMIEK_def25c2da8_4.4.zip"
     }
    },
+   "V9.2.5.0.LHJMIEK",
    {
     "V9.2.3.0.KHJMIEK": {
      "file": "miui_HM2XWCGlobal_V9.2.3.0.KHJMIEK_3583345a16_4.4.zip",
@@ -12337,18 +12950,44 @@
  },
  {
   "wt88047_pro": [
+   "V6.2.4.0.KHJCNBK",
+   "V6.2.8.0.KHJCNBK",
+   "V6.3.2.0.KHJCNBL",
+   "V6.4.1.0.KHJCNCB",
+   "V6.4.2.0.KHJCNCB",
+   "V6.4.3.0.KHJCNCB",
+   "V6.5.1.0.KHJCNCD",
+   "V6.5.2.0.KHJCNCD",
+   "V6.5.3.0.KHJCNCD",
+   "V6.6.1.0.KHJCNCF",
+   "V6.6.2.0.KHJCNCF",
+   "V6.6.3.0.KHJCNCF",
+   "V6.6.4.0.KHJCNCF",
+   "V6.7.1.0.KHJCNCH",
+   "V7.0.9.0.KHJCNCI",
+   "V7.0.11.0.KHJCNCI",
+   "V7.0.12.0.KHJCNCI",
+   "V7.1.2.0.KHJCNCK",
+   "V7.2.2.0.KHJCNDA",
+   "V7.2.1.0.LHJCNDB",
+   "V7.3.2.0.KHJCNDD",
+   "V7.3.1.0.KHJCNDD",
+   "V7.3.1.0.LHJCNDD",
+   "V7.3.2.0.LHJCNDD",
    {
     "V7.3.3.0.LHJCNDD": {
      "file": "miui_HM2XWCPro_V7.3.3.0.LHJCNDD_efe422e5cb_5.1.zip",
      "download": "http://bigota.d.miui.com/V7.3.3.0.LHJCNDD/miui_HM2XWCPro_V7.3.3.0.LHJCNDD_efe422e5cb_5.1.zip"
     }
    },
+   "V7.3.4.0.LHJCNDD",
    {
     "V7.5.1.0.LHJCNDE": {
      "file": "miui_HM2XWCPro_V7.5.1.0.LHJCNDE_9bcb7b6999_5.1.zip",
      "download": "http://bigota.d.miui.com/V7.5.1.0.LHJCNDE/miui_HM2XWCPro_V7.5.1.0.LHJCNDE_9bcb7b6999_5.1.zip"
     }
    },
+   "V7.5.1.0.KHJCNDE",
    {
     "V7.5.2.0.LHJCNDE": {
      "file": "miui_HM2XWCPro_V7.5.2.0.LHJCNDE_7edf703f80_5.1.zip",
@@ -12361,30 +13000,41 @@
      "download": "http://bigota.d.miui.com/V7.5.3.0.LHJCNDE/miui_HM2XWCPro_V7.5.3.0.LHJCNDE_c2048a1a51_5.1.zip"
     }
    },
+   "V8.0.1.0.KHJCNDG",
+   "V8.0.2.0.LHJCNDG",
+   "V8.0.4.0.LHJCNDG",
+   "V8.0.3.0.LHJCNDG",
+   "V8.0.3.0.KHJCNDG",
+   "V8.0.2.0.KHJCNDG",
+   "V8.0.5.0.LHJCNDG",
    {
     "V8.0.6.0.LHJCNDG": {
      "file": "miui_HM2XWCPro_V8.0.6.0.LHJCNDG_93dbac4b0a_5.1.zip",
      "download": "http://bigota.d.miui.com/V8.0.6.0.LHJCNDG/miui_HM2XWCPro_V8.0.6.0.LHJCNDG_93dbac4b0a_5.1.zip"
     }
    },
+   "V8.1.1.0.KHJCNDI",
    {
     "V8.1.2.0.LHJCNDI": {
      "file": "miui_HM2XWCPro_V8.1.2.0.LHJCNDI_b7ddb9a31f_5.1.zip",
      "download": "http://bigota.d.miui.com/V8.1.2.0.LHJCNDI/miui_HM2XWCPro_V8.1.2.0.LHJCNDI_b7ddb9a31f_5.1.zip"
     }
    },
+   "V8.2.1.0.KHJCNDL",
    {
     "V8.2.1.0.LHJCNDL": {
      "file": "miui_HM2XWCPro_V8.2.1.0.LHJCNDL_c7217984d3_5.1.zip",
      "download": "http://bigota.d.miui.com/V8.2.1.0.LHJCNDL/miui_HM2XWCPro_V8.2.1.0.LHJCNDL_c7217984d3_5.1.zip"
     }
    },
+   "V8.2.2.0.LHJCNDL",
    {
     "V8.2.3.0.LHJCNDL": {
      "file": "miui_HM2XWCPro_V8.2.3.0.LHJCNDL_0a3765b2d3_5.1.zip",
      "download": "http://bigota.d.miui.com/V8.2.3.0.LHJCNDL/miui_HM2XWCPro_V8.2.3.0.LHJCNDL_0a3765b2d3_5.1.zip"
     }
    },
+   "V8.2.3.0.KHJCNDL",
    {
     "V8.2.4.0.LHJCNDL": {
      "file": "miui_HM2XWCPro_V8.2.4.0.LHJCNDL_3861242b5e_5.1.zip",
@@ -12403,6 +13053,8 @@
      "download": "http://bigota.d.miui.com/V8.5.1.0.LHJCNED/miui_HM2XWCPro_V8.5.1.0.LHJCNED_a9b051213d_5.1.zip"
     }
    },
+   "V8.5.1.0.KHJCNED",
+   "V9.2.1.0.KHJCNEK",
    {
     "V9.2.1.0.LHJCNEK": {
      "file": "miui_HM2XWCPro_V9.2.1.0.LHJCNEK_36af27f999_5.1.zip",
@@ -12414,35 +13066,72 @@
      "file": "miui_HM2XWCPro_V9.2.3.0.LHJCNEK_77056c722f_5.1.zip",
      "download": "http://bigota.d.miui.com/V9.2.3.0.LHJCNEK/miui_HM2XWCPro_V9.2.3.0.LHJCNEK_77056c722f_5.1.zip"
     }
-   }
+   },
+   "V9.2.3.0.KHJCNEK",
+   "V6.2.0.1.KHJCNBK",
+   "V6.2.0.2.KHJCNBK",
+   "V6.2.0.3.KHJCNBK",
+   "V6.2.0.4.KHJCNBK",
+   "V6.2.0.5.KHJCNBK",
+   "V6.2.0.6.KHJCNBK",
+   "V6.2.1.0.KHJCNBK",
+   "V6.2.2.0.KHJCNBK",
+   "V6.2.3.0.KHJCNBK",
+   "V6.3.3.0.KHJCNBL",
+   "V6.3.5.0.KHJCNBL"
   ]
  },
  {
   "wt88047_pro_global": [
+   "V6.3.4.1.KHJMIBL",
+   "V6.3.3.0.KHJMIBL",
+   "V6.4.3.0.KHJMICB",
+   "V6.4.4.0.KHJMICB",
+   "V6.5.2.0.KHJMICD",
+   "V6.5.3.0.KHJMICD",
+   "V6.6.6.0.KHJMICF",
+   "V6.6.7.0.KHJMICF",
+   "V6.6.8.0.KHJMICF",
+   "V6.7.1.0.KHJMICH",
+   "V7.0.5.0.KHJMICI",
+   "V7.0.9.0.KHJMICI",
+   "V7.1.1.0.KHJMICK",
+   "V7.1.3.0.KHJMICK",
+   "V7.2.1.0.LHJMIDB",
+   "V7.2.1.0.KHJMIDA",
+   "V7.3.1.0.KHJMIDD",
+   "V7.5.2.0.KHJMIDE",
    {
     "V7.5.2.0.LHJMIDE": {
      "file": "miui_HM2XWCProGlobal_V7.5.2.0.LHJMIDE_af436319d6_5.1.zip",
      "download": "http://bigota.d.miui.com/V7.5.2.0.LHJMIDE/miui_HM2XWCProGlobal_V7.5.2.0.LHJMIDE_af436319d6_5.1.zip"
     }
    },
+   "V7.5.3.0.KHJMIDE",
    {
     "V7.5.3.0.LHJMIDE": {
      "file": "miui_HM2XWCProGlobal_V7.5.3.0.LHJMIDE_85c6a91944_5.1.zip",
      "download": "http://bigota.d.miui.com/V7.5.3.0.LHJMIDE/miui_HM2XWCProGlobal_V7.5.3.0.LHJMIDE_85c6a91944_5.1.zip"
     }
    },
+   "V8.0.1.0.KHJMIDG",
+   "V8.0.2.0.KHJMIDG",
    {
     "V8.0.7.0.LHJMIDG": {
      "file": "miui_HM2XWCProGlobal_V8.0.7.0.LHJMIDG_3240991baf_5.1.zip",
      "download": "http://bigota.d.miui.com/V8.0.7.0.LHJMIDG/miui_HM2XWCProGlobal_V8.0.7.0.LHJMIDG_3240991baf_5.1.zip"
     }
    },
+   "V8.1.1.0.KHJMIDI",
    {
     "V8.1.3.0.LHJMIDI": {
      "file": "miui_HM2XWCProGlobal_V8.1.3.0.LHJMIDI_53f53ef3a9_5.1.zip",
      "download": "http://bigota.d.miui.com/V8.1.3.0.LHJMIDI/miui_HM2XWCProGlobal_V8.1.3.0.LHJMIDI_53f53ef3a9_5.1.zip"
     }
    },
+   "V8.2.1.0.LHJMIDL",
+   "V8.2.1.0.KHJMIDL",
+   "V8.5.1.0.KHJMIED",
    {
     "V8.5.1.0.LHJMIED": {
      "file": "miui_HM2XWCProGlobal_V8.5.1.0.LHJMIED_447abeac98_5.1.zip",
@@ -12455,18 +13144,24 @@
      "download": "http://bigota.d.miui.com/V8.5.2.0.LHJMIED/miui_HM2XWCProGlobal_V8.5.2.0.LHJMIED_d9f708af01_5.1.zip"
     }
    },
+   "V6.2.0.5.KHJMIBK",
+   "V6.2.0.6.KHJMIBK",
+   "V6.2.2.0.KHJMIBK",
+   "V6.3.5.0.KHJMIBL",
    {
     "V9.2.4.0.LHJMIEK": {
      "file": "miui_HM2XWCProGlobal_V9.2.4.0.LHJMIEK_f4688a5495_5.1.zip",
      "download": "http://bigota.d.miui.com/V9.2.4.0.LHJMIEK/miui_HM2XWCProGlobal_V9.2.4.0.LHJMIEK_f4688a5495_5.1.zip"
     }
    },
+   "V9.2.2.0.KHJMIEK",
    {
     "V9.2.5.0.LHJMIEK": {
      "file": "miui_HM2XWCProGlobal_V9.2.5.0.LHJMIEK_cc5597e455_5.1.zip",
      "download": "http://bigota.d.miui.com/V9.2.5.0.LHJMIEK/miui_HM2XWCProGlobal_V9.2.5.0.LHJMIEK_cc5597e455_5.1.zip"
     }
-   }
+   },
+   "V9.2.3.0.KHJMIEK"
   ]
  },
  {
@@ -12512,11 +13207,14 @@
      "file": "miui_HMS2_V10.3.4.0.OEFCNXM_523dd2dd4a_8.1.zip",
      "download": "http://bigota.d.miui.com/V10.3.4.0.OEFCNXM/miui_HMS2_V10.3.4.0.OEFCNXM_523dd2dd4a_8.1.zip"
     }
-   }
+   },
+   "V10.3.2.0.PEFCNXM"
   ]
  },
  {
   "ysl_global": [
+   "V9.5.9.0.OEFMIFA",
+   "V9.5.14.0.OEFMIFA",
    {
     "V9.6.2.0.OEFMIFD": {
      "file": "miui_HMS2Global_V9.6.2.0.OEFMIFD_38d70c8394_8.1.zip",
@@ -12553,6 +13251,7 @@
      "download": "http://bigota.d.miui.com/V10.0.6.0.OEFMIFH/miui_HMS2Global_V10.0.6.0.OEFMIFH_68de912285_8.1.zip"
     }
    },
+   "V10.0.7.0.OEFMIFH",
    {
     "V10.0.8.0.OEFMIFH": {
      "file": "miui_HMS2Global_V10.0.8.0.OEFMIFH_548844a78c_8.1.zip",
