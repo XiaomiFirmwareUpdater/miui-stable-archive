@@ -1,0 +1,140 @@
+{
+ "ferrari_global": [
+  "V6.4.10.0.LXIMICB",
+  {
+   "V6.5.3.0.LXIMICD": {
+    "file": "miui_FERRARIGlobal_V6.5.3.0.LXIMICD_68100d2f21_5.0.zip",
+    "download": "http://bigota.d.miui.com/V6.5.3.0.LXIMICD/miui_FERRARIGlobal_V6.5.3.0.LXIMICD_68100d2f21_5.0.zip"
+   }
+  },
+  "V6.5.4.0.LXIMICD",
+  {
+   "V6.5.5.0.LXIMICD": {
+    "file": "miui_MI4iGlobal_V6.5.5.0.LXIMICD_b75e0da21c_5.0.zip",
+    "download": "http://bigota.d.miui.com/V6.5.5.0.LXIMICD/miui_MI4iGlobal_V6.5.5.0.LXIMICD_b75e0da21c_5.0.zip"
+   }
+  },
+  {
+   "V6.5.6.0.LXIMICD": {
+    "file": "miui_MI4iGlobal_V6.5.6.0.LXIMICD_86a8cdc543_5.0.zip",
+    "download": "http://bigota.d.miui.com/V6.5.6.0.LXIMICD/miui_MI4iGlobal_V6.5.6.0.LXIMICD_86a8cdc543_5.0.zip"
+   }
+  },
+  "V6.6.1.0.LXIMICF",
+  "V6.6.2.0.LXIMICF",
+  {
+   "V6.6.5.0.LXIMICF": {
+    "file": "miui_MI4iGlobal_V6.6.5.0.LXIMICF_7042016d1d_5.0.zip",
+    "download": "http://bigota.d.miui.com/V6.6.5.0.LXIMICF/miui_MI4iGlobal_V6.6.5.0.LXIMICF_7042016d1d_5.0.zip"
+   }
+  },
+  {
+   "V6.6.6.0.LXIMICF": {
+    "file": "miui_MI4iGlobal_V6.6.6.0.LXIMICF_5418130c06_5.0.zip",
+    "download": "http://bigota.d.miui.com/V6.6.6.0.LXIMICF/miui_MI4iGlobal_V6.6.6.0.LXIMICF_5418130c06_5.0.zip"
+   }
+  },
+  {
+   "V6.6.8.0.LXIMICF": {
+    "file": "miui_MI4iGlobal_V6.6.8.0.LXIMICF_017ca478f8_5.0.zip",
+    "download": "http://bigota.d.miui.com/V6.6.8.0.LXIMICF/miui_MI4iGlobal_V6.6.8.0.LXIMICF_017ca478f8_5.0.zip"
+   }
+  },
+  {
+   "V6.6.10.0.LXIMICF": {
+    "file": "miui_MI4iGlobal_V6.6.10.0.LXIMICF_80f20c0908_5.0.zip",
+    "download": "http://bigota.d.miui.com/V6.6.10.0.LXIMICF/miui_MI4iGlobal_V6.6.10.0.LXIMICF_80f20c0908_5.0.zip"
+   }
+  },
+  "V6.7.1.0.LXIMICH",
+  {
+   "V6.7.2.0.LXIMICH": {
+    "file": "miui_MI4iGlobal_V6.7.2.0.LXIMICH_22a88b210d_5.0.zip",
+    "download": "http://bigota.d.miui.com/V6.7.2.0.LXIMICH/miui_MI4iGlobal_V6.7.2.0.LXIMICH_22a88b210d_5.0.zip"
+   }
+  },
+  {
+   "V7.0.3.0.LXIMICI": {
+    "file": "miui_MI4iGlobal_V7.0.3.0.LXIMICI_4f06555759_5.0.zip",
+    "download": "http://bigota.d.miui.com/V7.0.3.0.LXIMICI/miui_MI4iGlobal_V7.0.3.0.LXIMICI_4f06555759_5.0.zip"
+   }
+  },
+  {
+   "V7.0.4.0.LXIMICI": {
+    "file": "miui_MI4iGlobal_V7.0.4.0.LXIMICI_6128ae315e_5.0.zip",
+    "download": "http://bigota.d.miui.com/V7.0.4.0.LXIMICI/miui_MI4iGlobal_V7.0.4.0.LXIMICI_6128ae315e_5.0.zip"
+   }
+  },
+  {
+   "V7.1.1.0.LXIMICK": {
+    "file": "miui_MI4iGlobal_V7.1.1.0.LXIMICK_15c5da242c_5.0.zip",
+    "download": "http://bigota.d.miui.com/V7.1.1.0.LXIMICK/miui_MI4iGlobal_V7.1.1.0.LXIMICK_15c5da242c_5.0.zip"
+   }
+  },
+  "V7.2.2.0.LXIMIDA",
+  {
+   "V7.2.3.0.LXIMIDA": {
+    "file": "miui_MI4iGlobal_V7.2.3.0.LXIMIDA_b2b6482ad5_5.0.zip",
+    "download": "http://bigota.d.miui.com/V7.2.3.0.LXIMIDA/miui_MI4iGlobal_V7.2.3.0.LXIMIDA_b2b6482ad5_5.0.zip"
+   }
+  },
+  {
+   "V7.3.1.0.LXIMIDD": {
+    "file": "miui_MI4iGlobal_V7.3.1.0.LXIMIDD_e501308d8e_5.0.zip",
+    "download": "http://bigota.d.miui.com/V7.3.1.0.LXIMIDD/miui_MI4iGlobal_V7.3.1.0.LXIMIDD_e501308d8e_5.0.zip"
+   }
+  },
+  {
+   "V7.5.1.0.LXIMIDE": {
+    "file": "miui_MI4iGlobal_V7.5.1.0.LXIMIDE_cba3d6ba5d_5.0.zip",
+    "download": "http://bigota.d.miui.com/V7.5.1.0.LXIMIDE/miui_MI4iGlobal_V7.5.1.0.LXIMIDE_cba3d6ba5d_5.0.zip"
+   }
+  },
+  "V7.5.2.0.LXIMIDE",
+  {
+   "V8.0.1.0.LXIMIDG": {
+    "file": "miui_MI4iGlobal_V8.0.1.0.LXIMIDG_4e70a3b75e_5.0.zip",
+    "download": "http://bigota.d.miui.com/V8.0.1.0.LXIMIDG/miui_MI4iGlobal_V8.0.1.0.LXIMIDG_4e70a3b75e_5.0.zip"
+   }
+  },
+  {
+   "V8.0.2.0.LXIMIDG": {
+    "file": "miui_MI4iGlobal_V8.0.2.0.LXIMIDG_90b6773ee0_5.0.zip",
+    "download": "http://bigota.d.miui.com/V8.0.2.0.LXIMIDG/miui_MI4iGlobal_V8.0.2.0.LXIMIDG_90b6773ee0_5.0.zip"
+   }
+  },
+  "V8.1.4.0.LXIMIDI",
+  {
+   "V8.1.5.0.LXIMIDI": {
+    "file": "miui_MI4iGlobal_V8.1.5.0.LXIMIDI_b6d019203d_5.0.zip",
+    "download": "http://bigota.d.miui.com/V8.1.5.0.LXIMIDI/miui_MI4iGlobal_V8.1.5.0.LXIMIDI_b6d019203d_5.0.zip"
+   }
+  },
+  "V8.1.7.0.LXIMIDI",
+  "V8.2.2.0.LXIMIDL",
+  {
+   "V8.5.3.0.LXIMIED": {
+    "file": "miui_MI4iGlobal_V8.5.3.0.LXIMIED_a8f17c8bfe_5.0.zip",
+    "download": "http://bigota.d.miui.com/V8.5.3.0.LXIMIED/miui_MI4iGlobal_V8.5.3.0.LXIMIED_a8f17c8bfe_5.0.zip"
+   }
+  },
+  {
+   "V9.2.1.0.LXIMIEK": {
+    "file": "miui_MI4iGlobal_V9.2.1.0.LXIMIEK_c1731c37de_5.0.zip",
+    "download": "http://bigota.d.miui.com/V9.2.1.0.LXIMIEK/miui_MI4iGlobal_V9.2.1.0.LXIMIEK_c1731c37de_5.0.zip"
+   }
+  },
+  {
+   "V9.2.2.0.LXIMIEK": {
+    "file": "miui_MI4iGlobal_V9.2.2.0.LXIMIEK_cc26a04d2c_5.0.zip",
+    "download": "http://bigota.d.miui.com/V9.2.2.0.LXIMIEK/miui_MI4iGlobal_V9.2.2.0.LXIMIEK_cc26a04d2c_5.0.zip"
+   }
+  },
+  {
+   "V9.2.3.0.LXIMIEK": {
+    "file": "miui_MI4iGlobal_V9.2.3.0.LXIMIEK_10478f16c8_5.0.zip",
+    "download": "http://bigota.d.miui.com/V9.2.3.0.LXIMIEK/miui_MI4iGlobal_V9.2.3.0.LXIMIEK_10478f16c8_5.0.zip"
+   }
+  }
+ ]
+}

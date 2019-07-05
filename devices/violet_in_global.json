@@ -36,6 +36,12 @@
     "download": "http://bigota.d.miui.com/V10.3.7.0.PFHINXM/miui_VIOLETINGlobal_V10.3.7.0.PFHINXM_ce5c2d34d7_9.0.zip"
    }
   },
-  "V10.3.9.0.PFHINXM"
+  "V10.3.9.0.PFHINXM",
+  {
+   "V10.3.10.0.PFHINXM": {
+    "file": "miui_VIOLETINGlobal_V10.3.10.0.PFHINXM_931e2b6f4d_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.10.0.PFHINXM/miui_VIOLETINGlobal_V10.3.10.0.PFHINXM_931e2b6f4d_9.0.zip"
+   }
+  }
  ]
 }

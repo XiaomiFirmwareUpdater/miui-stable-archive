@@ -1,0 +1,16 @@
+{
+ "pyxis": [
+  {
+   "V10.3.3.0.PFCCNXM": {
+    "file": "miui_PYXIS_V10.3.3.0.PFCCNXM_916f963b9b_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.3.0.PFCCNXM/miui_PYXIS_V10.3.3.0.PFCCNXM_916f963b9b_9.0.zip"
+   }
+  },
+  {
+   "V10.3.5.0.PFCCNXM": {
+    "file": "miui_PYXIS_V10.3.5.0.PFCCNXM_224960eda9_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.5.0.PFCCNXM/miui_PYXIS_V10.3.5.0.PFCCNXM_224960eda9_9.0.zip"
+   }
+  }
+ ]
+}
