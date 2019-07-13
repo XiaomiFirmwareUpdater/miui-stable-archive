@@ -1832,10 +1832,11 @@
    },
    "V10.2.27.0.PFACNXM",
    "V10.2.28.0.PFACNXM",
+   "V10.2.29.0.PFACNXM",
    {
-    "V10.2.29.0.PFACNXM": {
-     "file": "miui_CEPHEUS_V10.2.29.0.PFACNXM_f112af8389_9.0.zip",
-     "download": "http://bigota.d.miui.com/V10.2.29.0.PFACNXM/miui_CEPHEUS_V10.2.29.0.PFACNXM_f112af8389_9.0.zip"
+    "V10.2.31.0.PFACNXM": {
+     "file": "miui_CEPHEUS_V10.2.31.0.PFACNXM_89ce642dca_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.2.31.0.PFACNXM/miui_CEPHEUS_V10.2.31.0.PFACNXM_89ce642dca_9.0.zip"
     }
    }
   ]
@@ -1882,12 +1883,8 @@
      "download": "http://bigota.d.miui.com/V10.2.26.0.PFAEUXM/miui_CEPHEUSEEAGlobal_V10.2.26.0.PFAEUXM_4f78480317_9.0.zip"
     }
    },
-   {
-    "V10.2.27.0.PFAEUXM": {
-     "file": "miui_CEPHEUSEEAGlobal_V10.2.27.0.PFAEUXM_7af0247ed4_9.0.zip",
-     "download": "http://bigota.d.miui.com/V10.2.27.0.PFAEUXM/miui_CEPHEUSEEAGlobal_V10.2.27.0.PFAEUXM_7af0247ed4_9.0.zip"
-    }
-   }
+   "V10.2.27.0.PFAEUXM",
+   "V10.2.5.0.PFAEUHG"
   ]
  },
  {
@@ -1910,12 +1907,7 @@
      "download": "http://bigota.d.miui.com/V10.2.9.0.PFAMIXM/miui_CEPHEUSGlobal_V10.2.9.0.PFAMIXM_45a4e7920a_9.0.zip"
     }
    },
-   {
-    "V10.2.12.0.PFAMIXM": {
-     "file": "miui_CEPHEUSGlobal_V10.2.12.0.PFAMIXM_7577b70818_9.0.zip",
-     "download": "http://bigota.d.miui.com/V10.2.12.0.PFAMIXM/miui_CEPHEUSGlobal_V10.2.12.0.PFAMIXM_7577b70818_9.0.zip"
-    }
-   }
+   "V10.2.12.0.PFAMIXM"
   ]
  },
  {
@@ -2834,7 +2826,8 @@
      "file": "miui_MI8Global_V10.3.3.0.PEAMIXM_7e838f24e4_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.3.0.PEAMIXM/miui_MI8Global_V10.3.3.0.PEAMIXM_7e838f24e4_9.0.zip"
     }
-   }
+   },
+   "V10.3.1.0.PEAMIHG"
   ]
  },
  {
@@ -5830,6 +5823,12 @@
      "file": "miui_LAURUS_V10.2.7.0.PFMCNXM_e97f175b59_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.2.7.0.PFMCNXM/miui_LAURUS_V10.2.7.0.PFMCNXM_e97f175b59_9.0.zip"
     }
+   },
+   {
+    "V10.2.8.0.PFMCNXM": {
+     "file": "miui_LAURUS_V10.2.8.0.PFMCNXM_60b0f2fe60_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.2.8.0.PFMCNXM/miui_LAURUS_V10.2.8.0.PFMCNXM_60b0f2fe60_9.0.zip"
+    }
    }
   ]
  },
@@ -8607,6 +8606,12 @@
      "file": "miui_ONCLITEINGlobal_V10.3.2.0.PFLINXM_1cd1f99ae3_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.2.0.PFLINXM/miui_ONCLITEINGlobal_V10.3.2.0.PFLINXM_1cd1f99ae3_9.0.zip"
     }
+   },
+   {
+    "V10.3.3.0.PFLINXM": {
+     "file": "miui_ONCLITEINGlobal_V10.3.3.0.PFLINXM_48e8a7165a_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.3.3.0.PFLINXM/miui_ONCLITEINGlobal_V10.3.3.0.PFLINXM_48e8a7165a_9.0.zip"
+    }
    }
   ]
  },
@@ -8715,7 +8720,9 @@
      "download": "http://bigota.d.miui.com/V10.3.1.0.NDDCNXM/miui_MIMAX2_V10.3.1.0.NDDCNXM_e4dbc2e566_7.1.zip"
     }
    },
-   "V10.0.1.2.PDDCNED"
+   "V10.0.1.2.PDDCNED",
+   "V10.0.1.3.ODDCNED",
+   "V10.0.1.3.PDDCNED"
   ]
  },
  {
@@ -8878,7 +8885,8 @@
      "file": "miui_MIMIX3Global_V10.3.1.0.PEEMIXM_999a855430_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.1.0.PEEMIXM/miui_MIMIX3Global_V10.3.1.0.PEEMIXM_999a855430_9.0.zip"
     }
-   }
+   },
+   "V10.3.1.0.PEEMIHG"
   ]
  },
  {
@@ -8887,6 +8895,12 @@
     "V10.2.6.0.PCMCNXM": {
      "file": "miui_PINE_V10.2.6.0.PCMCNXM_accd34296f_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.2.6.0.PCMCNXM/miui_PINE_V10.2.6.0.PCMCNXM_accd34296f_9.0.zip"
+    }
+   },
+   {
+    "V10.2.8.0.PCMCNXM": {
+     "file": "miui_PINE_V10.2.8.0.PCMCNXM_28ad8a5d9a_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.2.8.0.PCMCNXM/miui_PINE_V10.2.8.0.PCMCNXM_28ad8a5d9a_9.0.zip"
     }
    }
   ]
@@ -9533,7 +9547,14 @@
      "download": "http://bigota.d.miui.com/V10.3.11.0.PFKCNXM/miui_RAPHAEL_V10.3.11.0.PFKCNXM_1e15b563e5_9.0.zip"
     }
    },
-   "V10.3.12.0.PFKCNXM"
+   "V10.3.12.0.PFKCNXM",
+   "V10.3.14.0.PFKCNXM",
+   {
+    "V10.3.15.0.PFKCNXM": {
+     "file": "miui_RAPHAEL_V10.3.15.0.PFKCNXM_d88e04e9b5_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.3.15.0.PFKCNXM/miui_RAPHAEL_V10.3.15.0.PFKCNXM_d88e04e9b5_9.0.zip"
+    }
+   }
   ]
  },
  {
@@ -10228,7 +10249,8 @@
      "file": "miui_MI6_V10.3.1.0.OCACNXM_daadd2e637_8.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.1.0.OCACNXM/miui_MI6_V10.3.1.0.OCACNXM_daadd2e637_8.0.zip"
     }
-   }
+   },
+   "V10.4.2.0.PCACNXM"
   ]
  },
  {
@@ -11499,6 +11521,12 @@
      "file": "miui_VELA_V10.3.1.0.PFECNXM_215f256089_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.1.0.PFECNXM/miui_VELA_V10.3.1.0.PFECNXM_215f256089_9.0.zip"
     }
+   },
+   {
+    "V10.3.2.0.PFECNXM": {
+     "file": "miui_VELA_V10.3.2.0.PFECNXM_73aa5a0a7e_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.3.2.0.PFECNXM/miui_VELA_V10.3.2.0.PFECNXM_73aa5a0a7e_9.0.zip"
+    }
    }
   ]
  },
@@ -11643,6 +11671,12 @@
      "file": "miui_HM5PlusGlobal_V10.2.1.0.OEGMIXM_c9cb5eb7bb_8.1.zip",
      "download": "http://bigota.d.miui.com/V10.2.1.0.OEGMIXM/miui_HM5PlusGlobal_V10.2.1.0.OEGMIXM_c9cb5eb7bb_8.1.zip"
     }
+   },
+   {
+    "V10.2.3.0.OEGMIXM": {
+     "file": "miui_HM5PlusGlobal_V10.2.3.0.OEGMIXM_062f670d34_8.1.zip",
+     "download": "http://bigota.d.miui.com/V10.2.3.0.OEGMIXM/miui_HM5PlusGlobal_V10.2.3.0.OEGMIXM_062f670d34_8.1.zip"
+    }
    }
   ]
  },
@@ -11673,7 +11707,13 @@
     }
    },
    "V10.3.6.0.PFHCNXM",
-   "V10.3.8.0.PFHCNXM"
+   "V10.3.8.0.PFHCNXM",
+   {
+    "V10.3.9.0.PFHCNXM": {
+     "file": "miui_VIOLET_V10.3.9.0.PFHCNXM_ecd8283ce3_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.3.9.0.PFHCNXM/miui_VIOLET_V10.3.9.0.PFHCNXM_ecd8283ce3_9.0.zip"
+    }
+   }
   ]
  },
  {
@@ -12325,7 +12365,8 @@
      "file": "miui_HMNote5_V10.3.3.0.PEICNXM_2573f731ef_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.3.0.PEICNXM/miui_HMNote5_V10.3.3.0.PEICNXM_2573f731ef_9.0.zip"
     }
-   }
+   },
+   "V10.0.1.3.OEICNFA"
   ]
  },
  {
@@ -13472,7 +13513,8 @@
      "download": "http://bigota.d.miui.com/V10.3.4.0.OEFCNXM/miui_HMS2_V10.3.4.0.OEFCNXM_523dd2dd4a_8.1.zip"
     }
    },
-   "V10.3.2.0.PEFCNXM"
+   "V10.3.2.0.PEFCNXM",
+   "V10.3.3.0.PEFCNXM"
   ]
  },
  {
