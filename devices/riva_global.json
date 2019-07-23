@@ -87,6 +87,12 @@
   },
   "V10.1.2.0.OCKMIFI",
   "V10.2.1.0.OCKMIXM",
-  "V10.2.2.0.OCKMIXM"
+  "V10.2.2.0.OCKMIXM",
+  {
+   "V10.3.2.0.OCKMIXM": {
+    "file": "miui_HM5AGlobal_V10.3.2.0.OCKMIXM_7f399a7a04_8.1.zip",
+    "download": "http://bigota.d.miui.com/V10.3.2.0.OCKMIXM/miui_HM5AGlobal_V10.3.2.0.OCKMIXM_7f399a7a04_8.1.zip"
+   }
+  }
  ]
 }

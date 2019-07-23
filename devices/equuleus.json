@@ -24,6 +24,12 @@
     "file": "miui_MI8UD_V10.3.3.0.PECCNXM_e15fc692b0_9.0.zip",
     "download": "http://bigota.d.miui.com/V10.3.3.0.PECCNXM/miui_MI8UD_V10.3.3.0.PECCNXM_e15fc692b0_9.0.zip"
    }
+  },
+  {
+   "V10.3.4.0.PECCNXM": {
+    "file": "miui_MI8UD_V10.3.4.0.PECCNXM_aef3e722a2_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.4.0.PECCNXM/miui_MI8UD_V10.3.4.0.PECCNXM_aef3e722a2_9.0.zip"
+   }
   }
  ]
 }

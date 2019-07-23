@@ -12,10 +12,11 @@
     "download": "http://bigota.d.miui.com/V10.3.6.0.PFJMIXM/miui_DAVINCIGlobal_V10.3.6.0.PFJMIXM_4879216355_9.0.zip"
    }
   },
+  "V10.3.7.0.PFJMIXM",
   {
-   "V10.3.7.0.PFJMIXM": {
-    "file": "miui_DAVINCIGlobal_V10.3.7.0.PFJMIXM_a0622a6370_9.0.zip",
-    "download": "http://bigota.d.miui.com/V10.3.7.0.PFJMIXM/miui_DAVINCIGlobal_V10.3.7.0.PFJMIXM_a0622a6370_9.0.zip"
+   "V10.3.9.0.PFJMIXM": {
+    "file": "miui_DAVINCIGlobal_V10.3.9.0.PFJMIXM_1b6f5bc7ca_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.9.0.PFJMIXM/miui_DAVINCIGlobal_V10.3.9.0.PFJMIXM_1b6f5bc7ca_9.0.zip"
    }
   }
  ]

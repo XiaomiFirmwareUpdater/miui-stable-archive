@@ -144,6 +144,11 @@
     "download": "http://bigota.d.miui.com/V10.3.1.0.OCACNXM/miui_MI6_V10.3.1.0.OCACNXM_daadd2e637_8.0.zip"
    }
   },
-  "V10.4.2.0.PCACNXM"
+  {
+   "V10.4.2.0.PCACNXM": {
+    "file": "miui_MI6_V10.4.2.0.PCACNXM_75a8bf4171_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.4.2.0.PCACNXM/miui_MI6_V10.4.2.0.PCACNXM_75a8bf4171_9.0.zip"
+   }
+  }
  ]
 }
