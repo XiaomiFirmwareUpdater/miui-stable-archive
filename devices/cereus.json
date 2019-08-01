@@ -38,6 +38,12 @@
     "file": "miui_HM6_V10.3.4.0.OCGCNXM_8fa6a1b713_8.1.zip",
     "download": "http://bigota.d.miui.com/V10.3.4.0.OCGCNXM/miui_HM6_V10.3.4.0.OCGCNXM_8fa6a1b713_8.1.zip"
    }
+  },
+  {
+   "V10.4.2.0.PCGCNXM": {
+    "file": "miui_HM6_V10.4.2.0.PCGCNXM_2748275372_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.4.2.0.PCGCNXM/miui_HM6_V10.4.2.0.PCGCNXM_2748275372_9.0.zip"
+   }
   }
  ]
 }

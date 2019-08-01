@@ -67,6 +67,12 @@
     "file": "miui_HM5_V10.3.2.0.ODACNXM_b9cc52f4c8_8.1.zip",
     "download": "http://bigota.d.miui.com/V10.3.2.0.ODACNXM/miui_HM5_V10.3.2.0.ODACNXM_b9cc52f4c8_8.1.zip"
    }
+  },
+  {
+   "V10.3.3.0.ODACNXM": {
+    "file": "miui_HM5_V10.3.3.0.ODACNXM_c9b69061c6_8.1.zip",
+    "download": "http://bigota.d.miui.com/V10.3.3.0.ODACNXM/miui_HM5_V10.3.3.0.ODACNXM_c9b69061c6_8.1.zip"
+   }
   }
  ]
 }

@@ -82,10 +82,11 @@
     "download": "http://bigota.d.miui.com/V10.3.1.0.PDICNXM/miui_HM6Pro_V10.3.1.0.PDICNXM_b0eee8052e_9.0.zip"
    }
   },
+  "V10.3.2.0.PDICNXM",
   {
-   "V10.3.2.0.PDICNXM": {
-    "file": "miui_HM6Pro_V10.3.2.0.PDICNXM_b77c63103b_9.0.zip",
-    "download": "http://bigota.d.miui.com/V10.3.2.0.PDICNXM/miui_HM6Pro_V10.3.2.0.PDICNXM_b77c63103b_9.0.zip"
+   "V10.3.4.0.PDICNXM": {
+    "file": "miui_HM6Pro_V10.3.4.0.PDICNXM_dbb5b8a730_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.4.0.PDICNXM/miui_HM6Pro_V10.3.4.0.PDICNXM_dbb5b8a730_9.0.zip"
    }
   }
  ]

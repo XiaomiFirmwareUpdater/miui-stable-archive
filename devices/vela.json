@@ -11,6 +11,12 @@
     "file": "miui_VELA_V10.3.2.0.PFECNXM_73aa5a0a7e_9.0.zip",
     "download": "http://bigota.d.miui.com/V10.3.2.0.PFECNXM/miui_VELA_V10.3.2.0.PFECNXM_73aa5a0a7e_9.0.zip"
    }
+  },
+  {
+   "V10.3.3.0.PFECNXM": {
+    "file": "miui_VELA_V10.3.3.0.PFECNXM_daaf34ed56_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.3.0.PFECNXM/miui_VELA_V10.3.3.0.PFECNXM_daaf34ed56_9.0.zip"
+   }
   }
  ]
 }
