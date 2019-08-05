@@ -9037,6 +9037,12 @@
      "file": "miui_PINEINGlobal_V10.2.4.0.PCMINXM_28d86be311_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.2.4.0.PCMINXM/miui_PINEINGlobal_V10.2.4.0.PCMINXM_28d86be311_9.0.zip"
     }
+   },
+   {
+    "V10.2.6.0.PCMINXM": {
+     "file": "miui_PINEINGlobal_V10.2.6.0.PCMINXM_ea58a33c69_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.2.6.0.PCMINXM/miui_PINEINGlobal_V10.2.6.0.PCMINXM_ea58a33c69_9.0.zip"
+    }
    }
   ]
  },
@@ -13862,6 +13868,12 @@
     "V10.3.1.0.OEFMIXM": {
      "file": "miui_HMS2Global_V10.3.1.0.OEFMIXM_d4e3833b2b_8.1.zip",
      "download": "http://bigota.d.miui.com/V10.3.1.0.OEFMIXM/miui_HMS2Global_V10.3.1.0.OEFMIXM_d4e3833b2b_8.1.zip"
+    }
+   },
+   {
+    "V10.3.3.0.PEFMIXM": {
+     "file": "miui_HMS2Global_V10.3.3.0.PEFMIXM_340dd43b5c_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.3.3.0.PEFMIXM/miui_HMS2Global_V10.3.3.0.PEFMIXM_340dd43b5c_9.0.zip"
     }
    }
   ]
