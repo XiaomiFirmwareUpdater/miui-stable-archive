@@ -171,7 +171,13 @@
      "download": "http://bigota.d.miui.com/V10.3.1.0.PEMCNXM/miui_ANDROMEDA_V10.3.1.0.PEMCNXM_03f8293046_9.0.zip"
     }
    },
-   "V10.3.16.0.PEMCNXM"
+   "V10.3.16.0.PEMCNXM",
+   {
+    "V10.3.17.0.PEMCNXM": {
+     "file": "miui_ANDROMEDA_V10.3.17.0.PEMCNXM_81ee83fc00_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.3.17.0.PEMCNXM/miui_ANDROMEDA_V10.3.17.0.PEMCNXM_81ee83fc00_9.0.zip"
+    }
+   }
   ]
  },
  {
@@ -218,6 +224,12 @@
     "V10.3.18.0.PEMMIXM": {
      "file": "miui_ANDROMEDAGlobal_V10.3.18.0.PEMMIXM_716941ca82_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.18.0.PEMMIXM/miui_ANDROMEDAGlobal_V10.3.18.0.PEMMIXM_716941ca82_9.0.zip"
+    }
+   },
+   {
+    "V10.3.19.0.PEMMIXM": {
+     "file": "miui_ANDROMEDAGlobal_V10.3.19.0.PEMMIXM_be9a3f277a_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.3.19.0.PEMMIXM/miui_ANDROMEDAGlobal_V10.3.19.0.PEMMIXM_be9a3f277a_9.0.zip"
     }
    }
   ]
@@ -925,6 +937,12 @@
     "V10.3.4.0.OCBMIXM": {
      "file": "miui_HM6AGlobal_V10.3.4.0.OCBMIXM_7cfaedde66_8.1.zip",
      "download": "http://bigota.d.miui.com/V10.3.4.0.OCBMIXM/miui_HM6AGlobal_V10.3.4.0.OCBMIXM_7cfaedde66_8.1.zip"
+    }
+   },
+   {
+    "V10.4.1.0.PCBMIXM": {
+     "file": "miui_HM6AGlobal_V10.4.1.0.PCBMIXM_cfa49fc044_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.4.1.0.PCBMIXM/miui_HM6AGlobal_V10.4.1.0.PCBMIXM_cfa49fc044_9.0.zip"
     }
    }
   ]
@@ -2057,6 +2075,12 @@
      "file": "miui_HM6Global_V10.3.4.0.OCGMIXM_a2fe89ff0f_8.1.zip",
      "download": "http://bigota.d.miui.com/V10.3.4.0.OCGMIXM/miui_HM6Global_V10.3.4.0.OCGMIXM_a2fe89ff0f_8.1.zip"
     }
+   },
+   {
+    "V10.4.1.0.PCGMIXM": {
+     "file": "miui_HM6Global_V10.4.1.0.PCGMIXM_ab7f048a5d_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.4.1.0.PCGMIXM/miui_HM6Global_V10.4.1.0.PCGMIXM_ab7f048a5d_9.0.zip"
+    }
    }
   ]
  },
@@ -2359,6 +2383,12 @@
     "V10.3.12.0.PFJCNXM": {
      "file": "miui_DAVINCI_V10.3.12.0.PFJCNXM_54a3ff575a_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.12.0.PFJCNXM/miui_DAVINCI_V10.3.12.0.PFJCNXM_54a3ff575a_9.0.zip"
+    }
+   },
+   {
+    "V10.3.14.0.PFJCNXM": {
+     "file": "miui_DAVINCI_V10.3.14.0.PFJCNXM_f944c0a4bf_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.3.14.0.PFJCNXM/miui_DAVINCI_V10.3.14.0.PFJCNXM_f944c0a4bf_9.0.zip"
     }
    }
   ]
@@ -2898,7 +2928,13 @@
      "download": "http://bigota.d.miui.com/V10.3.3.0.PEAMIXM/miui_MI8Global_V10.3.3.0.PEAMIXM_7e838f24e4_9.0.zip"
     }
    },
-   "V10.3.1.0.PEAMIHG"
+   "V10.3.1.0.PEAMIHG",
+   {
+    "V10.3.4.0.PEAMIXM": {
+     "file": "miui_MI8Global_V10.3.4.0.PEAMIXM_51a7ff309d_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.3.4.0.PEAMIXM/miui_MI8Global_V10.3.4.0.PEAMIXM_51a7ff309d_9.0.zip"
+    }
+   }
   ]
  },
  {
@@ -2979,6 +3015,12 @@
     "V10.3.4.0.PECMIXM": {
      "file": "miui_MI8UDGlobal_V10.3.4.0.PECMIXM_d747a3f050_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.4.0.PECMIXM/miui_MI8UDGlobal_V10.3.4.0.PECMIXM_d747a3f050_9.0.zip"
+    }
+   },
+   {
+    "V10.3.5.0.PECMIXM": {
+     "file": "miui_MI8UDGlobal_V10.3.5.0.PECMIXM_6f56abd7d3_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.3.5.0.PECMIXM/miui_MI8UDGlobal_V10.3.5.0.PECMIXM_6f56abd7d3_9.0.zip"
     }
    }
   ]
@@ -8691,12 +8733,7 @@
     }
    },
    "V10.3.3.0.PFLCNXM",
-   {
-    "V10.3.4.0.PFLCNXM": {
-     "file": "miui_ONCLITE_V10.3.4.0.PFLCNXM_3d87859c49_9.0.zip",
-     "download": "http://bigota.d.miui.com/V10.3.4.0.PFLCNXM/miui_ONCLITE_V10.3.4.0.PFLCNXM_3d87859c49_9.0.zip"
-    }
-   }
+   "V10.3.4.0.PFLCNXM"
   ]
  },
  {
@@ -9065,7 +9102,13 @@
      "download": "http://bigota.d.miui.com/V10.2.4.0.PCMEUXM/miui_PINEEEAGlobal_V10.2.4.0.PCMEUXM_8b09990c4d_9.0.zip"
     }
    },
-   "V10.2.6.0.PCMEUTI"
+   "V10.2.6.0.PCMEUTI",
+   {
+    "V10.2.5.0.PCMEUXM": {
+     "file": "miui_PINEEEAGlobal_V10.2.5.0.PCMEUXM_e25fa2a608_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.2.5.0.PCMEUXM/miui_PINEEEAGlobal_V10.2.5.0.PCMEUXM_e25fa2a608_9.0.zip"
+    }
+   }
   ]
  },
  {
