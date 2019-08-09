@@ -8702,6 +8702,12 @@
      "file": "miui_ONCINGlobal_V10.3.3.0.PFFINXM_1f25d5d6c2_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.3.0.PFFINXM/miui_ONCINGlobal_V10.3.3.0.PFFINXM_1f25d5d6c2_9.0.zip"
     }
+   },
+   {
+    "V10.3.6.0.PFFINXM": {
+     "file": "miui_ONCINGlobal_V10.3.6.0.PFFINXM_6fda095cff_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.3.6.0.PFFINXM/miui_ONCINGlobal_V10.3.6.0.PFFINXM_6fda095cff_9.0.zip"
+    }
    }
   ]
  },
@@ -8781,6 +8787,12 @@
     "V10.3.3.0.PFLINXM": {
      "file": "miui_ONCLITEINGlobal_V10.3.3.0.PFLINXM_48e8a7165a_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.3.0.PFLINXM/miui_ONCLITEINGlobal_V10.3.3.0.PFLINXM_48e8a7165a_9.0.zip"
+    }
+   },
+   {
+    "V10.3.6.0.PFLINXM": {
+     "file": "miui_ONCLITEINGlobal_V10.3.6.0.PFLINXM_d17c10fe47_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.3.6.0.PFLINXM/miui_ONCLITEINGlobal_V10.3.6.0.PFLINXM_d17c10fe47_9.0.zip"
     }
    }
   ]
@@ -11864,6 +11876,12 @@
      "file": "miui_MI8Explorer_V10.3.5.0.PEHCNXM_e2a104608b_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.5.0.PEHCNXM/miui_MI8Explorer_V10.3.5.0.PEHCNXM_e2a104608b_9.0.zip"
     }
+   },
+   {
+    "V10.3.6.0.PEHCNXM": {
+     "file": "miui_MI8Explorer_V10.3.6.0.PEHCNXM_acacd77b62_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.3.6.0.PEHCNXM/miui_MI8Explorer_V10.3.6.0.PEHCNXM_acacd77b62_9.0.zip"
+    }
    }
   ]
  },
@@ -13899,7 +13917,12 @@
    },
    "V10.3.2.0.PEFCNXM",
    "V10.3.3.0.PEFCNXM",
-   "V10.3.4.0.PEFCNXM"
+   {
+    "V10.3.4.0.PEFCNXM": {
+     "file": "miui_HMS2_V10.3.4.0.PEFCNXM_4ca909f2d1_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.3.4.0.PEFCNXM/miui_HMS2_V10.3.4.0.PEFCNXM_4ca909f2d1_9.0.zip"
+    }
+   }
   ]
  },
  {
