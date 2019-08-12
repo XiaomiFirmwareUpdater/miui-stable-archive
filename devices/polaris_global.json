@@ -73,6 +73,12 @@
     "file": "miui_MIMIX2SGlobal_V10.3.4.0.PDGMIXM_ec6ec07968_9.0.zip",
     "download": "http://bigota.d.miui.com/V10.3.4.0.PDGMIXM/miui_MIMIX2SGlobal_V10.3.4.0.PDGMIXM_ec6ec07968_9.0.zip"
    }
+  },
+  {
+   "V10.3.5.0.PDGMIXM": {
+    "file": "miui_MIMIX2SGlobal_V10.3.5.0.PDGMIXM_640d089ad0_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.5.0.PDGMIXM/miui_MIMIX2SGlobal_V10.3.5.0.PDGMIXM_640d089ad0_9.0.zip"
+   }
   }
  ]
 }
