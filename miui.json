@@ -4977,7 +4977,8 @@
    "V10.0.7.0.PDIMIXM",
    "V10.0.8.0.PDIMIXM",
    "V10.0.9.0.PDIMIXM",
-   "V10.0.10.0.PDIMIXM"
+   "V10.0.10.0.PDIMIXM",
+   "V10.0.13.0.PDIMIXM"
   ]
  },
  {
@@ -6096,6 +6097,12 @@
      "file": "miui_LAVENDERGlobal_V10.3.6.0.PFGMIXM_8c74282d30_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.6.0.PFGMIXM/miui_LAVENDERGlobal_V10.3.6.0.PFGMIXM_8c74282d30_9.0.zip"
     }
+   },
+   {
+    "V10.3.9.0.PFGMIXM": {
+     "file": "miui_LAVENDERGlobal_V10.3.9.0.PFGMIXM_4c00d1cd45_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.3.9.0.PFGMIXM/miui_LAVENDERGlobal_V10.3.9.0.PFGMIXM_4c00d1cd45_9.0.zip"
+    }
    }
   ]
  },
@@ -6130,6 +6137,12 @@
     "V10.3.6.0.PFGINXM": {
      "file": "miui_LAVENDERINGlobal_V10.3.6.0.PFGINXM_7a59ebf942_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.6.0.PFGINXM/miui_LAVENDERINGlobal_V10.3.6.0.PFGINXM_7a59ebf942_9.0.zip"
+    }
+   },
+   {
+    "V10.3.7.0.PFGINXM": {
+     "file": "miui_LAVENDERINGlobal_V10.3.7.0.PFGINXM_11bd4d8286_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.3.7.0.PFGINXM/miui_LAVENDERINGlobal_V10.3.7.0.PFGINXM_11bd4d8286_9.0.zip"
     }
    }
   ]
@@ -8760,6 +8773,12 @@
     "V10.3.1.0.PFLEUXM": {
      "file": "miui_ONCLITEEEAGlobal_V10.3.1.0.PFLEUXM_415090e79f_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.1.0.PFLEUXM/miui_ONCLITEEEAGlobal_V10.3.1.0.PFLEUXM_415090e79f_9.0.zip"
+    }
+   },
+   {
+    "V10.3.4.0.PFLEUXM": {
+     "file": "miui_ONCLITEEEAGlobal_V10.3.4.0.PFLEUXM_e6aa0ea182_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.3.4.0.PFLEUXM/miui_ONCLITEEEAGlobal_V10.3.4.0.PFLEUXM_e6aa0ea182_9.0.zip"
     }
    }
   ]

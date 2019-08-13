@@ -30,6 +30,12 @@
     "file": "miui_LAVENDERINGlobal_V10.3.6.0.PFGINXM_7a59ebf942_9.0.zip",
     "download": "http://bigota.d.miui.com/V10.3.6.0.PFGINXM/miui_LAVENDERINGlobal_V10.3.6.0.PFGINXM_7a59ebf942_9.0.zip"
    }
+  },
+  {
+   "V10.3.7.0.PFGINXM": {
+    "file": "miui_LAVENDERINGlobal_V10.3.7.0.PFGINXM_11bd4d8286_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.7.0.PFGINXM/miui_LAVENDERINGlobal_V10.3.7.0.PFGINXM_11bd4d8286_9.0.zip"
+   }
   }
  ]
 }

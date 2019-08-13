@@ -24,6 +24,12 @@
     "file": "miui_LAVENDERGlobal_V10.3.6.0.PFGMIXM_8c74282d30_9.0.zip",
     "download": "http://bigota.d.miui.com/V10.3.6.0.PFGMIXM/miui_LAVENDERGlobal_V10.3.6.0.PFGMIXM_8c74282d30_9.0.zip"
    }
+  },
+  {
+   "V10.3.9.0.PFGMIXM": {
+    "file": "miui_LAVENDERGlobal_V10.3.9.0.PFGMIXM_4c00d1cd45_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.9.0.PFGMIXM/miui_LAVENDERGlobal_V10.3.9.0.PFGMIXM_4c00d1cd45_9.0.zip"
+   }
   }
  ]
 }
