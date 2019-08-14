@@ -1874,7 +1874,8 @@
      "file": "miui_CEPHEUS_V10.2.31.0.PFACNXM_89ce642dca_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.2.31.0.PFACNXM/miui_CEPHEUS_V10.2.31.0.PFACNXM_89ce642dca_9.0.zip"
     }
-   }
+   },
+   "V10.2.33.0.PFACNXM"
   ]
  },
  {
@@ -5979,6 +5980,12 @@
      "file": "miui_LAURUS_V10.2.10.0.PFMCNXM_d26ff234f6_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.2.10.0.PFMCNXM/miui_LAURUS_V10.2.10.0.PFMCNXM_d26ff234f6_9.0.zip"
     }
+   },
+   {
+    "V10.2.11.0.PFMCNXM": {
+     "file": "miui_LAURUS_V10.2.11.0.PFMCNXM_07bbd0dfa1_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.2.11.0.PFMCNXM/miui_LAURUS_V10.2.11.0.PFMCNXM_07bbd0dfa1_9.0.zip"
+    }
    }
   ]
  },
@@ -9160,6 +9167,12 @@
     "V10.2.4.0.PCMMIXM": {
      "file": "miui_PINEGlobal_V10.2.4.0.PCMMIXM_80b9b819b4_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.2.4.0.PCMMIXM/miui_PINEGlobal_V10.2.4.0.PCMMIXM_80b9b819b4_9.0.zip"
+    }
+   },
+   {
+    "V10.2.5.0.PCMMIXM": {
+     "file": "miui_PINEGlobal_V10.2.5.0.PCMMIXM_7380681456_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.2.5.0.PCMMIXM/miui_PINEGlobal_V10.2.5.0.PCMMIXM_7380681456_9.0.zip"
     }
    }
   ]
