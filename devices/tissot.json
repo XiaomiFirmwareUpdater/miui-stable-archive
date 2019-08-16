@@ -53,6 +53,12 @@
     "file": "miui_TISSOT_V10.0.11.0.PDHMIXM_b2fc5d0587_9.0.zip",
     "download": "http://bigota.d.miui.com/V10.0.11.0.PDHMIXM/miui_TISSOT_V10.0.11.0.PDHMIXM_b2fc5d0587_9.0.zip"
    }
+  },
+  {
+   "V10.0.12.0.PDHMIXM": {
+    "file": "miui_TISSOT_V10.0.12.0.PDHMIXM_403ef27abe_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.0.12.0.PDHMIXM/miui_TISSOT_V10.0.12.0.PDHMIXM_403ef27abe_9.0.zip"
+   }
   }
  ]
 }
