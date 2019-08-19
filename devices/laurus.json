@@ -18,11 +18,6 @@
     "download": "http://bigota.d.miui.com/V10.2.10.0.PFMCNXM/miui_LAURUS_V10.2.10.0.PFMCNXM_d26ff234f6_9.0.zip"
    }
   },
-  {
-   "V10.2.11.0.PFMCNXM": {
-    "file": "miui_LAURUS_V10.2.11.0.PFMCNXM_07bbd0dfa1_9.0.zip",
-    "download": "http://bigota.d.miui.com/V10.2.11.0.PFMCNXM/miui_LAURUS_V10.2.11.0.PFMCNXM_07bbd0dfa1_9.0.zip"
-   }
-  }
+  "V10.2.11.0.PFMCNXM"
  ]
 }
