@@ -113,6 +113,12 @@
     "download": "http://bigota.d.miui.com/V10.3.1.0.ODECNXM/miui_MIMIX2_V10.3.1.0.ODECNXM_2fecb5a6ab_8.0.zip"
    }
   },
-  "V10.4.1.0.PDECNXM"
+  "V10.4.1.0.PDECNXM",
+  {
+   "V10.4.2.0.PDECNXM": {
+    "file": "miui_MIMIX2_V10.4.2.0.PDECNXM_432d44c7cb_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.4.2.0.PDECNXM/miui_MIMIX2_V10.4.2.0.PDECNXM_432d44c7cb_9.0.zip"
+   }
+  }
  ]
 }

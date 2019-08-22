@@ -89,6 +89,12 @@
     "file": "miui_HMNote5_V10.3.4.0.PEICNXM_f9c9e6de7d_9.0.zip",
     "download": "http://bigota.d.miui.com/V10.3.4.0.PEICNXM/miui_HMNote5_V10.3.4.0.PEICNXM_f9c9e6de7d_9.0.zip"
    }
+  },
+  {
+   "V10.3.5.0.PEICNXM": {
+    "file": "miui_HMNote5_V10.3.5.0.PEICNXM_6990ca4692_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.5.0.PEICNXM/miui_HMNote5_V10.3.5.0.PEICNXM_6990ca4692_9.0.zip"
+   }
   }
  ]
 }
