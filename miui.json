@@ -2473,6 +2473,12 @@
      "file": "miui_DAVINCIININGlobal_V10.3.6.0.PFJINXM_c4a069be9e_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.6.0.PFJINXM/miui_DAVINCIININGlobal_V10.3.6.0.PFJINXM_c4a069be9e_9.0.zip"
     }
+   },
+   {
+    "V10.3.8.0.PFJINXM": {
+     "file": "miui_DAVINCIININGlobal_V10.3.8.0.PFJINXM_207eaee662_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.3.8.0.PFJINXM/miui_DAVINCIININGlobal_V10.3.8.0.PFJINXM_207eaee662_9.0.zip"
+    }
    }
   ]
  },
@@ -8793,7 +8799,13 @@
     }
    },
    "V10.3.3.0.PFLCNXM",
-   "V10.3.4.0.PFLCNXM"
+   "V10.3.4.0.PFLCNXM",
+   {
+    "V10.3.5.0.PFLCNXM": {
+     "file": "miui_ONCLITE_V10.3.5.0.PFLCNXM_3c8caa9eb7_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.3.5.0.PFLCNXM/miui_ONCLITE_V10.3.5.0.PFLCNXM_3c8caa9eb7_9.0.zip"
+    }
+   }
   ]
  },
  {
@@ -9926,7 +9938,8 @@
      "file": "miui_RAPHAEL_V10.3.16.0.PFKCNXM_bd837a758b_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.16.0.PFKCNXM/miui_RAPHAEL_V10.3.16.0.PFKCNXM_bd837a758b_9.0.zip"
     }
-   }
+   },
+   "V10.3.17.0.PFKCNXM"
   ]
  },
  {
@@ -9935,6 +9948,12 @@
     "V10.3.3.0.PFKINXM": {
      "file": "miui_RAPHAELININGlobal_V10.3.3.0.PFKINXM_a837ea77ac_9.0.zip",
      "download": "http://bigota.d.miui.com/V10.3.3.0.PFKINXM/miui_RAPHAELININGlobal_V10.3.3.0.PFKINXM_a837ea77ac_9.0.zip"
+    }
+   },
+   {
+    "V10.3.5.0.PFKINXM": {
+     "file": "miui_RAPHAELININGlobal_V10.3.5.0.PFKINXM_f924323a4b_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.3.5.0.PFKINXM/miui_RAPHAELININGlobal_V10.3.5.0.PFKINXM_f924323a4b_9.0.zip"
     }
    }
   ]
@@ -14057,7 +14076,12 @@
    },
    "V10.3.2.0.PEFCNXM",
    "V10.3.3.0.PEFCNXM",
-   "V10.3.4.0.PEFCNXM"
+   {
+    "V10.3.4.0.PEFCNXM": {
+     "file": "miui_HMS2_V10.3.4.0.PEFCNXM_4ca909f2d1_9.0.zip",
+     "download": "http://bigota.d.miui.com/V10.3.4.0.PEFCNXM/miui_HMS2_V10.3.4.0.PEFCNXM_4ca909f2d1_9.0.zip"
+    }
+   }
   ]
  },
  {

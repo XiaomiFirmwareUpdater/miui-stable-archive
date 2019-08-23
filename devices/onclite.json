@@ -26,6 +26,12 @@
    }
   },
   "V10.3.3.0.PFLCNXM",
-  "V10.3.4.0.PFLCNXM"
+  "V10.3.4.0.PFLCNXM",
+  {
+   "V10.3.5.0.PFLCNXM": {
+    "file": "miui_ONCLITE_V10.3.5.0.PFLCNXM_3c8caa9eb7_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.5.0.PFLCNXM/miui_ONCLITE_V10.3.5.0.PFLCNXM_3c8caa9eb7_9.0.zip"
+   }
+  }
  ]
 }

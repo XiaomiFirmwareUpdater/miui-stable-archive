@@ -44,6 +44,11 @@
   },
   "V10.3.2.0.PEFCNXM",
   "V10.3.3.0.PEFCNXM",
-  "V10.3.4.0.PEFCNXM"
+  {
+   "V10.3.4.0.PEFCNXM": {
+    "file": "miui_HMS2_V10.3.4.0.PEFCNXM_4ca909f2d1_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.4.0.PEFCNXM/miui_HMS2_V10.3.4.0.PEFCNXM_4ca909f2d1_9.0.zip"
+   }
+  }
  ]
 }
