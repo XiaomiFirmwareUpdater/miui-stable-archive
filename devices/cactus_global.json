@@ -77,6 +77,12 @@
     "download": "http://bigota.d.miui.com/V10.3.4.0.OCBMIXM/miui_HM6AGlobal_V10.3.4.0.OCBMIXM_7cfaedde66_8.1.zip"
    }
   },
-  "V10.4.1.0.PCBMIXM"
+  "V10.4.1.0.PCBMIXM",
+  {
+   "V10.3.6.0.OCBMIXM": {
+    "file": "miui_HM6AGlobal_V10.3.6.0.OCBMIXM_48dad8ce05_8.1.zip",
+    "download": "http://bigota.d.miui.com/V10.3.6.0.OCBMIXM/miui_HM6AGlobal_V10.3.6.0.OCBMIXM_48dad8ce05_8.1.zip"
+   }
+  }
  ]
 }
