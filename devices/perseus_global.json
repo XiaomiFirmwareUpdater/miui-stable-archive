@@ -31,6 +31,12 @@
     "file": "miui_MIMIX3Global_V10.3.2.0.PEEMIXM_cf84891114_9.0.zip",
     "download": "http://bigota.d.miui.com/V10.3.2.0.PEEMIXM/miui_MIMIX3Global_V10.3.2.0.PEEMIXM_cf84891114_9.0.zip"
    }
+  },
+  {
+   "V10.3.3.0.PEEMIXM": {
+    "file": "miui_MIMIX3Global_V10.3.3.0.PEEMIXM_c0d3105c25_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.3.0.PEEMIXM/miui_MIMIX3Global_V10.3.3.0.PEEMIXM_c0d3105c25_9.0.zip"
+   }
   }
  ]
 }
