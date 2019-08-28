@@ -19,6 +19,11 @@
     "download": "http://bigota.d.miui.com/V10.3.11.0.PFCCNXM/miui_PYXIS_V10.3.11.0.PFCCNXM_aee08eb6b6_9.0.zip"
    }
   },
-  "V10.3.12.0.PFCCNXM"
+  {
+   "V10.3.12.0.PFCCNXM": {
+    "file": "miui_PYXIS_V10.3.12.0.PFCCNXM_2797ecc4cb_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.12.0.PFCCNXM/miui_PYXIS_V10.3.12.0.PFCCNXM_2797ecc4cb_9.0.zip"
+   }
+  }
  ]
 }
