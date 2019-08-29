@@ -72,6 +72,12 @@
     "file": "miui_MIMAX3_V10.3.2.0.PEDCNXM_1129c09621_9.0.zip",
     "download": "http://bigota.d.miui.com/V10.3.2.0.PEDCNXM/miui_MIMAX3_V10.3.2.0.PEDCNXM_1129c09621_9.0.zip"
    }
+  },
+  {
+   "V10.3.4.0.PEDCNXM": {
+    "file": "miui_MIMAX3_V10.3.4.0.PEDCNXM_ff71181061_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.4.0.PEDCNXM/miui_MIMAX3_V10.3.4.0.PEDCNXM_ff71181061_9.0.zip"
+   }
   }
  ]
 }
