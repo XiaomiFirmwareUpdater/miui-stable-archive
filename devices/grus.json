@@ -31,6 +31,11 @@
     "download": "http://bigota.d.miui.com/V10.3.3.0.PFBCNXM/miui_GRUS_V10.3.3.0.PFBCNXM_3dcc2884fc_9.0.zip"
    }
   },
-  "V10.3.6.0.PFBCNXM"
+  {
+   "V10.3.6.0.PFBCNXM": {
+    "file": "miui_GRUS_V10.3.6.0.PFBCNXM_71316d435a_9.0.zip",
+    "download": "http://bigota.d.miui.com/V10.3.6.0.PFBCNXM/miui_GRUS_V10.3.6.0.PFBCNXM_71316d435a_9.0.zip"
+   }
+  }
  ]
 }
